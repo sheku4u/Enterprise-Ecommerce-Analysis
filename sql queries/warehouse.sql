@@ -1,0 +1,1 @@
+SELECT * from warehouses LIMIT 5;
