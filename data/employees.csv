@@ -1,0 +1,175 @@
+employee_id,employee_name,gender,age,designation,department,region,hire_date,salary,manager_id,years_of_experience,salary_band,employee_tenure
+EMP0031,Dalaja Gupta,Female,37,Sales Manager,Analytics,West,2022-09-27,699318.0,EMP0010,3,Low,3
+EMP0173,Max Dada,Female,23,Regional Manager,Operations,East,2025-03-10,409888.0,EMP0010,1,Low,1
+EMP0085,Aarna Kala,Female,33,Business Analyst,Sales,East,2025-01-01,1095038.0,EMP0003,1,High,1
+EMP0061,Dalbir Sule,Male,60,Warehouse Manager,Analytics,East,2017-08-24,957829.0,EMP0001,8,Medium,8
+EMP0156,Dalaja Chana,Male,40,Inventory Analyst,Inventory,West,2020-12-04,668343.0,EMP0003,5,Low,5
+EMP0046,William Kothari,Female,26,Warehouse Manager,Operations,East,2020-09-18,897661.0,EMP0003,5,Medium,5
+EMP0010,Vinaya Lanka,Female,39,Senior Sales Executive,Analytics,East,2022-08-03,641110.0,,3,Low,3
+EMP0197,Siya Sahni,Male,30,Regional Manager,Inventory,East,2022-08-22,988122.0,EMP0005,3,Medium,3
+EMP0137,Leela Shankar,Female,44,Data Analyst,Inventory,West,2025-10-29,1254926.0,EMP0009,0,High,0
+EMP0188,Frederick Varughese,Male,49,Warehouse Manager,Supply Chain,North,2020-02-24,1577154.0,EMP0010,6,Very High,6
+EMP0171,Vedhika Acharya,Male,39,Inventory Analyst,Inventory,South,2022-02-06,1432913.0,EMP0003,4,High,4
+EMP0127,Turvi Kumar,Male,51,Business Analyst,Sales,East,2025-11-25,829318.0,EMP0009,0,Medium,0
+EMP0016,Triveni Vasa,Female,45,Business Analyst,Operations,South,2019-03-19,1368554.0,EMP0010,7,High,7
+EMP0074,Rachit Shetty,Female,55,Data Analyst,Supply Chain,East,2025-09-24,1228143.0,EMP0003,0,High,0
+EMP0166,Gauri Malhotra,Female,39,Senior Sales Executive,Sales,East,2025-03-01,755647.0,EMP0008,1,Medium,1
+EMP0019,Hema Varma,Male,29,Warehouse Manager,Supply Chain,East,2020-06-11,1644194.0,EMP0009,6,Very High,6
+EMP0094,Meghana Buch,Male,49,Business Analyst,Inventory,West,2020-06-18,1783333.0,EMP0008,6,Very High,6
+EMP0076,Aradhana Dass,Male,39,Data Analyst,Supply Chain,West,2022-06-16,1614386.0,EMP0005,4,Very High,4
+EMP0056,Isaiah Gala,Female,48,Sales Executive,Operations,East,2026-06-07,633862.0,EMP0003,0,Low,0
+EMP0148,Jack Nayak,Male,36,Regional Manager,Analytics,East,2019-07-09,1263789.0,EMP0008,7,High,7
+EMP0110,Azaan Kari,Female,29,Sales Executive,Sales,West,2021-04-13,1331267.0,EMP0005,5,High,5
+EMP0109,Lekha Saran,Female,52,Operations Manager,Analytics,East,2026-05-23,686638.0,EMP0005,0,Low,0
+EMP0143,Manthan Krishnamurthy,Male,26,Data Analyst,Operations,East,2023-11-11,777073.0,EMP0009,2,Medium,2
+EMP0026,Nicholas Rajagopal,Female,35,Operations Executive,Supply Chain,South,2022-08-21,1795162.0,EMP0010,3,Very High,3
+EMP0126,Jai Rout,Female,48,Senior Sales Executive,Analytics,East,2022-03-14,1689538.0,EMP0003,4,Very High,4
+EMP0017,Manthan Randhawa,Male,29,Data Analyst,Operations,South,2017-12-21,1727072.0,EMP0002,8,Very High,8
+EMP0174,Yutika Patil,Male,26,Sales Manager,Analytics,West,2019-08-19,1059250.0,EMP0007,6,Medium,6
+EMP0193,Vaishnavi Bala,Male,27,Sales Manager,Inventory,West,2026-05-01,1688186.0,EMP0003,0,Very High,0
+EMP0070,Nirja Sethi,Male,24,Regional Manager,Operations,West,2022-06-18,1581934.0,EMP0003,4,Very High,4
+EMP0102,Niharika Agarwal,Female,59,Business Analyst,Inventory,West,2018-05-10,1460716.0,EMP0004,8,Very High,8
+EMP0068,Brijesh Palan,Male,54,Data Analyst,Analytics,South,2024-10-17,1681710.0,EMP0008,1,Very High,1
+EMP0105,Urishilla Deo,Male,34,Inventory Analyst,Operations,West,2026-05-02,879861.0,EMP0002,0,Medium,0
+EMP0133,Gauri Gala,Female,54,Sales Manager,Inventory,West,2024-03-23,1311874.0,EMP0008,2,High,2
+EMP0181,Harini Mannan,Female,43,Data Analyst,Analytics,West,2025-08-20,1172393.0,EMP0004,0,High,0
+EMP0083,Teerth Borde,Female,43,Data Analyst,Inventory,South,2023-08-07,1280188.0,EMP0001,2,High,2
+EMP0160,Gauri Dayal,Male,51,Sales Executive,Inventory,East,2025-01-13,1525911.0,EMP0005,1,Very High,1
+EMP0198,Liam Chauhan,Female,49,Senior Sales Executive,Analytics,South,2021-02-03,1097352.0,EMP0001,5,High,5
+EMP0163,Jasmit Vohra,Male,24,Business Analyst,Sales,East,2024-07-24,1333108.0,EMP0002,1,High,1
+EMP0151,Mekhala Kalla,Female,28,Regional Manager,Operations,West,2017-08-11,1499408.0,EMP0007,8,Very High,8
+EMP0097,Vanya Bahri,Female,58,Data Analyst,Supply Chain,West,2017-12-22,1005474.0,EMP0004,8,Medium,8
+EMP0069,Adya Balay,Female,27,Senior Sales Executive,Operations,East,2020-03-03,771105.0,EMP0005,6,Medium,6
+EMP0157,Veer Hans,Female,55,Regional Manager,Supply Chain,East,2024-12-20,645074.0,EMP0003,1,Low,1
+EMP0101,Dev Memon,Female,23,Data Analyst,Sales,East,2026-04-25,764721.0,EMP0008,0,Medium,0
+EMP0039,Oviya Chakrabarti,Male,25,Regional Manager,Supply Chain,North,2019-05-23,957676.0,EMP0005,7,Medium,7
+EMP0025,Tarak Ghose,Male,30,Data Analyst,Analytics,South,2022-12-05,855864.0,EMP0002,3,Medium,3
+EMP0184,Mitesh Muni,Male,59,Inventory Analyst,Supply Chain,East,2025-10-21,1705119.0,EMP0003,0,Very High,0
+EMP0118,Lucky Varty,Female,29,Operations Manager,Supply Chain,South,2026-05-14,1658188.0,EMP0004,0,Very High,0
+EMP0020,Chakradev Lanka,Female,49,Inventory Analyst,Operations,West,2018-08-07,306805.0,EMP0002,7,Low,7
+EMP0136,Aishani Pandey,Male,40,Operations Executive,Inventory,West,2024-01-04,611627.0,EMP0005,2,Low,2
+EMP0140,Jacob Dalal,Female,28,Sales Executive,Operations,North,2025-10-04,1402999.0,EMP0003,0,High,0
+EMP0067,Anmol Vyas,Female,35,Sales Executive,Analytics,East,2024-06-29,1275150.0,EMP0005,2,High,2
+EMP0066,Tanveer Raman,Male,58,Business Analyst,Inventory,West,2022-04-18,1449107.0,EMP0007,4,Very High,4
+EMP0006,Ayushman Kara,Male,27,Inventory Analyst,Analytics,North,2024-12-12,1052834.0,,1,Medium,1
+EMP0147,Avi Chaudhuri,Male,27,Sales Manager,Supply Chain,West,2025-02-13,1599626.0,EMP0003,1,Very High,1
+EMP0057,Ubika Zacharia,Male,52,Senior Sales Executive,Operations,South,2020-04-09,1265325.0,EMP0007,6,High,6
+EMP0098,Laban Mitra,Female,33,Sales Executive,Analytics,South,2016-10-15,1044121.0,EMP0008,9,Medium,9
+EMP0080,Hritik Banik,Male,35,Data Analyst,Analytics,West,2021-11-26,1524903.0,EMP0007,4,Very High,4
+EMP0116,Bahadurjit Puri,Female,60,Sales Executive,Analytics,East,2022-08-31,368450.0,EMP0007,3,Low,3
+EMP0175,Ekavir Tella,Male,50,Operations Executive,Supply Chain,South,2016-09-11,1589972.0,EMP0010,9,Very High,9
+EMP0032,Urmi Sharma,Female,44,Senior Sales Executive,Analytics,West,2022-09-13,1279421.0,EMP0002,3,High,3
+EMP0013,Radha Master,Male,24,Inventory Analyst,Inventory,West,2025-01-29,861493.0,EMP0001,1,Medium,1
+EMP0036,Vasudha Kunda,Male,37,Operations Executive,Operations,West,2021-06-16,1318463.0,EMP0001,5,High,5
+EMP0029,Riya Gokhale,Male,25,Regional Manager,Operations,North,2026-01-18,365877.0,EMP0001,0,Low,0
+EMP0043,Ishaan Krishnamurthy,Female,38,Senior Sales Executive,Operations,East,2025-11-09,800560.0,EMP0007,0,Medium,0
+EMP0099,Wakeeta Kohli,Female,60,Warehouse Manager,Inventory,North,2023-03-19,1383445.0,EMP0006,3,High,3
+EMP0144,Qadim Parmar,Male,28,Senior Sales Executive,Analytics,South,2024-05-10,1755425.0,EMP0007,2,Very High,2
+EMP0052,Ikshita Dixit,Male,29,Business Analyst,Sales,South,2023-11-27,1444185.0,EMP0009,2,Very High,2
+EMP0077,Aashi Raghavan,Female,26,Regional Manager,Inventory,South,2026-07-03,869827.0,EMP0005,0,Medium,0
+EMP0042,Sai Bhatia,Male,58,Regional Manager,Operations,North,2022-12-07,1598937.0,EMP0007,3,Very High,3
+EMP0159,Ubika Som,Female,57,Sales Manager,Inventory,North,2017-11-04,1127482.0,EMP0004,8,High,8
+EMP0079,Frederick Sarraf,Male,48,Sales Manager,Analytics,East,2022-11-28,1437938.0,EMP0004,3,High,3
+EMP0125,Panini Yohannan,Female,44,Data Analyst,Analytics,East,2022-05-01,973307.0,EMP0002,4,Medium,4
+EMP0027,Ekalinga Ray,Female,50,Warehouse Manager,Supply Chain,West,2025-02-14,553764.0,EMP0007,1,Low,1
+EMP0141,Xalak Bansal,Male,48,Data Analyst,Operations,North,2020-11-08,1284593.0,EMP0001,5,High,5
+EMP0179,Omya Tara,Female,46,Operations Manager,Supply Chain,East,2020-02-25,1251510.0,EMP0009,6,High,6
+EMP0123,Isaiah Pandey,Male,39,Senior Sales Executive,Supply Chain,North,2023-03-25,667401.0,EMP0004,3,Low,3
+EMP0003,Noah Brar,Male,36,Senior Sales Executive,Supply Chain,North,2024-01-07,1477016.0,,2,Very High,2
+EMP0078,Umang Shetty,Male,30,Inventory Analyst,Operations,South,2031-05-01,1103283.0,EMP0006,-4,High,-5
+EMP0047,Dayita Wali,Female,55,Sales Manager,Sales,East,2024-01-26,1691226.0,EMP0008,2,Very High,2
+EMP0128,Rajata Samra,Female,54,Inventory Analyst,Sales,West,2024-02-22,1166642.0,EMP0002,2,High,2
+EMP0091,Deepa Mani,Male,41,Warehouse Manager,Supply Chain,West,2017-12-14,1131844.0,EMP0002,8,High,8
+EMP0142,Chameli Sethi,Female,27,Warehouse Manager,Inventory,West,2017-02-16,964086.0,EMP0006,9,Medium,9
+EMP0037,Janya Hayre,Female,25,Data Analyst,Operations,West,2025-07-10,304520.0,EMP0004,0,Low,1
+EMP0120,Girik Banerjee,Female,50,Operations Manager,Sales,West,2031-05-01,1744262.0,EMP0010,-4,Very High,-5
+EMP0062,Tripti Sharaf,Male,46,Business Analyst,Supply Chain,South,2024-08-11,834191.0,EMP0010,1,Medium,1
+EMP0139,Lohit Amble,Female,46,Sales Executive,Analytics,South,2025-04-07,1338779.0,EMP0006,1,High,1
+EMP0112,Omkaar Palan,Female,60,Regional Manager,Supply Chain,South,2023-01-25,1395914.0,EMP0002,3,High,3
+EMP0034,Radha Sagar,Female,30,Regional Manager,Analytics,South,2017-04-24,884151.0,EMP0004,9,Medium,9
+EMP0168,Faqid Banerjee,Female,39,Inventory Analyst,Operations,North,2020-04-15,1253611.0,EMP0001,6,High,6
+EMP0007,Wazir Morar,Female,24,Inventory Analyst,Analytics,North,2022-12-16,1093844.0,,3,Medium,3
+EMP0028,Faris Dugar,Male,43,Regional Manager,Sales,South,2016-09-06,1534048.0,EMP0004,9,Very High,9
+EMP0172,Chanakya Khurana,Male,23,Warehouse Manager,Operations,North,2025-02-17,1051288.0,EMP0003,1,Medium,1
+EMP0145,Sai Kannan,Male,42,Warehouse Manager,Sales,East,2025-12-08,1051752.0,EMP0001,0,Medium,0
+EMP0033,Mohammed Agarwal,Male,47,Sales Executive,Inventory,North,2024-04-30,821470.0,EMP0002,2,Medium,2
+EMP0114,Chaitaly Minhas,Male,28,Operations Manager,Operations,South,2025-08-09,855003.0,EMP0010,0,Medium,0
+EMP0153,Prisha Saini,Male,60,Sales Executive,Analytics,East,2025-05-22,782593.0,EMP0010,1,Medium,1
+EMP0195,Jeevika Balay,Female,29,Senior Sales Executive,Inventory,West,2025-05-10,1405060.0,EMP0006,1,High,1
+EMP0115,Hredhaan Vaidya,Male,33,Senior Sales Executive,Supply Chain,North,2021-04-03,628272.0,EMP0003,5,Low,5
+EMP0063,Vasatika Bobal,Male,55,Sales Executive,Supply Chain,South,2022-04-29,1063827.0,EMP0007,4,Medium,4
+EMP0149,Zinal Shetty,Female,40,Warehouse Manager,Supply Chain,South,2031-05-01,454899.0,EMP0001,-4,Low,-5
+EMP0154,Aarav Vora,Male,34,Operations Manager,Supply Chain,East,2016-07-19,1721375.0,EMP0006,9,Very High,9
+EMP0177,Balhaar Savant,Male,53,Business Analyst,Analytics,North,2017-11-30,469429.0,EMP0007,8,Low,8
+EMP0001,Oeshi Sood,Male,39,Senior Sales Executive,Operations,South,2026-06-15,592632.0,,0,Low,0
+EMP0190,Aryan Krishnamurthy,Male,58,Sales Executive,Analytics,North,2022-10-15,597532.0,EMP0003,3,Low,3
+EMP0071,Gunbir Ghose,Female,58,Senior Sales Executive,Operations,West,2020-02-22,1336784.0,EMP0008,6,High,6
+EMP0164,Harrison Master,Male,56,Senior Sales Executive,Operations,West,2019-04-03,1251359.0,EMP0002,7,High,7
+EMP0065,Jagdish Date,Female,47,Warehouse Manager,Inventory,South,2016-08-07,702317.0,EMP0007,9,Low,9
+EMP0045,Bachittar Rajagopalan,Male,26,Sales Executive,Supply Chain,South,2022-05-22,1360917.0,EMP0008,4,High,4
+EMP0138,Maanas Kar,Male,58,Inventory Analyst,Analytics,South,2017-11-28,1161457.0,EMP0004,8,High,8
+EMP0124,Faraj Sinha,Female,39,Data Analyst,Operations,West,2021-11-11,1631240.0,EMP0009,4,Very High,4
+EMP0024,Chatura Chauhan,Male,37,Warehouse Manager,Supply Chain,North,2025-04-02,479628.0,EMP0004,1,Low,1
+EMP0155,Leena Brahmbhatt,Male,41,Sales Manager,Analytics,North,2031-05-01,1515454.0,EMP0002,-4,Very High,-5
+EMP0082,Tejas Chaudhry,Male,53,Business Analyst,Operations,East,2026-05-31,1214014.0,EMP0007,0,High,0
+EMP0040,Zashil Pradhan,Female,54,Sales Executive,Supply Chain,South,2018-07-09,419285.0,EMP0001,8,Low,8
+EMP0178,Geetika Tara,Male,26,Inventory Analyst,Operations,East,2019-12-19,1609288.0,EMP0010,6,Very High,6
+EMP0048,Hemani Sridhar,Female,29,Senior Sales Executive,Sales,South,2017-07-03,871155.0,EMP0003,9,Medium,9
+EMP0095,Abeer Kapadia,Male,55,Sales Manager,Inventory,West,2020-11-02,1274910.0,EMP0007,5,High,5
+EMP0162,Siya Raval,Male,26,Operations Executive,Analytics,East,2024-03-28,1661553.0,EMP0006,2,Very High,2
+EMP0044,Gaurang Mital,Male,41,Warehouse Manager,Analytics,East,2021-01-29,452133.0,EMP0007,5,Low,5
+EMP0146,Pallavi Raval,Male,37,Inventory Analyst,Supply Chain,West,2017-11-01,1486837.0,EMP0007,8,Very High,8
+EMP0004,Gavin Lad,Female,36,Regional Manager,Analytics,East,2026-02-23,313628.0,,0,Low,0
+EMP0106,Nidra Bir,Female,28,Operations Manager,Operations,East,2019-01-10,777066.0,EMP0009,7,Medium,7
+EMP0054,Krish Dhillon,Female,35,Inventory Analyst,Operations,North,2019-01-19,1041717.0,EMP0001,7,Medium,7
+EMP0134,Champak Padmanabhan,Female,57,Data Analyst,Operations,West,2025-10-04,699738.0,EMP0004,0,Low,0
+EMP0191,Falak Hayre,Male,46,Sales Executive,Analytics,West,2025-04-28,1014910.0,EMP0002,1,Medium,1
+EMP0165,Dalaja Doctor,Female,59,Inventory Analyst,Operations,West,2024-08-01,1673470.0,EMP0009,1,Very High,1
+EMP0196,Hitesh Buch,Male,47,Warehouse Manager,Supply Chain,North,2026-02-03,316120.0,EMP0001,0,Low,0
+EMP0050,Xalak Murty,Male,27,Data Analyst,Analytics,East,2020-01-03,392456.0,EMP0005,6,Low,6
+EMP0081,Aadi Samra,Female,52,Sales Executive,Sales,East,2025-07-18,926236.0,EMP0010,0,Medium,0
+EMP0008,Ekta Bali,Female,45,Senior Sales Executive,Supply Chain,South,2024-06-04,1777594.0,,2,Very High,2
+EMP0111,Omisha Khosla,Male,31,Senior Sales Executive,Operations,East,2020-11-30,478637.0,EMP0010,5,Low,5
+EMP0092,Vasatika Srinivasan,Male,28,Regional Manager,Inventory,North,2018-04-14,1486846.0,EMP0002,8,Very High,8
+EMP0084,Fitan Bera,Male,47,Sales Manager,Supply Chain,North,2022-03-02,476050.0,EMP0010,4,Low,4
+EMP0187,Owen Raju,Male,44,Data Analyst,Supply Chain,East,2026-03-21,540931.0,EMP0004,0,Low,0
+EMP0192,Yagnesh Bhatt,Female,42,Sales Manager,Supply Chain,North,2023-12-16,410328.0,EMP0006,2,Low,2
+EMP0090,Jackson Rao,Female,45,Regional Manager,Operations,North,2019-12-12,643441.0,EMP0008,6,Low,6
+EMP0009,Utkarsh Subramanian,Male,36,Senior Sales Executive,Inventory,North,2022-07-27,788197.0,,3,Medium,3
+EMP0014,Avni Setty,Female,35,Senior Sales Executive,Analytics,West,2021-05-25,1648158.0,EMP0004,5,Very High,5
+EMP0060,Bhavani Varghese,Male,29,Operations Executive,Inventory,South,2021-08-29,1517584.0,EMP0006,4,Very High,4
+EMP0182,Kashish Devan,Female,42,Senior Sales Executive,Inventory,East,2025-11-04,620107.0,EMP0006,0,Low,0
+EMP0132,Girish Koshy,Male,29,Business Analyst,Analytics,North,2022-11-16,1658345.0,EMP0002,3,Very High,3
+EMP0018,Ati Pau,Male,46,Business Analyst,Analytics,West,2019-06-18,1409633.0,EMP0010,7,High,7
+EMP0167,Ekiya Iyengar,Male,45,Data Analyst,Sales,East,2020-11-06,1441827.0,EMP0008,5,High,5
+EMP0073,Arunima Dalal,Female,25,Sales Manager,Supply Chain,South,2024-07-05,554507.0,EMP0009,2,Low,2
+EMP0186,Bimala Wason,Male,58,Warehouse Manager,Supply Chain,South,2021-10-10,624492.0,EMP0006,4,Low,4
+EMP0135,Mugdha Bera,Male,26,Operations Manager,Inventory,West,2016-11-04,1012770.0,EMP0009,9,Medium,9
+EMP0064,Ira Shroff,Female,42,Business Analyst,Sales,East,2016-12-05,1363512.0,EMP0002,9,High,9
+EMP0108,Anvi Sem,Female,30,Sales Executive,Analytics,North,2022-02-20,325722.0,EMP0001,4,Low,4
+EMP0051,Aashi Bala,Male,38,Sales Executive,Operations,West,2018-11-10,1456957.0,EMP0006,7,Very High,7
+EMP0170,Ekavir Om,Male,57,Operations Manager,Operations,South,2017-06-30,788633.0,EMP0004,9,Medium,9
+EMP0049,Lipika Divan,Male,43,Warehouse Manager,Operations,East,2018-05-17,1359919.0,EMP0010,8,High,8
+EMP0089,Harshil Ghosh,Male,30,Operations Manager,Analytics,North,2025-08-06,1482729.0,EMP0003,0,Very High,0
+EMP0022,Yatan Sankaran,Male,31,Operations Executive,Inventory,South,2019-05-20,1431159.0,EMP0010,7,High,7
+EMP0058,Siya Badal,Male,36,Inventory Analyst,Sales,South,2023-03-08,1135643.0,EMP0005,3,High,3
+EMP0161,Bachittar Khatri,Male,36,Business Analyst,Analytics,North,2018-05-11,1599283.0,EMP0006,8,Very High,8
+EMP0130,Bachittar Rana,Male,40,Warehouse Manager,Analytics,West,2016-07-19,554648.0,EMP0009,9,Low,9
+EMP0038,Ishanvi Srinivas,Female,40,Business Analyst,Analytics,West,2024-10-08,624632.0,EMP0005,1,Low,1
+EMP0158,Yatan Bose,Female,43,Warehouse Manager,Sales,West,2017-01-14,457914.0,EMP0008,9,Low,9
+EMP0002,Vasudha Sood,Male,59,Senior Sales Executive,Analytics,North,2024-05-21,362489.0,,2,Low,2
+EMP0053,Rajata Choudhury,Male,49,Sales Executive,Operations,North,2018-06-09,946464.0,EMP0006,8,Medium,8
+EMP0131,Samarth Jha,Male,32,Sales Executive,Inventory,North,2024-07-13,1458155.0,EMP0010,1,Very High,1
+EMP0152,Ranbir Venkataraman,Female,40,Inventory Analyst,Sales,West,2024-08-02,875627.0,EMP0010,1,Medium,1
+EMP0104,Wridesh Sachar,Female,38,Data Analyst,Operations,North,2023-07-01,703878.0,EMP0005,3,Low,3
+EMP0117,Tamanna Ganesan,Female,51,Regional Manager,Sales,South,2016-11-14,854811.0,EMP0005,9,Medium,9
+EMP0088,Yug Issac,Male,23,Regional Manager,Operations,South,2019-06-19,342739.0,EMP0002,7,Low,7
+EMP0075,Rayaan Ramachandran,Female,57,Operations Manager,Analytics,South,2018-03-31,1295464.0,EMP0009,8,High,8
+EMP0122,Om Devan,Male,49,Senior Sales Executive,Inventory,East,2025-10-27,354242.0,EMP0010,0,Low,0
+EMP0021,Hemangini Anne,Male,54,Warehouse Manager,Sales,East,2018-04-24,1639974.0,EMP0009,8,Very High,8
+EMP0189,Osha Devi,Male,39,Warehouse Manager,Inventory,East,2021-03-08,1036149.0,EMP0001,5,Medium,5
+EMP0072,Akshay Chand,Male,22,Business Analyst,Sales,West,2019-02-18,758943.0,EMP0004,7,Medium,7
+EMP0107,Anita Dasgupta,Female,22,Inventory Analyst,Supply Chain,South,2025-07-26,875272.0,EMP0003,0,Medium,0
+EMP0015,Raagini Jaggi,Female,30,Data Analyst,Operations,East,2020-10-28,1525965.0,EMP0003,5,Very High,5
+EMP0093,Wakeeta Trivedi,Female,45,Sales Executive,Sales,East,2017-05-25,326533.0,EMP0006,9,Low,9
+EMP0180,Harshil Mane,Female,28,Operations Executive,Sales,South,2017-12-01,1201922.0,EMP0010,8,High,8

@@ -1,0 +1,501 @@
+promotion_id,promotion_name,promotion_type,discount_percentage,status,start_date,end_date
+1,Black Friday Flash Sale,Brand Promotion,15,Expired,2022-05-17,2022-06-03
+2,Black Friday Super Saver,Festival Sale,10,Expired,2021-03-07,2021-03-11
+3,Limited Time Electronics,BOGO,50,Upcoming,2025-01-06,2025-02-19
+4,Holi Flash Sale,BOGO,15,Upcoming,2025-07-16,2025-07-19
+5,Flash Sale Sports,Brand Promotion,10,Upcoming,2025-04-13,2025-05-07
+6,Furniture Weekend Deal,Member Exclusive,5,Expired,2024-05-21,2024-06-09
+7,Festival Mega Offer,Weekend Sale,60,Expired,2024-02-05,2024-02-26
+8,Diwali Beauty Sale,Brand Promotion,25,Expired,2024-09-16,2024-10-03
+9,Year End Super Saver,Flash Sale,30,Expired,2022-07-24,2022-08-25
+10,Monsoon Flash Sale,Seasonal Offer,10,Active,2024-12-08,2025-01-21
+11,Limited Time Fashion,Clearance,35,Expired,2021-12-01,2022-01-02
+12,Black Friday Beauty Sale,BOGO,30,Expired,2022-04-15,2022-04-20
+13,Furniture Bonanza,Member Exclusive,20,Upcoming,2025-11-30,2025-12-23
+14,Back To School Flash Sale,Limited Time,50,Expired,2021-10-13,2021-10-31
+15,Summer Super Saver,Limited Time,15,Expired,2023-01-12,2023-01-29
+16,Independence Day Mega Offer,BOGO,15,Expired,2021-11-10,2021-12-23
+17,Diwali Super Saver,Clearance,50,Expired,2024-05-05,2024-06-06
+18,Festival Exclusive,Brand Promotion,30,Upcoming,2025-03-18,2025-04-07
+19,Office Supplies Price Drop,Flash Sale,50,Expired,2021-01-07,2021-01-26
+20,Beauty Weekend Deal,Limited Time,50,Upcoming,2025-04-11,2025-04-24
+21,New Year Home Sale,Festival Sale,25,Expired,2021-08-18,2021-09-13
+22,New Year Mega Offer,Limited Time,10,Expired,2021-06-25,2021-07-29
+23,Fashion Price Drop,Limited Time,25,Expired,2024-01-31,2024-02-13
+24,Year End Exclusive,BOGO,25,Upcoming,2025-03-27,2025-04-11
+25,Black Friday Exclusive,Festival Sale,20,Expired,2023-07-14,2023-07-24
+26,Home Bonanza,Festival Sale,60,Expired,2024-02-09,2024-02-26
+27,Category Discount Furniture,Brand Promotion,30,Expired,2021-05-19,2021-05-24
+28,Beauty Price Drop,Seasonal Offer,15,Expired,2022-03-15,2022-04-21
+29,Automotive Price Drop,Brand Promotion,20,Upcoming,2025-07-12,2025-08-10
+30,Republic Day Super Saver,Brand Promotion,5,Expired,2023-04-22,2023-05-24
+31,Holi Exclusive,Flash Sale,35,Expired,2023-07-08,2023-07-19
+32,Summer Mega Offer,Category Discount,10,Expired,2023-06-27,2023-08-04
+33,Brand Promotion Electronics,Member Exclusive,40,Expired,2021-12-07,2022-01-05
+34,Office Supplies Discount Fest,Clearance,35,Expired,2023-02-16,2023-02-19
+35,Christmas Super Saver,Flash Sale,40,Active,2024-11-27,2025-01-04
+36,Holi Sports Sale,Weekend Sale,5,Expired,2024-04-01,2024-05-08
+37,Electronics Price Drop,Category Discount,15,Expired,2023-10-27,2023-12-02
+38,Beauty Bonanza,BOGO,10,Expired,2021-03-23,2021-05-04
+39,Clearance Home,Clearance,20,Expired,2024-10-03,2024-10-26
+40,Furniture Price Drop,Brand Promotion,10,Expired,2024-06-26,2024-08-04
+41,Festival Flash Sale,Festival Sale,10,Expired,2021-09-29,2021-10-24
+42,Sports Price Drop,Seasonal Offer,25,Upcoming,2025-09-04,2025-10-11
+43,Christmas Flash Sale,Clearance,15,Expired,2024-09-20,2024-09-29
+44,Furniture Discount Fest,Festival Sale,60,Expired,2022-07-12,2022-08-02
+45,Cyber Monday Flash Sale,Category Discount,25,Expired,2023-11-02,2023-12-06
+46,Republic Day Office Supplies Sale,Clearance,15,Expired,2021-01-08,2021-02-01
+47,Valentine Super Saver,Brand Promotion,10,Expired,2024-02-23,2024-02-26
+48,Cyber Monday Fashion Sale,Limited Time,60,Upcoming,2025-09-06,2025-10-02
+49,Valentine Office Supplies Sale,Weekend Sale,5,Expired,2022-09-24,2022-10-20
+50,Holi Super Saver,BOGO,30,Expired,2021-02-20,2021-03-06
+51,Beauty Discount Fest,Category Discount,35,Upcoming,2025-06-01,2025-06-10
+52,Festival Sale Automotive,Clearance,30,Upcoming,2025-07-31,2025-09-01
+53,Year End Beauty Sale,Weekend Sale,35,Expired,2024-09-13,2024-09-28
+54,Office Supplies Weekend Deal,Flash Sale,25,Expired,2021-02-26,2021-03-08
+55,Diwali Mega Offer,Weekend Sale,30,Expired,2024-05-06,2024-06-05
+56,New Year Super Saver,Seasonal Offer,30,Expired,2021-05-24,2021-07-08
+57,Monsoon Exclusive,Weekend Sale,35,Expired,2022-09-26,2022-11-10
+58,Sports Discount Fest,Flash Sale,35,Expired,2022-01-28,2022-02-26
+59,Diwali Exclusive,Clearance,25,Upcoming,2025-09-04,2025-09-07
+60,Office Supplies Bonanza,Member Exclusive,40,Expired,2024-09-02,2024-09-25
+61,Brand Promotion Home,Festival Sale,20,Expired,2024-10-09,2024-10-31
+62,Category Discount Electronics,Member Exclusive,10,Expired,2023-09-01,2023-10-13
+63,Back To School Beauty Sale,Festival Sale,35,Upcoming,2025-03-18,2025-03-27
+64,Valentine Exclusive,Flash Sale,40,Expired,2022-05-26,2022-06-05
+65,Christmas Exclusive,Seasonal Offer,40,Expired,2024-05-04,2024-05-27
+66,Valentine Flash Sale,Limited Time,25,Upcoming,2025-03-20,2025-04-07
+67,Republic Day Flash Sale,Brand Promotion,50,Expired,2022-11-19,2022-12-12
+68,Cyber Monday Mega Offer,Limited Time,30,Expired,2023-04-30,2023-05-29
+69,Category Discount Office Supplies,Seasonal Offer,35,Upcoming,2025-09-02,2025-10-01
+70,Cyber Monday Super Saver,Clearance,30,Expired,2023-09-04,2023-09-07
+71,Member Exclusive Beauty,Category Discount,40,Expired,2022-07-13,2022-08-12
+72,Home Discount Fest,Seasonal Offer,15,Upcoming,2025-09-18,2025-10-20
+73,Electronics Bonanza,Brand Promotion,5,Expired,2024-03-01,2024-04-15
+74,Monsoon Super Saver,Category Discount,40,Expired,2022-06-01,2022-06-09
+75,Weekend Sale Electronics,Category Discount,5,Expired,2024-08-24,2024-08-31
+76,Seasonal Offer Furniture,Flash Sale,30,Expired,2023-08-11,2023-08-30
+77,Diwali Flash Sale,Clearance,5,Expired,2021-08-10,2021-09-19
+78,BOGO Office Supplies,Brand Promotion,20,Expired,2021-06-05,2021-07-15
+79,Back To School Exclusive,BOGO,5,Expired,2024-08-19,2024-09-12
+80,Weekend Sale Sports,Member Exclusive,25,Upcoming,2025-08-29,2025-09-06
+81,Automotive Bonanza,Category Discount,30,Expired,2024-09-30,2024-10-27
+82,Home Price Drop,Weekend Sale,25,Expired,2022-03-11,2022-04-05
+83,Summer Sports Sale,Festival Sale,10,Expired,2023-11-25,2023-12-10
+84,Cyber Monday Exclusive,Member Exclusive,40,Upcoming,2025-04-02,2025-04-20
+85,Independence Day Flash Sale,Clearance,20,Expired,2022-03-30,2022-04-27
+86,Festival Sale Fashion,Seasonal Offer,25,Upcoming,2025-02-21,2025-03-26
+87,Brand Promotion Sports,Flash Sale,30,Expired,2022-08-30,2022-09-16
+88,Electronics Discount Fest,Limited Time,5,Expired,2022-07-16,2022-07-21
+89,Year End Flash Sale,Weekend Sale,40,Expired,2023-08-20,2023-09-22
+90,Sports Bonanza,Festival Sale,10,Expired,2021-05-04,2021-06-15
+91,Black Friday Mega Offer,Limited Time,15,Expired,2021-11-18,2021-12-06
+92,Independence Day Automotive Sale,Member Exclusive,25,Expired,2022-04-20,2022-05-11
+93,Year End Fashion Sale,Seasonal Offer,60,Expired,2021-12-06,2021-12-28
+94,Electronics Weekend Deal,Brand Promotion,5,Expired,2024-05-21,2024-06-09
+95,New Year Exclusive,Flash Sale,25,Expired,2024-08-27,2024-09-27
+96,Home Weekend Deal,Flash Sale,10,Expired,2022-10-20,2022-12-04
+97,Black Friday Office Supplies Sale,Clearance,30,Expired,2023-07-21,2023-07-29
+98,Monsoon Automotive Sale,Flash Sale,50,Expired,2022-02-21,2022-03-13
+99,New Year Flash Sale,BOGO,50,Expired,2024-02-03,2024-02-06
+100,Independence Day Exclusive,Seasonal Offer,20,Expired,2021-10-24,2021-11-20
+101,Summer Flash Sale,Member Exclusive,60,Upcoming,2025-09-12,2025-10-22
+102,Black Friday Fashion Sale,Weekend Sale,60,Expired,2021-09-16,2021-10-21
+103,Year End Mega Offer,Flash Sale,5,Expired,2023-12-14,2024-01-15
+104,Holi Mega Offer,Member Exclusive,10,Expired,2023-06-08,2023-06-17
+105,Valentine Sports Sale,Weekend Sale,25,Expired,2022-10-27,2022-11-02
+106,Flash Sale Office Supplies,Flash Sale,60,Expired,2023-12-24,2024-01-22
+107,Fashion Bonanza,Festival Sale,60,Upcoming,2025-11-19,2025-12-16
+108,Independence Day Super Saver,Festival Sale,10,Upcoming,2025-10-14,2025-11-16
+109,Summer Electronics Sale,Festival Sale,25,Expired,2024-05-26,2024-06-29
+110,Festival Sale Home,Brand Promotion,15,Expired,2024-06-25,2024-07-14
+111,Fashion Weekend Deal,Flash Sale,25,Expired,2023-12-24,2024-01-28
+112,Automotive Weekend Deal,Brand Promotion,40,Upcoming,2025-07-06,2025-07-16
+113,Monsoon Furniture Sale,Member Exclusive,10,Expired,2022-06-26,2022-08-02
+114,Brand Promotion Furniture,BOGO,15,Upcoming,2025-12-23,2026-01-29
+115,Clearance Office Supplies,Festival Sale,10,Expired,2021-09-08,2021-10-10
+116,Seasonal Offer Fashion,Seasonal Offer,20,Expired,2021-05-21,2021-06-28
+117,Valentine Mega Offer,Category Discount,15,Expired,2024-09-15,2024-09-19
+118,New Year Fashion Sale,Brand Promotion,50,Expired,2021-09-17,2021-10-16
+119,Limited Time Automotive,Clearance,50,Expired,2024-06-13,2024-06-18
+120,Fashion Discount Fest,Limited Time,60,Expired,2022-07-18,2022-08-29
+121,Republic Day Exclusive,Limited Time,50,Expired,2021-05-03,2021-06-12
+122,Republic Day Mega Offer,BOGO,20,Upcoming,2025-03-09,2025-04-14
+123,Automotive Discount Fest,Seasonal Offer,30,Expired,2023-01-28,2023-02-19
+124,Category Discount Sports,Category Discount,5,Expired,2023-03-21,2023-05-01
+125,Sports Weekend Deal,BOGO,40,Expired,2021-09-03,2021-09-06
+126,Year End Electronics Sale,Seasonal Offer,30,Expired,2023-07-31,2023-08-07
+127,Back To School Super Saver,Brand Promotion,50,Expired,2024-04-21,2024-05-19
+128,Christmas Sports Sale,Clearance,10,Expired,2022-12-22,2023-01-26
+129,Monsoon Mega Offer,BOGO,50,Expired,2024-06-13,2024-07-24
+130,Category Discount Fashion,Limited Time,40,Active,2024-12-20,2025-01-20
+131,Member Exclusive Home,Brand Promotion,15,Expired,2022-04-09,2022-04-20
+132,Summer Exclusive,Weekend Sale,5,Upcoming,2025-09-07,2025-10-13
+133,Christmas Fashion Sale,Member Exclusive,20,Expired,2023-04-22,2023-05-18
+134,Member Exclusive Sports,Member Exclusive,25,Expired,2023-12-30,2024-01-17
+135,Holi Automotive Sale,Limited Time,35,Expired,2023-04-30,2023-05-06
+136,Cyber Monday Home Sale,Flash Sale,30,Expired,2022-12-23,2023-01-29
+137,New Year Sports Sale,Weekend Sale,5,Upcoming,2025-06-09,2025-06-24
+138,Diwali Office Supplies Sale,Weekend Sale,35,Expired,2021-06-03,2021-07-18
+139,Christmas Mega Offer,Member Exclusive,10,Expired,2021-09-14,2021-10-07
+140,Clearance Furniture,Flash Sale,25,Expired,2024-07-24,2024-08-31
+141,Member Exclusive Automotive,Weekend Sale,15,Expired,2022-11-28,2023-01-08
+142,Festival Office Supplies Sale,Weekend Sale,15,Expired,2021-04-03,2021-04-08
+143,New Year Furniture Sale,Flash Sale,35,Expired,2023-06-23,2023-07-16
+144,Back To School Mega Offer,Limited Time,5,Expired,2024-10-27,2024-11-07
+145,Seasonal Offer Sports,BOGO,35,Expired,2021-12-26,2022-02-06
+146,Festival Super Saver,Flash Sale,15,Expired,2024-10-02,2024-10-11
+147,Independence Day Home Sale,Member Exclusive,20,Expired,2022-06-19,2022-07-16
+148,Brand Promotion Automotive,Brand Promotion,40,Upcoming,2025-01-08,2025-02-17
+149,New Year Automotive Sale,Festival Sale,5,Expired,2023-03-22,2023-04-10
+150,Cyber Monday Beauty Sale,BOGO,50,Expired,2022-09-04,2022-10-06
+151,Festival Sale Office Supplies,Clearance,15,Expired,2023-08-02,2023-08-27
+152,Festival Sale Electronics,Category Discount,60,Expired,2021-05-18,2021-05-27
+153,Independence Day Electronics Sale,Limited Time,20,Expired,2023-04-04,2023-05-05
+154,Summer Fashion Sale,Limited Time,35,Expired,2024-02-26,2024-03-26
+155,BOGO Fashion,Brand Promotion,30,Expired,2022-06-07,2022-06-23
+156,Year End Home Sale,Member Exclusive,10,Expired,2022-03-10,2022-03-25
+157,BOGO Beauty,BOGO,25,Expired,2024-02-05,2024-02-28
+158,Weekend Sale Automotive,Category Discount,35,Expired,2023-01-30,2023-02-22
+159,Black Friday Electronics Sale,Category Discount,5,Upcoming,2025-09-15,2025-09-22
+160,Festival Automotive Sale,Member Exclusive,60,Expired,2024-06-19,2024-08-01
+161,Black Friday Automotive Sale,Category Discount,35,Expired,2023-12-26,2024-02-02
+162,Seasonal Offer Automotive,Brand Promotion,25,Expired,2024-11-28,2024-12-15
+163,Year End Furniture Sale,Member Exclusive,60,Expired,2022-04-16,2022-05-02
+164,BOGO Furniture,Seasonal Offer,30,Upcoming,2025-09-14,2025-09-21
+165,Christmas Office Supplies Sale,Member Exclusive,40,Expired,2024-07-22,2024-08-11
+166,Diwali Home Sale,Brand Promotion,35,Expired,2022-08-21,2022-09-19
+167,Seasonal Offer Home,BOGO,15,Expired,2023-09-09,2023-10-02
+168,Member Exclusive Electronics,BOGO,10,Expired,2023-06-17,2023-07-08
+169,Seasonal Offer Electronics,BOGO,35,Expired,2023-07-10,2023-08-19
+170,Flash Sale Fashion,BOGO,20,Expired,2021-10-27,2021-11-19
+171,Christmas Home Sale,Category Discount,40,Expired,2021-07-23,2021-09-04
+172,Black Friday Furniture Sale,Flash Sale,10,Expired,2022-03-14,2022-04-16
+173,Limited Time Furniture,Weekend Sale,50,Upcoming,2025-07-13,2025-07-25
+174,Category Discount Beauty,Member Exclusive,10,Expired,2021-06-26,2021-07-26
+175,Republic Day Electronics Sale,Limited Time,30,Expired,2021-12-02,2022-01-05
+176,Flash Sale Electronics,BOGO,5,Upcoming,2025-07-06,2025-08-11
+177,Limited Time Beauty,Category Discount,35,Expired,2021-11-05,2021-11-08
+178,Flash Sale Beauty,Brand Promotion,30,Upcoming,2025-08-14,2025-09-11
+179,Diwali Sports Sale,Flash Sale,40,Expired,2021-05-13,2021-05-28
+180,Republic Day Home Sale,Seasonal Offer,15,Expired,2023-08-03,2023-08-09
+181,Back To School Office Supplies Sale,Weekend Sale,15,Expired,2023-02-23,2023-03-25
+182,Holi Beauty Sale,Limited Time,40,Expired,2023-02-23,2023-03-20
+183,Holi Electronics Sale,Weekend Sale,50,Upcoming,2025-07-15,2025-08-17
+184,Festival Sale Sports,Clearance,30,Expired,2024-11-20,2024-11-27
+185,Christmas Furniture Sale,Flash Sale,35,Expired,2023-03-02,2023-04-02
+186,Diwali Automotive Sale,Brand Promotion,35,Expired,2023-01-09,2023-01-12
+187,Monsoon Fashion Sale,Clearance,40,Expired,2022-06-24,2022-07-25
+188,Seasonal Offer Office Supplies,Limited Time,35,Expired,2024-02-08,2024-02-14
+189,Cyber Monday Furniture Sale,Seasonal Offer,15,Expired,2023-03-03,2023-03-09
+190,Festival Sale Beauty,BOGO,25,Expired,2024-10-19,2024-11-04
+191,Valentine Fashion Sale,Clearance,60,Expired,2022-04-04,2022-04-23
+192,Back To School Home Sale,Clearance,25,Expired,2024-09-04,2024-10-08
+193,Weekend Sale Beauty,Weekend Sale,40,Expired,2024-11-06,2024-12-13
+194,Member Exclusive Furniture,Limited Time,35,Expired,2023-10-22,2023-11-01
+195,Clearance Automotive,Flash Sale,60,Upcoming,2025-04-08,2025-04-21
+196,Independence Day Office Supplies Sale,Category Discount,30,Expired,2023-12-30,2024-01-14
+197,Monsoon Beauty Sale,Weekend Sale,20,Expired,2024-07-07,2024-07-25
+198,Holi Fashion Sale,Brand Promotion,15,Expired,2024-04-22,2024-05-27
+199,Christmas Electronics Sale,Category Discount,5,Expired,2024-09-17,2024-09-26
+200,Independence Day Fashion Sale,Limited Time,10,Expired,2022-09-09,2022-10-08
+201,Republic Day Sports Sale,Seasonal Offer,60,Active,2024-12-13,2025-01-18
+202,Republic Day Furniture Sale,Limited Time,25,Expired,2022-12-01,2022-12-26
+203,Festival Home Sale,BOGO,15,Expired,2021-12-03,2022-01-06
+204,Festival Fashion Sale,BOGO,50,Expired,2023-12-23,2023-12-29
+205,Limited Time Home,Clearance,60,Expired,2022-02-16,2022-03-04
+206,Clearance Electronics,Weekend Sale,5,Upcoming,2025-03-24,2025-04-30
+207,Valentine Furniture Sale,Clearance,50,Expired,2023-05-28,2023-06-17
+208,Back To School Automotive Sale,Brand Promotion,30,Expired,2021-03-23,2021-05-06
+209,Diwali Fashion Sale,Seasonal Offer,15,Expired,2022-05-15,2022-05-20
+210,Flash Sale Automotive,Flash Sale,60,Upcoming,2025-08-28,2025-09-26
+211,Back To School Fashion Sale,BOGO,50,Expired,2022-02-19,2022-03-27
+212,BOGO Electronics,Weekend Sale,35,Expired,2024-11-09,2024-12-02
+213,Brand Promotion Fashion,Limited Time,30,Expired,2023-11-08,2023-12-06
+214,Clearance Beauty,Seasonal Offer,20,Expired,2022-04-15,2022-04-30
+215,Republic Day Automotive Sale,Member Exclusive,5,Upcoming,2025-04-15,2025-05-22
+216,BOGO Sports,Category Discount,15,Upcoming,2025-03-17,2025-04-25
+217,Monsoon Sports Sale,Seasonal Offer,30,Expired,2023-04-24,2023-05-04
+218,Category Discount Home,Weekend Sale,35,Expired,2021-08-20,2021-09-07
+219,Independence Day Beauty Sale,Member Exclusive,35,Expired,2024-03-15,2024-04-28
+220,Cyber Monday Office Supplies Sale,Limited Time,25,Upcoming,2025-08-14,2025-09-25
+221,Flash Sale Furniture,Category Discount,50,Expired,2023-10-23,2023-11-24
+222,Republic Day Fashion Sale,Clearance,60,Upcoming,2025-04-11,2025-05-23
+223,Seasonal Offer Beauty,Brand Promotion,30,Expired,2022-04-18,2022-04-22
+224,Category Discount Automotive,Category Discount,35,Expired,2023-11-29,2024-01-05
+225,Back To School Sports Sale,Member Exclusive,15,Expired,2024-11-14,2024-12-20
+226,Valentine Electronics Sale,Seasonal Offer,60,Expired,2021-10-25,2021-10-30
+227,Summer Home Sale,Flash Sale,15,Expired,2021-08-12,2021-09-10
+228,Cyber Monday Sports Sale,Brand Promotion,40,Expired,2021-08-31,2021-09-04
+229,Year End Sports Sale,Member Exclusive,10,Expired,2022-07-11,2022-08-09
+230,Black Friday Sports Sale,Flash Sale,10,Expired,2022-08-11,2022-09-14
+231,Clearance Fashion,Category Discount,50,Expired,2023-09-21,2023-10-05
+232,New Year Electronics Sale,Brand Promotion,50,Expired,2023-04-23,2023-05-02
+233,Clearance Sports,Brand Promotion,60,Expired,2021-03-11,2021-03-15
+234,Year End Automotive Sale,Category Discount,30,Expired,2022-11-26,2022-12-02
+235,New Year Beauty Sale,Clearance,5,Expired,2021-12-19,2022-01-31
+236,Brand Promotion Beauty,Weekend Sale,35,Expired,2023-05-23,2023-06-16
+237,Weekend Sale Fashion,Flash Sale,60,Upcoming,2025-04-15,2025-04-20
+238,Member Exclusive Fashion,Brand Promotion,15,Expired,2024-04-06,2024-04-11
+239,Independence Day Furniture Sale,Clearance,60,Expired,2022-01-03,2022-01-11
+240,BOGO Home,Brand Promotion,20,Upcoming,2025-03-11,2025-04-03
+241,Summer Office Supplies Sale,Member Exclusive,30,Expired,2021-05-10,2021-06-05
+242,Valentine Beauty Sale,Flash Sale,50,Expired,2022-08-24,2022-09-22
+243,Cyber Monday Automotive Sale,Clearance,15,Upcoming,2025-06-09,2025-06-12
+244,Back To School Furniture Sale,Category Discount,35,Upcoming,2025-05-06,2025-06-08
+245,Brand Promotion Office Supplies,Clearance,40,Upcoming,2025-09-13,2025-10-13
+246,BOGO Automotive,Limited Time,25,Expired,2022-12-13,2022-12-20
+247,Independence Day Sports Sale,Member Exclusive,60,Expired,2022-11-06,2022-11-11
+248,Diwali Furniture Sale,Flash Sale,40,Expired,2021-08-22,2021-10-06
+249,Weekend Sale Office Supplies,Festival Sale,35,Expired,2021-11-07,2021-12-13
+250,Member Exclusive Office Supplies,Seasonal Offer,60,Upcoming,2025-12-23,2026-01-29
+251,Black Friday Home Sale,Member Exclusive,10,Upcoming,2025-03-30,2025-05-13
+252,Monsoon Office Supplies Sale,BOGO,30,Expired,2023-10-04,2023-10-08
+253,Weekend Sale Home,Category Discount,30,Expired,2023-07-31,2023-09-10
+254,Festival Electronics Sale,Member Exclusive,50,Expired,2022-07-24,2022-08-22
+255,Summer Furniture Sale,Seasonal Offer,5,Expired,2023-09-10,2023-10-10
+256,Holi Home Sale,Flash Sale,25,Expired,2022-02-12,2022-02-27
+257,Weekend Sale Furniture,Member Exclusive,20,Expired,2023-05-29,2023-06-27
+258,Flash Sale Home,Festival Sale,50,Upcoming,2025-01-03,2025-01-08
+259,Cyber Monday Electronics Sale,Festival Sale,25,Expired,2024-06-16,2024-06-26
+260,Republic Day Beauty Sale,Clearance,50,Expired,2023-02-09,2023-03-22
+261,Year End Office Supplies Sale,Clearance,50,Expired,2024-05-17,2024-05-27
+262,Limited Time Office Supplies,Clearance,10,Expired,2022-09-18,2022-10-31
+263,Festival Furniture Sale,BOGO,5,Expired,2024-06-16,2024-07-01
+264,Monsoon Electronics Sale,Seasonal Offer,35,Expired,2024-10-21,2024-11-14
+265,Diwali Electronics Sale,Festival Sale,15,Expired,2023-11-27,2024-01-01
+266,Valentine Home Sale,Festival Sale,30,Expired,2022-10-15,2022-10-18
+267,Festival Sale Furniture,Limited Time,5,Expired,2021-08-01,2021-09-03
+268,Summer Beauty Sale,Seasonal Offer,50,Expired,2021-02-23,2021-03-10
+269,Holi Furniture Sale,Seasonal Offer,50,Expired,2022-04-11,2022-05-10
+270,Summer Automotive Sale,Seasonal Offer,50,Expired,2024-03-01,2024-04-06
+271,Festival Beauty Sale,Brand Promotion,50,Upcoming,2025-09-28,2025-10-02
+272,Limited Time Sports,Limited Time,30,Upcoming,2025-07-03,2025-08-14
+273,Valentine Automotive Sale,Brand Promotion,35,Expired,2022-03-09,2022-03-31
+274,Christmas Beauty Sale,Festival Sale,5,Expired,2021-10-20,2021-12-02
+275,Back To School Electronics Sale,Brand Promotion,60,Upcoming,2025-07-25,2025-08-21
+276,Festival Sports Sale,Brand Promotion,50,Expired,2024-10-03,2024-11-01
+277,Monsoon Home Sale,BOGO,40,Expired,2023-10-03,2023-11-02
+278,Republic Day Exclusive,Member Exclusive,25,Expired,2022-01-10,2022-01-23
+279,Automotive Bonanza,Weekend Sale,40,Upcoming,2025-12-11,2026-01-12
+280,Holi Office Supplies Sale,BOGO,20,Expired,2021-09-28,2021-10-19
+281,Christmas Automotive Sale,Limited Time,20,Expired,2021-10-22,2021-11-06
+282,New Year Office Supplies Sale,Flash Sale,5,Expired,2022-01-14,2022-01-29
+283,Furniture Bonanza,Clearance,35,Expired,2024-06-21,2024-07-25
+284,New Year Home Sale,Festival Sale,5,Expired,2021-06-24,2021-07-05
+285,Office Supplies Bonanza,Clearance,10,Expired,2022-01-24,2022-03-05
+286,Automotive Price Drop,BOGO,5,Expired,2023-03-09,2023-04-08
+287,Republic Day Mega Offer,Limited Time,30,Expired,2022-09-13,2022-09-18
+288,Electronics Price Drop,BOGO,35,Expired,2022-01-15,2022-02-08
+289,Sports Price Drop,Seasonal Offer,40,Expired,2023-03-30,2023-05-11
+290,Independence Day Flash Sale,Weekend Sale,10,Expired,2024-01-15,2024-01-26
+291,Electronics Weekend Deal,Seasonal Offer,60,Upcoming,2025-01-05,2025-02-16
+292,Sports Discount Fest,Clearance,20,Expired,2021-06-14,2021-06-26
+293,Fashion Discount Fest,Flash Sale,30,Expired,2024-04-28,2024-06-04
+294,Office Supplies Discount Fest,Limited Time,60,Expired,2022-02-09,2022-02-26
+295,Republic Day Mega Offer,BOGO,15,Upcoming,2025-04-18,2025-05-28
+296,Black Friday Flash Sale,Weekend Sale,15,Expired,2022-02-12,2022-02-15
+297,Black Friday Exclusive,BOGO,20,Expired,2021-10-21,2021-11-15
+298,Monsoon Super Saver,Category Discount,35,Expired,2024-02-01,2024-02-14
+299,Fashion Weekend Deal,BOGO,20,Upcoming,2025-12-16,2026-01-11
+300,Fashion Bonanza,Clearance,15,Expired,2023-10-21,2023-11-25
+301,Christmas Furniture Sale,Member Exclusive,30,Expired,2021-10-21,2021-11-21
+302,Weekend Sale Automotive,Clearance,50,Expired,2021-06-07,2021-06-19
+303,Monsoon Super Saver,Festival Sale,60,Expired,2022-11-11,2022-11-15
+304,Back To School Electronics Sale,Weekend Sale,25,Expired,2023-08-18,2023-09-29
+305,Year End Flash Sale,Limited Time,50,Expired,2022-12-22,2023-01-31
+306,Sports Weekend Deal,Brand Promotion,15,Expired,2023-10-10,2023-10-24
+307,Fashion Price Drop,Flash Sale,40,Expired,2023-04-23,2023-05-26
+308,Member Exclusive Furniture,BOGO,10,Expired,2024-05-05,2024-05-23
+309,New Year Automotive Sale,Category Discount,15,Expired,2024-03-13,2024-04-27
+310,Monsoon Exclusive,BOGO,5,Expired,2024-06-15,2024-06-29
+311,Sports Bonanza,BOGO,40,Upcoming,2025-07-07,2025-08-15
+312,Office Supplies Bonanza,BOGO,60,Expired,2022-05-20,2022-06-23
+313,Valentine Super Saver,Limited Time,35,Expired,2022-12-16,2022-12-21
+314,Furniture Discount Fest,Brand Promotion,40,Expired,2021-04-19,2021-05-23
+315,Diwali Flash Sale,Limited Time,40,Expired,2022-01-16,2022-01-30
+316,Fashion Weekend Deal,Member Exclusive,60,Expired,2021-03-07,2021-04-04
+317,Automotive Weekend Deal,Seasonal Offer,60,Expired,2021-04-24,2021-05-23
+318,Member Exclusive Furniture,BOGO,20,Expired,2021-11-24,2021-12-13
+319,Clearance Furniture,Flash Sale,40,Expired,2024-08-14,2024-09-14
+320,Christmas Flash Sale,Member Exclusive,25,Upcoming,2025-04-03,2025-04-25
+321,Sports Discount Fest,Weekend Sale,10,Expired,2024-11-16,2024-12-02
+322,Electronics Weekend Deal,Clearance,35,Expired,2022-02-08,2022-02-12
+323,Electronics Price Drop,Limited Time,30,Expired,2024-01-07,2024-01-22
+324,Cyber Monday Super Saver,Clearance,60,Expired,2024-08-27,2024-09-01
+325,Beauty Bonanza,Member Exclusive,60,Upcoming,2025-12-29,2026-01-11
+326,Back To School Exclusive,Member Exclusive,20,Expired,2021-02-16,2021-02-25
+327,Festival Exclusive,Category Discount,50,Expired,2023-09-30,2023-10-31
+328,Sports Bonanza,Limited Time,30,Expired,2021-10-03,2021-11-04
+329,Office Supplies Bonanza,Limited Time,10,Expired,2024-11-08,2024-11-19
+330,Automotive Bonanza,Limited Time,5,Expired,2024-09-24,2024-10-28
+331,Home Weekend Deal,Category Discount,15,Expired,2022-09-03,2022-10-14
+332,Valentine Super Saver,BOGO,5,Expired,2022-10-01,2022-10-19
+333,Back To School Mega Offer,BOGO,50,Expired,2023-11-01,2023-11-09
+334,Valentine Super Saver,Clearance,30,Expired,2022-03-29,2022-05-04
+335,Home Price Drop,Category Discount,5,Expired,2023-05-14,2023-05-17
+336,Cyber Monday Super Saver,Festival Sale,15,Upcoming,2025-03-06,2025-03-27
+337,Home Discount Fest,Weekend Sale,35,Upcoming,2025-03-06,2025-03-31
+338,Clearance Beauty,Limited Time,40,Expired,2022-12-16,2023-01-21
+339,Automotive Discount Fest,Brand Promotion,40,Upcoming,2025-09-20,2025-10-05
+340,Holi Exclusive,BOGO,50,Expired,2022-03-16,2022-04-21
+341,Cyber Monday Electronics Sale,Limited Time,25,Upcoming,2025-06-24,2025-07-17
+342,Back To School Super Saver,Festival Sale,25,Expired,2021-01-06,2021-01-22
+343,Electronics Price Drop,Festival Sale,10,Upcoming,2025-04-11,2025-04-24
+344,Electronics Bonanza,Clearance,35,Expired,2021-04-29,2021-05-22
+345,Office Supplies Discount Fest,Weekend Sale,5,Expired,2021-08-09,2021-08-18
+346,Fashion Weekend Deal,Category Discount,30,Expired,2021-05-31,2021-06-27
+347,Back To School Flash Sale,Member Exclusive,60,Expired,2023-03-01,2023-03-30
+348,Festival Sale Office Supplies,Seasonal Offer,25,Expired,2021-09-28,2021-11-03
+349,Independence Day Mega Offer,Brand Promotion,35,Upcoming,2025-05-10,2025-06-01
+350,Sports Discount Fest,Brand Promotion,20,Expired,2021-10-10,2021-10-17
+351,Seasonal Offer Fashion,BOGO,60,Expired,2021-12-29,2022-01-07
+352,Home Bonanza,Flash Sale,30,Upcoming,2025-03-16,2025-04-01
+353,Furniture Bonanza,Seasonal Offer,35,Expired,2021-01-14,2021-01-29
+354,Christmas Mega Offer,Category Discount,25,Expired,2023-05-26,2023-07-03
+355,Fashion Weekend Deal,Limited Time,30,Expired,2024-07-07,2024-07-14
+356,Christmas Exclusive,Member Exclusive,15,Expired,2021-07-31,2021-09-09
+357,Republic Day Super Saver,Member Exclusive,60,Expired,2021-06-02,2021-07-01
+358,Valentine Mega Offer,Seasonal Offer,10,Expired,2024-08-02,2024-08-06
+359,Home Price Drop,BOGO,15,Upcoming,2025-02-19,2025-03-24
+360,Weekend Sale Fashion,Category Discount,5,Expired,2022-01-24,2022-02-18
+361,Office Supplies Discount Fest,Weekend Sale,20,Expired,2023-08-19,2023-09-03
+362,Weekend Sale Home,Limited Time,25,Expired,2022-04-09,2022-04-19
+363,Holi Flash Sale,Weekend Sale,30,Expired,2021-04-17,2021-05-25
+364,Office Supplies Bonanza,Brand Promotion,5,Upcoming,2025-10-12,2025-11-08
+365,Sports Weekend Deal,Limited Time,5,Expired,2024-01-19,2024-02-29
+366,Festival Mega Offer,Weekend Sale,30,Expired,2021-04-25,2021-05-10
+367,Back To School Flash Sale,Flash Sale,20,Expired,2021-08-19,2021-09-13
+368,Summer Exclusive,Clearance,25,Expired,2021-08-09,2021-09-12
+369,Furniture Discount Fest,Flash Sale,50,Expired,2024-06-17,2024-06-21
+370,Diwali Super Saver,Seasonal Offer,30,Upcoming,2025-10-05,2025-11-15
+371,Back To School Exclusive,Limited Time,5,Expired,2023-11-22,2023-12-21
+372,Office Supplies Weekend Deal,BOGO,40,Expired,2021-04-03,2021-05-09
+373,Beauty Discount Fest,Flash Sale,5,Upcoming,2025-07-10,2025-07-22
+374,Flash Sale Office Supplies,Limited Time,50,Expired,2022-12-29,2023-02-03
+375,Festival Mega Offer,Festival Sale,30,Expired,2021-07-28,2021-08-25
+376,Weekend Sale Sports,Flash Sale,30,Upcoming,2025-11-27,2026-01-11
+377,Fashion Discount Fest,Member Exclusive,25,Expired,2021-11-23,2022-01-02
+378,Fashion Bonanza,Festival Sale,15,Expired,2023-05-01,2023-05-25
+379,BOGO Sports,Flash Sale,50,Expired,2021-02-13,2021-03-22
+380,Beauty Discount Fest,Seasonal Offer,5,Expired,2022-02-03,2022-02-26
+381,Office Supplies Price Drop,Member Exclusive,30,Upcoming,2025-12-02,2025-12-30
+382,Year End Mega Offer,Seasonal Offer,60,Expired,2024-10-17,2024-11-03
+383,Sports Discount Fest,BOGO,25,Expired,2022-11-25,2023-01-06
+384,Office Supplies Price Drop,Category Discount,50,Upcoming,2025-04-06,2025-04-14
+385,Furniture Bonanza,Seasonal Offer,10,Expired,2024-09-01,2024-09-06
+386,Valentine Automotive Sale,Member Exclusive,50,Expired,2023-06-05,2023-07-11
+387,Year End Sports Sale,Weekend Sale,25,Upcoming,2025-11-05,2025-11-10
+388,Monsoon Exclusive,Limited Time,25,Upcoming,2025-12-11,2026-01-09
+389,Summer Exclusive,Member Exclusive,50,Expired,2023-03-16,2023-04-04
+390,Monsoon Super Saver,Category Discount,50,Upcoming,2025-07-10,2025-08-18
+391,Festival Super Saver,Category Discount,20,Expired,2023-01-13,2023-02-15
+392,Independence Day Super Saver,Festival Sale,50,Expired,2021-04-21,2021-06-03
+393,Holi Exclusive,Category Discount,20,Expired,2024-09-26,2024-10-27
+394,Beauty Price Drop,Brand Promotion,35,Expired,2021-05-21,2021-06-07
+395,Fashion Price Drop,Category Discount,5,Upcoming,2025-08-08,2025-09-08
+396,Republic Day Super Saver,BOGO,60,Expired,2021-12-11,2022-01-06
+397,New Year Flash Sale,BOGO,20,Expired,2023-08-16,2023-08-21
+398,Weekend Sale Furniture,Flash Sale,35,Expired,2022-08-27,2022-09-20
+399,Holi Mega Offer,Limited Time,40,Expired,2022-02-18,2022-03-30
+400,Year End Electronics Sale,Seasonal Offer,15,Expired,2022-02-16,2022-03-14
+401,Holi Mega Offer,Clearance,50,Expired,2021-12-14,2022-01-26
+402,Holi Exclusive,Limited Time,5,Expired,2024-11-12,2024-12-16
+403,Republic Day Super Saver,Member Exclusive,20,Expired,2024-09-13,2024-10-05
+404,Cyber Monday Exclusive,Limited Time,30,Upcoming,2025-06-04,2025-06-09
+405,Furniture Price Drop,Seasonal Offer,10,Expired,2022-06-13,2022-07-07
+406,Electronics Weekend Deal,Member Exclusive,25,Expired,2021-11-27,2021-12-28
+407,Black Friday Flash Sale,BOGO,40,Expired,2024-07-21,2024-08-24
+408,Summer Flash Sale,BOGO,20,Expired,2023-03-03,2023-03-16
+409,Automotive Bonanza,Festival Sale,15,Expired,2024-03-25,2024-04-28
+410,Furniture Price Drop,Clearance,50,Expired,2023-11-29,2024-01-08
+411,Office Supplies Weekend Deal,Limited Time,25,Expired,2022-03-26,2022-04-12
+412,Sports Discount Fest,Flash Sale,15,Expired,2024-07-18,2024-08-11
+413,Festival Super Saver,Category Discount,15,Expired,2023-08-28,2023-10-12
+414,New Year Mega Offer,BOGO,50,Expired,2021-10-06,2021-10-12
+415,Fashion Bonanza,Limited Time,15,Expired,2024-04-04,2024-05-15
+416,Festival Exclusive,Limited Time,15,Expired,2021-04-16,2021-05-24
+417,Seasonal Offer Beauty,Limited Time,15,Expired,2023-04-01,2023-05-14
+418,New Year Super Saver,Weekend Sale,35,Expired,2023-02-27,2023-03-13
+419,Automotive Bonanza,BOGO,5,Expired,2024-02-04,2024-02-26
+420,Electronics Weekend Deal,Seasonal Offer,25,Expired,2021-09-02,2021-10-08
+421,Cyber Monday Super Saver,BOGO,50,Expired,2023-02-14,2023-02-22
+422,Back To School Super Saver,Flash Sale,15,Expired,2021-12-03,2021-12-10
+423,Summer Home Sale,Seasonal Offer,15,Upcoming,2025-09-25,2025-10-13
+424,Back To School Electronics Sale,Seasonal Offer,5,Expired,2022-04-20,2022-05-15
+425,Office Supplies Discount Fest,Flash Sale,10,Upcoming,2025-09-11,2025-10-05
+426,Weekend Sale Furniture,Category Discount,40,Expired,2022-09-28,2022-11-02
+427,Limited Time Automotive,Category Discount,35,Expired,2022-04-23,2022-05-08
+428,Monsoon Exclusive,Flash Sale,40,Expired,2022-07-08,2022-08-05
+429,Sports Discount Fest,Member Exclusive,10,Expired,2023-08-31,2023-09-17
+430,Cyber Monday Exclusive,Festival Sale,30,Expired,2021-02-23,2021-03-27
+431,Christmas Super Saver,Festival Sale,20,Expired,2021-08-16,2021-09-25
+432,Furniture Weekend Deal,Category Discount,40,Expired,2023-02-06,2023-02-13
+433,Electronics Price Drop,Festival Sale,50,Expired,2023-06-16,2023-07-23
+434,New Year Home Sale,Festival Sale,35,Upcoming,2025-08-14,2025-08-27
+435,Year End Sports Sale,Clearance,10,Expired,2024-01-23,2024-02-17
+436,Home Discount Fest,Seasonal Offer,25,Expired,2021-09-01,2021-10-09
+437,Automotive Weekend Deal,Weekend Sale,60,Expired,2023-11-10,2023-11-30
+438,Black Friday Home Sale,Weekend Sale,30,Upcoming,2025-07-18,2025-08-31
+439,Republic Day Exclusive,Flash Sale,40,Expired,2023-09-10,2023-09-26
+440,Cyber Monday Super Saver,Member Exclusive,25,Expired,2024-02-24,2024-03-19
+441,Beauty Bonanza,Limited Time,10,Expired,2024-05-26,2024-06-28
+442,Sports Bonanza,Weekend Sale,30,Expired,2022-02-16,2022-02-20
+443,New Year Flash Sale,Limited Time,15,Expired,2023-12-10,2023-12-17
+444,Sports Bonanza,BOGO,60,Upcoming,2025-01-11,2025-02-16
+445,Sports Price Drop,Limited Time,30,Upcoming,2025-05-24,2025-07-07
+446,Black Friday Flash Sale,Limited Time,35,Expired,2024-04-11,2024-05-07
+447,Beauty Weekend Deal,Festival Sale,20,Expired,2022-07-07,2022-08-13
+448,Back To School Mega Offer,Clearance,25,Expired,2022-07-20,2022-08-08
+449,Back To School Flash Sale,Clearance,30,Expired,2021-09-30,2021-11-03
+450,Automotive Price Drop,Seasonal Offer,25,Upcoming,2025-09-16,2025-09-21
+451,Valentine Sports Sale,Weekend Sale,60,Expired,2024-05-10,2024-05-26
+452,Holi Home Sale,BOGO,25,Expired,2024-08-16,2024-09-05
+453,Flash Sale Automotive,Limited Time,10,Expired,2024-04-30,2024-05-26
+454,Electronics Weekend Deal,Weekend Sale,60,Expired,2023-01-24,2023-02-01
+455,Independence Day Exclusive,Weekend Sale,5,Expired,2022-03-16,2022-04-06
+456,New Year Exclusive,Clearance,60,Expired,2022-05-01,2022-05-18
+457,Category Discount Home,Weekend Sale,35,Expired,2021-05-12,2021-06-04
+458,Valentine Exclusive,Festival Sale,30,Upcoming,2025-09-05,2025-09-22
+459,Electronics Bonanza,Seasonal Offer,35,Expired,2022-01-03,2022-02-16
+460,Valentine Super Saver,Clearance,40,Expired,2022-03-20,2022-04-14
+461,Electronics Price Drop,BOGO,5,Expired,2023-04-28,2023-05-23
+462,Diwali Automotive Sale,Brand Promotion,60,Upcoming,2025-11-14,2025-11-18
+463,New Year Flash Sale,Weekend Sale,20,Expired,2021-03-02,2021-04-02
+464,Diwali Super Saver,Category Discount,5,Expired,2023-09-15,2023-09-30
+465,Independence Day Furniture Sale,Category Discount,50,Expired,2021-05-06,2021-05-24
+466,Furniture Bonanza,Festival Sale,35,Expired,2021-04-24,2021-06-02
+467,Summer Exclusive,Flash Sale,10,Upcoming,2025-09-26,2025-10-05
+468,Summer Electronics Sale,Festival Sale,10,Expired,2023-06-27,2023-07-09
+469,Home Bonanza,Clearance,35,Upcoming,2025-06-29,2025-07-06
+470,Diwali Mega Offer,Seasonal Offer,10,Upcoming,2025-03-25,2025-04-27
+471,Beauty Bonanza,Flash Sale,50,Expired,2021-03-01,2021-03-23
+472,Beauty Weekend Deal,Weekend Sale,30,Expired,2024-05-15,2024-06-29
+473,Festival Sale Sports,Member Exclusive,15,Upcoming,2025-07-31,2025-08-24
+474,Beauty Weekend Deal,Flash Sale,15,Expired,2024-08-29,2024-09-16
+475,Summer Flash Sale,Brand Promotion,35,Expired,2021-12-06,2021-12-20
+476,Back To School Sports Sale,Member Exclusive,30,Expired,2021-01-31,2021-03-12
+477,Sports Weekend Deal,Limited Time,30,Expired,2024-03-01,2024-04-03
+478,Festival Sale Fashion,Flash Sale,35,Expired,2021-06-28,2021-08-12
+479,Electronics Weekend Deal,Category Discount,60,Expired,2024-09-17,2024-09-22
+480,Furniture Price Drop,BOGO,30,Expired,2024-10-12,2024-11-26
+481,New Year Flash Sale,Flash Sale,50,Expired,2021-12-01,2022-01-10
+482,Monsoon Super Saver,Member Exclusive,15,Expired,2021-06-16,2021-07-28
+483,Office Supplies Discount Fest,Seasonal Offer,35,Expired,2023-01-20,2023-02-13
+484,Holi Mega Offer,Flash Sale,25,Expired,2021-02-20,2021-03-22
+485,Limited Time Home,Weekend Sale,20,Expired,2024-04-02,2024-05-09
+486,Sports Bonanza,Weekend Sale,5,Upcoming,2025-07-14,2025-07-31
+487,Sports Price Drop,Clearance,35,Expired,2021-03-25,2021-04-21
+488,Automotive Bonanza,Festival Sale,40,Expired,2022-10-18,2022-11-19
+489,Black Friday Flash Sale,Category Discount,15,Expired,2024-05-05,2024-05-19
+490,Beauty Price Drop,Member Exclusive,5,Expired,2021-05-16,2021-06-30
+491,Clearance Electronics,Member Exclusive,40,Expired,2021-09-02,2021-10-06
+492,BOGO Office Supplies,Category Discount,25,Expired,2022-01-24,2022-01-30
+493,Beauty Price Drop,Clearance,25,Upcoming,2025-02-20,2025-03-04
+494,Diwali Electronics Sale,Weekend Sale,60,Expired,2021-05-09,2021-05-14
+495,Independence Day Flash Sale,Flash Sale,15,Upcoming,2025-02-28,2025-04-13
+496,Home Weekend Deal,Weekend Sale,5,Upcoming,2025-01-24,2025-02-13
+497,Summer Super Saver,Limited Time,20,Upcoming,2025-03-25,2025-04-05
+498,Fashion Price Drop,Clearance,60,Expired,2022-09-21,2022-10-14
+499,Member Exclusive Home,Clearance,50,Expired,2024-05-01,2024-06-06
+500,Flash Sale Electronics,Flash Sale,10,Active,2024-12-05,2025-01-19

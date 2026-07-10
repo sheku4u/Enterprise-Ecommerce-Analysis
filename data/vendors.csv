@@ -1,311 +1,286 @@
 vendor_id,vendor_name,country,rating
-VEND0290,"dean, traders",Japan,4.2
-VEND0010,Meza-Barker Global,Japan,2.9
-VEND0058,"CUNNINGHAM, CORPORATION",Japan,3.5
-VEND0061,Guerra Pvt Ltd,South Korea,2.6
-VEND0026,Palmer-Greene Ltd,Germany,4.6
-VEND0064,Jones-Price Ltd,Germany,2.7
-VEND0093,"Turner, Manufacturing",Germany,3.9
-VEND0185,brandt global,Japan,5.9
-VEND0245,Moore-Johnson Pvt Ltd,Germany,3.2
-VEND0047,Price-Cox Industries,South Korea,4.4
-VEND0076,"Reyes, Corporation",China,3.6
-VEND0164,"Johnson, Pvt Ltd",Vietnam,3.0
-VEND0297,Simon-Mcpherson Ltd,Germany,3.2
-VEND0110,Jenkins Global,Germany,4.2
-VEND0286,"Williams, Manufacturing",Vietnam,4.1
-VEND0291,"Snyder, Solutions",Singapore,2.6
-VEND0006,Smith-Schmidt Ltd,Singapore,3.0
-VEND0156,Ward Manufacturing,South Korea,2.7
-VEND0165,Garrett-Hinton Suppliers,Thailand,2.6
-VEND0169,"Zuniga, Traders",Malaysia,4.5
-VEND0074,Baker-Terry Corporation,Singapore,
-VEND0105,"Anderson, Suppliers",India,4.2
-VEND0138,"Singh, Solutions",South Korea,4.3
-VEND0207,Hoffman-Dickson Pvt Ltd,USA,4.9
-VEND0077,"Lee, Suppliers",China,2.6
-VEND0174,Fowler-Patel Suppliers,Thailand,4.1
-VEND0114,Stone-Ellis Industries,Japan,2.9
-VEND0034,"Thompson, Corporation",USA,3.8
-VEND0276,"Smith, Manufacturing",Japan,
-VEND0252,Marshall-Rodriguez Ltd,Japan,4.9
-VEND0109,Landry-Logan Enterprises,Malaysia,3.0
-VEND0004,Perez Solutions,India,2.6
-VEND0083,"Watson, Traders",Japan,3.6
-VEND0260,Garcia Solutions,Thailand,5.9
-VEND0094,"church, ltd",Malaysia,2.7
-VEND0102,"Watson, Global",China,4.7
-VEND0046,Benjamin-Bates Enterprises,Singapore,4.0
-VEND0018,"Murray, Enterprises",China,4.6
-VEND0198,Aguirre Solutions,Japan,4.6
-VEND0120,Russell-Nelson Global,India,4.7
-VEND0043,Mendez-Franklin Industries,Thailand,2.5
-VEND0025, Oconnor-Ramos Suppliers   ,Germany,4.2
-VEND0180,Thomas Solutions,South Korea,3.9
-VEND0243,Wong-Schultz Traders,Japan,
-VEND0299,Allen-Holmes Traders,China,2.6
-VEND0197,Cantu-Norris Solutions,Japan,4.4
-VEND0227,Buck-Stevens Global,USA,3.7
-VEND0008,Schmitt-Scott Manufacturing,Japan,4.5
-VEND0288,"Williams, Solutions",South Korea,3.3
-VEND0078,Hooper Suppliers,India,4.9
-VEND0115,ODOM-PAYNE TRADERS,Singapore,4.3
-VEND0240, Ellis Corporation   ,China,4.3
-VEND0146,Torres Solutions,South Korea,3.5
-VEND0085,Stevens Enterprises,Germany,0.5
-VEND0182,Williamson-Jones Solutions,Vietnam,4.8
-VEND0231,Anderson-Lewis Solutions,Thailand,3.9
-VEND0153,Robinson-Thomas Traders,Thailand,3.6
-VEND0199,Santiago Traders,India,4.4
-VEND0196,Fox-Williams Traders,South Korea,3.3
-VEND0211,Ward-Prince Corporation,China,4.0
-VEND0225, Fry Manufacturing   ,Malaysia,4.2
-VEND0159,Massey Corporation,Thailand,4.0
-VEND0127,"Dennis, Corporation",Japan,2.9
-VEND0110,Jenkins Global,Germany,4.2
-VEND0248,"Fox, Ltd",Singapore,3.2
-VEND0235," Carter, Corporation   ",Japan,4.2
-VEND0203,Morris-Adams Manufacturing,USA,3.1
-VEND0079,Watkins Corporation,USA,3.5
-VEND0148,"Yoder, Solutions",Vietnam,
-VEND0060,Huffman Traders,China,3.1
-VEND0119,Price Solutions,USA,2.6
-VEND0007,Calhoun Suppliers,Vietnam,3.1
-VEND0183,Burton-Vazquez Manufacturing,India,4.6
-VEND0031,"Coleman, Industries",Germany,4.4
-VEND0023,"Gordon, Suppliers",Germany,2.9
-VEND0263,Gallagher-Castro Manufacturing,China,4.9
-VEND0057,"Fields, Corporation",Singapore,4.4
-VEND0149,Miller-Chan Industries,Malaysia,3.9
-VEND0141,"Li, Manufacturing",Germany,3.1
-VEND0209,Torres-Crawford Enterprises,Malaysia,4.2
-VEND0279,Pierce Traders,China,4.0
-VEND0204,Christian-Rivers Traders,China,3.9
-VEND0145,Bennett-Dorsey Pvt Ltd,Japan,3.8
-VEND0168,Anderson Manufacturing,South Korea,4.9
-VEND0091,"Morales, Pvt Ltd",Malaysia,2.7
-VEND0224,Thomas Traders,Germany,4.4
-VEND0067, GRANT-EDWARDS CORPORATION   ,Singapore,2.8
-VEND0117,Savage Industries,Singapore,2.6
-VEND0173,Harmon Corporation,Japan,4.4
-VEND0251," Hernandez, Traders   ",Thailand,3.4
-VEND0020,"Yoder, Global",USA,3.4
-VEND0147,"Brown, Enterprises",Singapore,2.8
-VEND0080,"Lambert, Traders",Germany,4.7
-VEND0300,"Watkins, Manufacturing",Germany,
-VEND0289,James-Watson Pvt Ltd,USA,3.3
-VEND0073,Smith-Jacobs Global,China,3.1
-VEND0016,"Rodriguez, Manufacturing",South Korea,3.9
-VEND0011,Vaughan-Green Global,China,2.7
-VEND0275,Pollard-Hunter Enterprises,Malaysia,4.4
-VEND0239,Cisneros-Ruiz Traders,Japan,3.3
-VEND0098,Gutierrez Industries,Japan,3.6
-VEND0069,"Shaw, Traders",Vietnam,3.0
-VEND0241,Andersen-Lewis Global,China,4.4
-VEND0038,Bell-Gonzalez Solutions,Malaysia,5.0
-VEND0017,Rivera-Garcia Pvt Ltd,India,4.2
-VEND0056,"House, Suppliers",Malaysia,3.6
-VEND0155,Ellis Industries,China,3.2
-VEND0280,Ramirez Solutions,South Korea,4.0
-VEND0068,Black-Ward Manufacturing,Malaysia,3.7
-VEND0112,Delacruz-Terry Ltd,China,4.1
-VEND0070,Taylor-Hudson Pvt Ltd,Vietnam,3.4
-VEND0032,"Ortega, Suppliers",Japan,0.5
-VEND0184,"Martin, Manufacturing",Vietnam,3.7
-VEND0158,Wells Corporation,USA,2.6
-VEND0238,Miller-Taylor Suppliers,South Korea,3.4
-VEND0125,Garcia Industries,Vietnam,2.6
-VEND0019,,Vietnam,3.2
-VEND0259,Howard Manufacturing,Germany,4.4
-VEND0097,Barr Global,Germany,3.2
-VEND0140,"Valentine, Suppliers",China,3.5
-VEND0133,Mcintyre-Perry Pvt Ltd,Japan,3.4
-VEND0087,"Chavez, Global",India,2.6
-VEND0261,Wilson Enterprises,Malaysia,5.0
-VEND0153,Robinson-Thomas Traders,Thailand,3.6
-VEND0126,Fernandez-Tucker Global,Vietnam,4.5
-VEND0262,"Edwards, Enterprises",Malaysia,4.1
-VEND0205,"WARD, CORPORATION",Thailand,4.2
-VEND0227,Buck-Stevens Global,USA,3.7
-VEND0296,Bernard-Bowman Manufacturing,Thailand,4.1
-VEND0176,Acosta-Woods Enterprises,Germany,3.2
-VEND0194,Hamilton Industries,Thailand,3.0
-VEND0219,"Holland, Solutions",USA,4.3
-VEND0295,Jones-Gardner Ltd,Germany,3.8
-VEND0130,Watson Traders,South Korea,3.3
-VEND0039,Duncan-Reed Suppliers,Japan,4.9
-VEND0247,Owens Suppliers,USA,3.2
-VEND0178,Wu-Davidson Industries,Germany,3.5
-VEND0144,Evans-Todd Pvt Ltd,South Korea,4.1
-VEND0113,Rogers Enterprises,India,2.5
-VEND0177,Lopez Global,Singapore,
-VEND0118,Morrow-Suarez Global,Malaysia,3.9
-VEND0287, Hampton Traders   ,China,0.5
-VEND0281,"RAMIREZ, LTD",China,3.1
-VEND0246,"Sanders, Global",USA,3.3
-VEND0186,"Jones, Solutions",Singapore,
-VEND0234," Mcdonald, Pvt Ltd   ",Japan,3.1
-VEND0003,"Johnston, Pvt Ltd",Singapore,2.7
-VEND0116,"Poole, Suppliers",India,2.8
-VEND0195,"Rice, Enterprises",Vietnam,3.3
-VEND0187,Perez-Roberts Suppliers,Malaysia,4.7
-VEND0121,"Jones, Corporation",Germany,4.2
-VEND0223,Huff Corporation,China,3.2
-VEND0268,Lopez-Weber Traders,Japan,2.6
-VEND0128,"Galloway, Pvt Ltd",Vietnam,
-VEND0075,Baker Solutions,USA,3.2
-VEND0030,"Brown, Solutions",Thailand,2.9
-VEND0084,"Johnson, Suppliers",Thailand,2.9
-VEND0257,Savage-Gonzalez Corporation,China,5.9
-VEND0108,Quinn Pvt Ltd,Singapore,2.9
-VEND0292,"Harvey, Pvt Ltd",South Korea,3.1
-VEND0166,"Andrews, Corporation",China,3.6
-VEND0134,Moore Suppliers,Vietnam,4.2
-VEND0284,"George, Industries",Thailand,3.8
-VEND0229,Cline Manufacturing,Japan,3.9
-VEND0066,Doyle-Hubbard Corporation,Japan,4.2
-VEND0210,Simpson-Flores Solutions,Vietnam,4.9
-VEND0086,Garcia-Banks Manufacturing,Singapore,2.7
-VEND0226,Reed Global,India,3.7
-VEND0160,Gray-Bishop Pvt Ltd,Thailand,3.5
-VEND0013,"Mckinney, Manufacturing",Japan,4.5
-VEND0036,"Moore, Industries",USA,4.5
-VEND0029,"Hill, Global",Germany,4.1
-VEND0171,"Holmes, Suppliers",Thailand,4.7
-VEND0143,Stanley-Browning Suppliers,Germany,3.4
-VEND0255,"MOORE, LTD",USA,2.9
-VEND0132,"Wiggins, Corporation",Vietnam,3.3
-VEND0181,"Schmidt, Solutions",India,3.0
-VEND0052,Vega Manufacturing,China,2.7
-VEND0096,"Young, Enterprises",Germany,4.2
-VEND0220,Leon-Holt Enterprises,Malaysia,4.5
-VEND0179,Baker Industries,Germany,2.7
-VEND0233,"White, Traders",Thailand,4.5
-VEND0042,"Robles, Global",China,3.2
-VEND0090,Cox-Williams Suppliers,China,4.6
-VEND0230,"Patterson, Suppliers",Germany,2.7
-VEND0137,"cummings, enterprises",India,2.8
-VEND0027,Hubbard-Hale Global,Vietnam,3.2
-VEND0010,Meza-Barker Global,Japan,2.9
-VEND0142,"Nichols, Solutions",India,3.8
-VEND0212,Ball Corporation,China,0.5
-VEND0001,Sanders-Sullivan Pvt Ltd,India,4.4
-VEND0278,Warren Enterprises,Singapore,3.8
-VEND0282,Doyle Manufacturing,Malaysia,4.9
-VEND0101,"Anderson, Corporation",Singapore,3.2
-VEND0193,Gonzalez-Burke Ltd,China,4.1
-VEND0266,"Mann, Suppliers",China,2.9
-VEND0104,"jackson, suppliers",Japan,4.0
-VEND0172,"Stevens, Traders",Thailand,3.1
-VEND0099,Barker Pvt Ltd,India,5.9
-VEND0037,Ferguson Solutions,Malaysia,2.7
-VEND0062,Hall Suppliers,Germany,4.0
-VEND0151,BAKER ENTERPRISES,Japan,3.0
-VEND0250,POOLE LTD,Malaysia,3.2
-VEND0214,smith manufacturing,India,
-VEND0256,Hernandez-Mcintyre Manufacturing,Japan,2.7
-VEND0012,Bowman Pvt Ltd,South Korea,4.6
-VEND0197,Cantu-Norris Solutions,Japan,4.4
-VEND0201,"Lee, Pvt Ltd",India,4.4
-VEND0293,"Gonzales, Pvt Ltd",Vietnam,4.7
-VEND0028,pierce-mcintyre corporation,Malaysia,4.7
-VEND0232,"Newman, Corporation",Thailand,4.1
-VEND0005,"Herring, Corporation",Germany,3.8
-VEND0123,Johnson-Woods Solutions,Malaysia,
-VEND0033,Todd-Wright Solutions,Malaysia,3.5
-VEND0221,Jackson Suppliers,Thailand,3.7
-VEND0163,Terry-Obrien Industries,India,4.7
-VEND0222,Kelley Manufacturing,Japan,3.3
-VEND0267,Smith-Martinez Solutions,Thailand,
-VEND0139,Johnson Global,Vietnam,4.0
-VEND0063,Hansen Ltd,China,4.3
-VEND0216,Macdonald Global,India,4.6
-VEND0136,"Bullock, Pvt Ltd",Japan,2.9
-VEND0129,Bailey-Hancock Traders,Germany,3.0
-VEND0204,Christian-Rivers Traders,China,3.9
-VEND0009,"Jimenez, Ltd",USA,4.2
-VEND0071,Cross-Evans Solutions,Thailand,4.7
-VEND0273,"reeves, corporation",USA,4.8
-VEND0065,Miranda-Brown Ltd,South Korea,2.7
-VEND0045,"Baker, Suppliers",China,4.7
-VEND0249,Harmon-Smith Industries,Thailand,2.8
-VEND0157,Tucker-Mueller Corporation,Japan,3.1
-VEND0041,Hayden-Brown Suppliers,Japan,4.4
-VEND0124,"Curry, Corporation",USA,
-VEND0285,Luna-Edwards Traders,Japan,3.0
-VEND0217,Gordon-Lopez Traders,China,3.6
-VEND0154,"Cruz, Corporation",Singapore,3.7
-VEND0024,Gonzales-Sanchez Solutions,Japan,5.0
-VEND0269,"Gonzalez, Enterprises",Japan,4.3
-VEND0111,Vasquez Enterprises,Singapore,3.7
-VEND0082,Mccullough-Morgan Solutions,Japan,4.8
-VEND0237,"Carroll, Global",Vietnam,5.0
-VEND0208,Mcfarland-Nunez Pvt Ltd,Malaysia,2.6
-VEND0213,Jackson-Lewis Enterprises,Malaysia,4.5
-VEND0040,Fisher Ltd,China,4.2
-VEND0254,Stanton Solutions,Thailand,2.7
-VEND0267,Smith-Martinez Solutions,Thailand,
-VEND0270,Ponce-Williams Traders,China,4.2
-VEND0200,"Campbell, Ltd",South Korea,3.1
-VEND0015,"Kemp, Solutions",China,3.9
-VEND0048,"Nelson, Suppliers",Singapore,4.8
-VEND0095,"Blake, Manufacturing",Malaysia,3.8
-VEND0272,"Koch, Corporation",Vietnam,2.8
-VEND0228,Fields-Jacobs Global,Japan,3.4
-VEND0283,"Gonzalez, Enterprises",Malaysia,2.6
-VEND0202,Jones-Green Corporation,Germany,4.6
-VEND0162,Deleon Solutions,Thailand,3.5
-VEND0044,,Singapore,4.4
-VEND0218,Thompson Global,Thailand,0.5
-VEND0191,Johnson Industries,Malaysia,3.8
-VEND0106,Robinson-Mccarthy Suppliers,Japan,4.8
-VEND0054,"Trujillo, Suppliers",USA,2.8
-VEND0002,Webb-Zimmerman Corporation,Germany,2.8
-VEND0050,Chen Pvt Ltd,South Korea,4.7
-VEND0081,Wood-Poole Ltd,USA,3.4
-VEND0206,Snyder Global,USA,4.0
-VEND0035,"Smith, Pvt Ltd",India,4.7
-VEND0264,Mckenzie-Morales Corporation,Germany,3.2
-VEND0092,"Jackson, Corporation",Vietnam,2.8
-VEND0053,Hayes-Moran Traders,China,4.9
-VEND0265,Morris Pvt Ltd,USA,3.1
-VEND0242,,Germany,3.0
-VEND0014,"Olsen, Traders",Singapore,2.8
-VEND0089,"Fowler, Suppliers",USA,2.6
-VEND0274,"Pruitt, Industries",China,2.6
-VEND0167,,Singapore,5.0
-VEND0234," Mcdonald, Pvt Ltd   ",Japan,3.1
-VEND0135,Glass-Winters Suppliers,South Korea,0.5
-VEND0298,"Rodriguez, Industries",Japan,3.6
-VEND0244,Stanley-Watkins Suppliers,Malaysia,3.2
-VEND0055,Zavala-Lawson Traders,Singapore,2.9
-VEND0051,Frost-Martin Enterprises,Germany,2.6
-VEND0175,Fischer Enterprises,Thailand,2.7
-VEND0190,"Bailey, Solutions",USA,
-VEND0006,Smith-Schmidt Ltd,Singapore,3.0
-VEND0188,Blanchard Traders,Germany,3.2
-VEND0170,Simon-Osborn Suppliers,Vietnam,4.6
-VEND0059,"Mata, Global",Thailand,
-VEND0049,"Reyes, Manufacturing",South Korea,3.7
-VEND0236,Fisher-Alvarez Global,Thailand,3.9
-VEND0253,Vega-Mcgee Traders,China,4.6
-VEND0022,Pena-Campbell Pvt Ltd,Malaysia,4.1
-VEND0161,"Jennings, Manufacturing",Germany,4.3
-VEND0277,Stein Traders,Japan,4.2
-VEND0192,Allen-Chambers Solutions,Malaysia,3.9
-VEND0294,,Singapore,3.7
-VEND0258,Alvarado Solutions,Malaysia,4.0
-VEND0150,"Montgomery, Solutions",Singapore,4.6
-VEND0131,"Briggs, Corporation",Germany,2.6
-VEND0152,"Hernandez, Manufacturing",Malaysia,4.1
-VEND0100,Bolton Manufacturing,China,2.7
-VEND0088,Moore-Shepard Traders,Singapore,4.8
-VEND0215,"Molina, Solutions",South Korea,2.7
-VEND0122,Boone Global,Singapore,4.7
-VEND0176,Acosta-Woods Enterprises,Germany,3.2
-VEND0021,Evans Corporation,Japan,4.3
-VEND0189,"Zamora, Traders",India,3.5
-VEND0072,Gibson Ltd,China,2.7
-VEND0107,"Brewer, Pvt Ltd",USA,
-VEND0271,Padilla-Moody Enterprises,Malaysia,4.2
-VEND0103,Herman-Mueller Global,Japan,2.9
+vend0290,"Dean, Traders",Japan,4.2
+vend0010,Meza-Barker Global,Japan,2.9
+vend0058,"Cunningham, Corporation",Japan,3.5
+vend0061,Guerra Pvt Ltd,South Korea,2.6
+vend0026,Palmer-Greene Ltd,Germany,4.6
+vend0064,Jones-Price Ltd,Germany,2.7
+vend0093,"Turner, Manufacturing",Germany,3.9
+vend0245,Moore-Johnson Pvt Ltd,Germany,3.2
+vend0047,Price-Cox Industries,South Korea,4.4
+vend0076,"Reyes, Corporation",China,3.6
+vend0164,"Johnson, Pvt Ltd",Vietnam,3.0
+vend0297,Simon-Mcpherson Ltd,Germany,3.2
+vend0110,Jenkins Global,Germany,4.2
+vend0286,"Williams, Manufacturing",Vietnam,4.1
+vend0291,"Snyder, Solutions",Singapore,2.6
+vend0006,Smith-Schmidt Ltd,Singapore,3.0
+vend0156,Ward Manufacturing,South Korea,2.7
+vend0165,Garrett-Hinton Suppliers,Thailand,2.6
+vend0169,"Zuniga, Traders",Malaysia,4.5
+vend0074,Baker-Terry Corporation,Singapore,3.2
+vend0105,"Anderson, Suppliers",India,4.2
+vend0138,"Singh, Solutions",South Korea,4.3
+vend0207,Hoffman-Dickson Pvt Ltd,Usa,4.9
+vend0077,"Lee, Suppliers",China,2.6
+vend0174,Fowler-Patel Suppliers,Thailand,4.1
+vend0114,Stone-Ellis Industries,Japan,2.9
+vend0034,"Thompson, Corporation",Usa,3.8
+vend0276,"Smith, Manufacturing",Japan,3.8
+vend0252,Marshall-Rodriguez Ltd,Japan,4.9
+vend0109,Landry-Logan Enterprises,Malaysia,3.0
+vend0004,Perez Solutions,India,2.6
+vend0083,"Watson, Traders",Japan,3.6
+vend0094,"Church, Ltd",Malaysia,2.7
+vend0102,"Watson, Global",China,4.7
+vend0046,Benjamin-Bates Enterprises,Singapore,4.0
+vend0018,"Murray, Enterprises",China,4.6
+vend0198,Aguirre Solutions,Japan,4.6
+vend0120,Russell-Nelson Global,India,4.7
+vend0043,Mendez-Franklin Industries,Thailand,2.5
+vend0025,Oconnor-Ramos Suppliers,Germany,4.2
+vend0180,Thomas Solutions,South Korea,3.9
+vend0243,Wong-Schultz Traders,Japan,3.8
+vend0299,Allen-Holmes Traders,China,2.6
+vend0197,Cantu-Norris Solutions,Japan,4.4
+vend0227,Buck-Stevens Global,Usa,3.7
+vend0008,Schmitt-Scott Manufacturing,Japan,4.5
+vend0288,"Williams, Solutions",South Korea,3.3
+vend0078,Hooper Suppliers,India,4.9
+vend0115,Odom-Payne Traders,Singapore,4.3
+vend0240,Ellis Corporation,China,4.3
+vend0146,Torres Solutions,South Korea,3.5
+vend0182,Williamson-Jones Solutions,Vietnam,4.8
+vend0231,Anderson-Lewis Solutions,Thailand,3.9
+vend0153,Robinson-Thomas Traders,Thailand,3.6
+vend0199,Santiago Traders,India,4.4
+vend0196,Fox-Williams Traders,South Korea,3.3
+vend0211,Ward-Prince Corporation,China,4.0
+vend0225,Fry Manufacturing,Malaysia,4.2
+vend0159,Massey Corporation,Thailand,4.0
+vend0127,"Dennis, Corporation",Japan,2.9
+vend0248,"Fox, Ltd",Singapore,3.2
+vend0235,"Carter, Corporation",Japan,4.2
+vend0203,Morris-Adams Manufacturing,Usa,3.1
+vend0079,Watkins Corporation,Usa,3.5
+vend0148,"Yoder, Solutions",Vietnam,3.55
+vend0060,Huffman Traders,China,3.1
+vend0119,Price Solutions,Usa,2.6
+vend0007,Calhoun Suppliers,Vietnam,3.1
+vend0183,Burton-Vazquez Manufacturing,India,4.6
+vend0031,"Coleman, Industries",Germany,4.4
+vend0023,"Gordon, Suppliers",Germany,2.9
+vend0263,Gallagher-Castro Manufacturing,China,4.9
+vend0057,"Fields, Corporation",Singapore,4.4
+vend0149,Miller-Chan Industries,Malaysia,3.9
+vend0141,"Li, Manufacturing",Germany,3.1
+vend0209,Torres-Crawford Enterprises,Malaysia,4.2
+vend0279,Pierce Traders,China,4.0
+vend0204,Christian-Rivers Traders,China,3.9
+vend0145,Bennett-Dorsey Pvt Ltd,Japan,3.8
+vend0168,Anderson Manufacturing,South Korea,4.9
+vend0091,"Morales, Pvt Ltd",Malaysia,2.7
+vend0224,Thomas Traders,Germany,4.4
+vend0067,Grant-Edwards Corporation,Singapore,2.8
+vend0117,Savage Industries,Singapore,2.6
+vend0173,Harmon Corporation,Japan,4.4
+vend0251,"Hernandez, Traders",Thailand,3.4
+vend0020,"Yoder, Global",Usa,3.4
+vend0147,"Brown, Enterprises",Singapore,2.8
+vend0080,"Lambert, Traders",Germany,4.7
+vend0300,"Watkins, Manufacturing",Germany,3.45
+vend0289,James-Watson Pvt Ltd,Usa,3.3
+vend0073,Smith-Jacobs Global,China,3.1
+vend0016,"Rodriguez, Manufacturing",South Korea,3.9
+vend0011,Vaughan-Green Global,China,2.7
+vend0275,Pollard-Hunter Enterprises,Malaysia,4.4
+vend0239,Cisneros-Ruiz Traders,Japan,3.3
+vend0098,Gutierrez Industries,Japan,3.6
+vend0069,"Shaw, Traders",Vietnam,3.0
+vend0241,Andersen-Lewis Global,China,4.4
+vend0038,Bell-Gonzalez Solutions,Malaysia,5.0
+vend0017,Rivera-Garcia Pvt Ltd,India,4.2
+vend0056,"House, Suppliers",Malaysia,3.6
+vend0155,Ellis Industries,China,3.2
+vend0280,Ramirez Solutions,South Korea,4.0
+vend0068,Black-Ward Manufacturing,Malaysia,3.7
+vend0112,Delacruz-Terry Ltd,China,4.1
+vend0070,Taylor-Hudson Pvt Ltd,Vietnam,3.4
+vend0184,"Martin, Manufacturing",Vietnam,3.7
+vend0158,Wells Corporation,Usa,2.6
+vend0238,Miller-Taylor Suppliers,South Korea,3.4
+vend0125,Garcia Industries,Vietnam,2.6
+vend0259,Howard Manufacturing,Germany,4.4
+vend0097,Barr Global,Germany,3.2
+vend0140,"Valentine, Suppliers",China,3.5
+vend0133,Mcintyre-Perry Pvt Ltd,Japan,3.4
+vend0087,"Chavez, Global",India,2.6
+vend0261,Wilson Enterprises,Malaysia,5.0
+vend0126,Fernandez-Tucker Global,Vietnam,4.5
+vend0262,"Edwards, Enterprises",Malaysia,4.1
+vend0205,"Ward, Corporation",Thailand,4.2
+vend0296,Bernard-Bowman Manufacturing,Thailand,4.1
+vend0176,Acosta-Woods Enterprises,Germany,3.2
+vend0194,Hamilton Industries,Thailand,3.0
+vend0219,"Holland, Solutions",Usa,4.3
+vend0295,Jones-Gardner Ltd,Germany,3.8
+vend0130,Watson Traders,South Korea,3.3
+vend0039,Duncan-Reed Suppliers,Japan,4.9
+vend0247,Owens Suppliers,Usa,3.2
+vend0178,Wu-Davidson Industries,Germany,3.5
+vend0144,Evans-Todd Pvt Ltd,South Korea,4.1
+vend0113,Rogers Enterprises,India,2.5
+vend0177,Lopez Global,Singapore,3.2
+vend0118,Morrow-Suarez Global,Malaysia,3.9
+vend0281,"Ramirez, Ltd",China,3.1
+vend0246,"Sanders, Global",Usa,3.3
+vend0186,"Jones, Solutions",Singapore,3.2
+vend0234,"Mcdonald, Pvt Ltd",Japan,3.1
+vend0003,"Johnston, Pvt Ltd",Singapore,2.7
+vend0116,"Poole, Suppliers",India,2.8
+vend0195,"Rice, Enterprises",Vietnam,3.3
+vend0187,Perez-Roberts Suppliers,Malaysia,4.7
+vend0121,"Jones, Corporation",Germany,4.2
+vend0223,Huff Corporation,China,3.2
+vend0268,Lopez-Weber Traders,Japan,2.6
+vend0128,"Galloway, Pvt Ltd",Vietnam,3.55
+vend0075,Baker Solutions,Usa,3.2
+vend0030,"Brown, Solutions",Thailand,2.9
+vend0084,"Johnson, Suppliers",Thailand,2.9
+vend0108,Quinn Pvt Ltd,Singapore,2.9
+vend0292,"Harvey, Pvt Ltd",South Korea,3.1
+vend0166,"Andrews, Corporation",China,3.6
+vend0134,Moore Suppliers,Vietnam,4.2
+vend0284,"George, Industries",Thailand,3.8
+vend0229,Cline Manufacturing,Japan,3.9
+vend0066,Doyle-Hubbard Corporation,Japan,4.2
+vend0210,Simpson-Flores Solutions,Vietnam,4.9
+vend0086,Garcia-Banks Manufacturing,Singapore,2.7
+vend0226,Reed Global,India,3.7
+vend0160,Gray-Bishop Pvt Ltd,Thailand,3.5
+vend0013,"Mckinney, Manufacturing",Japan,4.5
+vend0036,"Moore, Industries",Usa,4.5
+vend0029,"Hill, Global",Germany,4.1
+vend0171,"Holmes, Suppliers",Thailand,4.7
+vend0143,Stanley-Browning Suppliers,Germany,3.4
+vend0255,"Moore, Ltd",Usa,2.9
+vend0132,"Wiggins, Corporation",Vietnam,3.3
+vend0181,"Schmidt, Solutions",India,3.0
+vend0052,Vega Manufacturing,China,2.7
+vend0096,"Young, Enterprises",Germany,4.2
+vend0220,Leon-Holt Enterprises,Malaysia,4.5
+vend0179,Baker Industries,Germany,2.7
+vend0233,"White, Traders",Thailand,4.5
+vend0042,"Robles, Global",China,3.2
+vend0090,Cox-Williams Suppliers,China,4.6
+vend0230,"Patterson, Suppliers",Germany,2.7
+vend0137,"Cummings, Enterprises",India,2.8
+vend0027,Hubbard-Hale Global,Vietnam,3.2
+vend0142,"Nichols, Solutions",India,3.8
+vend0001,Sanders-Sullivan Pvt Ltd,India,4.4
+vend0278,Warren Enterprises,Singapore,3.8
+vend0282,Doyle Manufacturing,Malaysia,4.9
+vend0101,"Anderson, Corporation",Singapore,3.2
+vend0193,Gonzalez-Burke Ltd,China,4.1
+vend0266,"Mann, Suppliers",China,2.9
+vend0104,"Jackson, Suppliers",Japan,4.0
+vend0172,"Stevens, Traders",Thailand,3.1
+vend0037,Ferguson Solutions,Malaysia,2.7
+vend0062,Hall Suppliers,Germany,4.0
+vend0151,Baker Enterprises,Japan,3.0
+vend0250,Poole Ltd,Malaysia,3.2
+vend0214,Smith Manufacturing,India,4.2
+vend0256,Hernandez-Mcintyre Manufacturing,Japan,2.7
+vend0012,Bowman Pvt Ltd,South Korea,4.6
+vend0201,"Lee, Pvt Ltd",India,4.4
+vend0293,"Gonzales, Pvt Ltd",Vietnam,4.7
+vend0028,Pierce-Mcintyre Corporation,Malaysia,4.7
+vend0232,"Newman, Corporation",Thailand,4.1
+vend0005,"Herring, Corporation",Germany,3.8
+vend0123,Johnson-Woods Solutions,Malaysia,3.95
+vend0033,Todd-Wright Solutions,Malaysia,3.5
+vend0221,Jackson Suppliers,Thailand,3.7
+vend0163,Terry-Obrien Industries,India,4.7
+vend0222,Kelley Manufacturing,Japan,3.3
+vend0267,Smith-Martinez Solutions,Thailand,3.6
+vend0139,Johnson Global,Vietnam,4.0
+vend0063,Hansen Ltd,China,4.3
+vend0216,Macdonald Global,India,4.6
+vend0136,"Bullock, Pvt Ltd",Japan,2.9
+vend0129,Bailey-Hancock Traders,Germany,3.0
+vend0009,"Jimenez, Ltd",Usa,4.2
+vend0071,Cross-Evans Solutions,Thailand,4.7
+vend0273,"Reeves, Corporation",Usa,4.8
+vend0065,Miranda-Brown Ltd,South Korea,2.7
+vend0045,"Baker, Suppliers",China,4.7
+vend0249,Harmon-Smith Industries,Thailand,2.8
+vend0157,Tucker-Mueller Corporation,Japan,3.1
+vend0041,Hayden-Brown Suppliers,Japan,4.4
+vend0124,"Curry, Corporation",Usa,3.3499999999999996
+vend0285,Luna-Edwards Traders,Japan,3.0
+vend0217,Gordon-Lopez Traders,China,3.6
+vend0154,"Cruz, Corporation",Singapore,3.7
+vend0024,Gonzales-Sanchez Solutions,Japan,5.0
+vend0269,"Gonzalez, Enterprises",Japan,4.3
+vend0111,Vasquez Enterprises,Singapore,3.7
+vend0082,Mccullough-Morgan Solutions,Japan,4.8
+vend0237,"Carroll, Global",Vietnam,5.0
+vend0208,Mcfarland-Nunez Pvt Ltd,Malaysia,2.6
+vend0213,Jackson-Lewis Enterprises,Malaysia,4.5
+vend0040,Fisher Ltd,China,4.2
+vend0254,Stanton Solutions,Thailand,2.7
+vend0270,Ponce-Williams Traders,China,4.2
+vend0200,"Campbell, Ltd",South Korea,3.1
+vend0015,"Kemp, Solutions",China,3.9
+vend0048,"Nelson, Suppliers",Singapore,4.8
+vend0095,"Blake, Manufacturing",Malaysia,3.8
+vend0272,"Koch, Corporation",Vietnam,2.8
+vend0228,Fields-Jacobs Global,Japan,3.4
+vend0283,"Gonzalez, Enterprises",Malaysia,2.6
+vend0202,Jones-Green Corporation,Germany,4.6
+vend0162,Deleon Solutions,Thailand,3.5
+vend0191,Johnson Industries,Malaysia,3.8
+vend0106,Robinson-Mccarthy Suppliers,Japan,4.8
+vend0054,"Trujillo, Suppliers",Usa,2.8
+vend0002,Webb-Zimmerman Corporation,Germany,2.8
+vend0050,Chen Pvt Ltd,South Korea,4.7
+vend0081,Wood-Poole Ltd,Usa,3.4
+vend0206,Snyder Global,Usa,4.0
+vend0035,"Smith, Pvt Ltd",India,4.7
+vend0264,Mckenzie-Morales Corporation,Germany,3.2
+vend0092,"Jackson, Corporation",Vietnam,2.8
+vend0053,Hayes-Moran Traders,China,4.9
+vend0265,Morris Pvt Ltd,Usa,3.1
+vend0014,"Olsen, Traders",Singapore,2.8
+vend0089,"Fowler, Suppliers",Usa,2.6
+vend0274,"Pruitt, Industries",China,2.6
+vend0298,"Rodriguez, Industries",Japan,3.6
+vend0244,Stanley-Watkins Suppliers,Malaysia,3.2
+vend0055,Zavala-Lawson Traders,Singapore,2.9
+vend0051,Frost-Martin Enterprises,Germany,2.6
+vend0175,Fischer Enterprises,Thailand,2.7
+vend0190,"Bailey, Solutions",Usa,3.3499999999999996
+vend0188,Blanchard Traders,Germany,3.2
+vend0170,Simon-Osborn Suppliers,Vietnam,4.6
+vend0059,"Mata, Global",Thailand,3.6
+vend0049,"Reyes, Manufacturing",South Korea,3.7
+vend0236,Fisher-Alvarez Global,Thailand,3.9
+vend0253,Vega-Mcgee Traders,China,4.6
+vend0022,Pena-Campbell Pvt Ltd,Malaysia,4.1
+vend0161,"Jennings, Manufacturing",Germany,4.3
+vend0277,Stein Traders,Japan,4.2
+vend0192,Allen-Chambers Solutions,Malaysia,3.9
+vend0258,Alvarado Solutions,Malaysia,4.0
+vend0150,"Montgomery, Solutions",Singapore,4.6
+vend0131,"Briggs, Corporation",Germany,2.6
+vend0152,"Hernandez, Manufacturing",Malaysia,4.1
+vend0100,Bolton Manufacturing,China,2.7
+vend0088,Moore-Shepard Traders,Singapore,4.8
+vend0215,"Molina, Solutions",South Korea,2.7
+vend0122,Boone Global,Singapore,4.7
+vend0021,Evans Corporation,Japan,4.3
+vend0189,"Zamora, Traders",India,3.5
+vend0072,Gibson Ltd,China,2.7
+vend0107,"Brewer, Pvt Ltd",Usa,3.3499999999999996
+vend0271,Padilla-Moody Enterprises,Malaysia,4.2
+vend0103,Herman-Mueller Global,Japan,2.9

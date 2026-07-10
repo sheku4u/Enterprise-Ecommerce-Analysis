@@ -2,27 +2,25 @@ warehouse_id,warehouse_name,city,state,region,capacity
 WH032,Faridabad Distribution Center,Faridabad,Haryana,North,18934.0
 WH006,Chennai Distribution Center,Chennai,Tamil Nadu,South,38118.0
 WH033,Jaipur Distribution Center,Jaipur,Rajasthan,West,47129.0
-WH014,   Kanpur Distribution Center   ,Kanpur,Uttar Pradesh,North,22335.0
+WH014,Kanpur Distribution Center,Kanpur,Uttar Pradesh,North,22335.0
 WH020,Coimbatore Distribution Center,Coimbatore,Tamil Nadu,South,10229.0
-WH050,nagpur distribution center,Nagpur,Maharashtra,West,24558.0
+WH050,Nagpur Distribution Center,Nagpur,Maharashtra,West,24558.0
 WH042,Pune Distribution Center,Pune,Maharashtra,West,30009.0
 WH027,Jaipur Distribution Center,Jaipur,Rajasthan,West,22691.0
 WH044,Kolkata Distribution Center,Kolkata,West Bengal,East,49583.0
-WH013,Ludhiana Distribution Center,Ludhiana,Punjab,North,0.0
 WH031,Kolkata Distribution Center,Kolkata,West Bengal,East,18826.0
 WH004,Nagpur Distribution Center,Nagpur,Maharashtra,West,32651.0
 WH034,Jaipur Distribution Center,Jaipur,Rajasthan,West,22359.0
 WH035,Bangalore Distribution Center,Bangalore,Karnataka,South,41789.0
 WH009,Jaipur Distribution Center,Jaipur,Rajasthan,West,5425.0
 WH018,Faridabad Distribution Center,Faridabad,Haryana,North,42837.0
-WH007,Gurgaon Distribution Center,Mumbai,Punjab,North,-500.0
 WH005,New Delhi Distribution Center,New Delhi,Delhi,North,11140.0
-WH048,Jaipur Distribution Center,Jaipur,Rajasthan,West,
-WH028,Ahmedabad Distribution Center,,Gujarat,West,49866.0
+WH048,Jaipur Distribution Center,Jaipur,Rajasthan,West,22359.0
+WH028,Ahmedabad Distribution Center,Ahmedabad,Gujarat,West,49866.0
 WH047,Kolkata Distribution Center,Kolkata,West Bengal,East,15365.0
 WH046,Kolkata Distribution Center,Kolkata,West Bengal,East,12310.0
 WH046,Kolkata Distribution Center,Kolkata,West Bengal,East,12310.0
-WH016,   Pune Distribution Center   ,Pune,Maharashtra,West,10164.0
+WH016,Pune Distribution Center,Pune,Maharashtra,West,10164.0
 WH010,Mysore Distribution Center,Mysore,Karnataka,South,27298.0
 WH017,Surat Distribution Center,Surat,Gujarat,West,46198.0
 WH025,Kolkata Distribution Center,Kolkata,West Bengal,East,44920.0
@@ -31,26 +29,23 @@ WH038,Chennai Distribution Center,Chennai,Tamil Nadu,South,38392.0
 WH026,Bangalore Distribution Center,Bangalore,Karnataka,South,15708.0
 WH012,Lucknow Distribution Center,Lucknow,Uttar Pradesh,North,11078.0
 WH001,Mumbai Distribution Center,Mumbai,Maharashtra,West,23024.0
-WH049,Ahmedabad Distribution Center,Ahmedabad,Gujarat,West,-500.0
-WH037,Amritsar Distribution Center,Amritsar,Punjab,North,
+WH037,Amritsar Distribution Center,Amritsar,Punjab,North,22857.5
 WH030,New Delhi Distribution Center,Mumbai,Punjab,North,31290.0
-WH041,mysore distribution center,,Karnataka,South,44086.0
+WH041,Mysore Distribution Center,Bangalore,Karnataka,South,44086.0
 WH002,Chennai Distribution Center,Chennai,Tamil Nadu,South,14144.0
 WH022,Kolkata Distribution Center,Kolkata,West Bengal,East,46660.0
 WH003,Nagpur Distribution Center,Nagpur,Maharashtra,West,40741.0
-WH014,   Kanpur Distribution Center   ,Kanpur,Uttar Pradesh,North,22335.0
-WH040,Mumbai Distribution Center,Mumbai,Maharashtra,West,0.0
-WH036,Surat Distribution Center,,Gujarat,West,43311.0
-WH024,lucknow distribution center,Lucknow,Uttar Pradesh,North,48920.0
+WH014,Kanpur Distribution Center,Kanpur,Uttar Pradesh,North,22335.0
+WH036,Surat Distribution Center,Ahmedabad,Gujarat,West,43311.0
+WH024,Lucknow Distribution Center,Lucknow,Uttar Pradesh,North,48920.0
 WH045,Nagpur Distribution Center,Nagpur,Maharashtra,West,40190.0
 WH011,Kolkata Distribution Center,Kolkata,West Bengal,East,19110.0
-WH023,   Lucknow Distribution Center   ,Lucknow,Uttar Pradesh,North,29260.0
+WH023,Lucknow Distribution Center,Lucknow,Uttar Pradesh,North,29260.0
 WH019,Chennai Distribution Center,Chennai,Tamil Nadu,South,8003.0
 WH018,Faridabad Distribution Center,Faridabad,Haryana,North,42837.0
 WH021,Chennai Distribution Center,Chennai,Tamil Nadu,South,29911.0
 WH008,Coimbatore Distribution Center,Coimbatore,Tamil Nadu,South,19446.0
-WH043,   Faridabad Distribution Center   ,Mumbai,Punjab,North,39676.0
+WH043,Faridabad Distribution Center,Mumbai,Punjab,North,39676.0
 WH015,New Delhi Distribution Center,New Delhi,Delhi,North,40142.0
-WH029,Lucknow Distribution Center,Lucknow,Uttar Pradesh,North,
-WH040,Mumbai Distribution Center,Mumbai,Maharashtra,West,0.0
-WH039,jaipur distribution center,Jaipur,Rajasthan,West,8087.0
+WH029,Lucknow Distribution Center,Lucknow,Uttar Pradesh,North,29260.0
+WH039,Jaipur Distribution Center,Jaipur,Rajasthan,West,8087.0
