@@ -1,0 +1,1 @@
+SELECT * from shipping LIMIT 10;

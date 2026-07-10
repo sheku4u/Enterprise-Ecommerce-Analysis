@@ -1,0 +1,153 @@
+-- # # SQL 
+SELECT * from employees limit 4;
+
+
+
+-- # Easy
+-- # Count employees by department.
+SELECT department , count(DISTINCT employee_id) as emp_count from employees GROUP BY department ORDER BY emp_count desc;
+
+-- # Average salary by designation.
+SELECT designation, round(avg(salary),2) as avg_salary
+from employees 
+GROUP BY designation 
+ORDER BY avg_salary desc;
+-- # Employees by region.
+SELECT region , count(DISTINCT employee_id) as emp_count from employees GROUP BY region ORDER BY emp_count desc;
+-- # Medium
+-- # Top 5 highest-paid employees.
+with sal_data as (
+    SELECT employee_name,
+    salary,
+    DENSE_RANK() OVER(order by salary DESC) as sal_rnk
+    FROM employees
+)
+SELECT
+    employee_name,
+    salary
+from sal_data
+where sal_rnk <=5;
+
+-- # Average salary by department.
+SELECT department, round(avg(salary),2) as avg_salary
+from employees 
+GROUP BY department 
+ORDER BY avg_salary desc;
+-- # Employees with missing salaries.
+SELECT
+    employee_name,salary
+FROM employees
+WHERE salary is NULL;
+
+-- # Duplicate employee records.
+SELECT
+    employee_name,
+    count(employee_name) as dupp_count
+from employees
+GROUP BY employee_name
+HAVING count(employee_name) > 1;
+-- # Advanced
+-- # Rank employees by salary within each department.
+
+    SELECT
+        department,
+        employee_name,
+        salary,
+        DENSE_RANK() OVER(PARTITION BY department ORDER BY salary desc) as sal_rnk
+    FROM employees;
+
+-- # Find employees earning above their department average.
+with dept_data as (
+    SELECT
+    department,
+    AVG(salary) as avg_salary
+    FROM employees
+    GROUP BY department
+)
+SELECT
+    e.employee_id,
+    e.employee_name,
+    e.salary as emp_salary,
+    d.avg_salary as dept_avg_salary
+from employees e join dept_data d on e.department = d.department
+WHERE e.salary > d.avg_salary
+order by e.salary desc;
+-- # Count employees reporting to each manager.
+with emp_joins as 
+ (   SELECT
+        m.manager_id ,
+        m.employee_name as manager_name,
+        e.employee_id,
+        e.employee_name as employee_name
+    FROM employees e right join employees m on e.manager_id = m.employee_id
+   )
+
+SELECT manager_name,
+count(employee_id) 
+ from emp_joins
+ GROUP BY manager_name;
+
+with emp_joins as 
+ (   SELECT
+        m.manager_id ,
+        count(m.employee_id) as emp_conut
+    FROM employees e right join employees m on e.manager_id = m.employee_id
+    GROUP BY m.employee_id
+   )
+
+SELECT * from emp_joins;
+
+
+
+WITH emp_joins AS (
+    SELECT
+        m.manager_id AS manager_id,        -- Fixed: manager's own ID
+        m.employee_name AS manager_name,
+        e.employee_id
+    FROM employees m
+    LEFT JOIN employees e ON m.employee_id = e.manager_id   -- Fixed: easier LEFT JOIN
+)
+SELECT
+    manager_id,
+    manager_name,
+    COUNT(employee_id) AS employee_count   -- Fixed typo
+FROM emp_joins
+GROUP BY manager_id, manager_name;  
+
+
+--  correct answer
+WITH emp_joins AS (
+    SELECT
+        m.employee_id   AS manager_id,
+        m.employee_name AS manager_name,
+        e.employee_id   AS employee_id
+    FROM employees m
+    LEFT JOIN employees e
+        ON m.employee_id = e.manager_id
+)
+SELECT
+    manager_id,
+    manager_name,
+    COUNT(employee_id) AS employee_count
+FROM emp_joins
+GROUP BY manager_id, manager_name
+
+order by employee_count desc;
+
+
+-- # Calculate salary contribution by region.
+with total_sal as (
+    SELECT COALESCE(sum(salary) , 0) as total_salary from employees
+)
+SELECT
+    region,
+    COALESCE(sum(salary),0) as total_reg_sal,
+    round(((sum(salary)/(select total_salary from total_sal))*100),2)
+from employees
+GROUP BY region
+order by total_reg_sal desc;
+
+
+
+
+
