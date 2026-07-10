@@ -5,7 +5,7 @@ import random
 random.seed(42)
 np.random.seed(42)
 
-NUM_PRODUCTS = 20000
+NUM_PRODUCTS = 2000
 
 ######################################################
 # Categories
