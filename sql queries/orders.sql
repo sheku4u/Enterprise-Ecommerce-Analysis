@@ -1,4 +1,4 @@
-SELECT * from orders limit 10;
+SELECT * from orders limit 5;
 
 -- Q11. Calculate total sales.
 CREATE view total_sales as SELECT
@@ -37,10 +37,57 @@ SELECT * from orders_by_channel;
 
 -- Q31. Monthly sales trend.
 
+SELECT
+    date_format(order_date, "%Y-%m") as order_month, round(sum(sales),2) as total_sales FROM orders
+    GROUP BY date_format(order_date, "%Y-%m") order by order_month asc;
+
+
 -- Q32. Monthly profit trend.
+SELECT
+
+
+    date_format(order_date, "%Y-%m") as order_month, 
+    round(sum(profit),2) as total_profit
+    FROM orders
+    GROUP BY date_format(order_date, "%Y-%m") 
+    order by order_month asc;
 
 -- Q33. Quarterly sales.
+SELECT
+    date_format(order_date, "%Q") as order_month,
+    round(sum(sales),2) as total_sales 
+    FROM orders
+    GROUP BY date_format(order_date, "%Q") order by order_month asc;
+
 
 -- Q34. Year-over-year growth.
+with yearly_data as (
+    SELECT
+        date_format(order_date, "%Y") as order_year, 
+        round(sum(sales),2) as total_sales
+    FROM orders
+    GROUP BY date_format(order_date, "%Y") 
+    order by order_year asc
+)
+SELECT
+    order_year,
+    total_sales,
+    lag(total_sales) over(ORDER BY order_year) as prev_value,
+    round(((total_sales - (lag(total_sales) over(ORDER BY order_year)))/ (lag(total_sales) over(ORDER BY order_year)))*100,2) as growth_rate
+from yearly_data;
 
 -- Q35. Month-over-month growth.
+with yearly_data as (
+    SELECT
+        date_format(order_date, "%y-%m") as order_month, 
+        round(sum(sales),2) as total_sales
+    FROM orders
+    GROUP BY date_format(order_date, "%y-%m") 
+    order by order_month asc
+)
+SELECT
+    order_month,
+    total_sales,
+    lag(total_sales) over(ORDER BY order_month) as prev_value,
+    round((total_sales - (lag(total_sales) over(ORDER BY order_month)))/ (lag(total_sales) over(ORDER BY order_month))*100,2) as growth_rate
+from yearly_data;
