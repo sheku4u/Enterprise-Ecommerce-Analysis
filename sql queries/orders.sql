@@ -91,3 +91,12 @@ SELECT
     lag(total_sales) over(ORDER BY order_month) as prev_value,
     round((total_sales - (lag(total_sales) over(ORDER BY order_month)))/ (lag(total_sales) over(ORDER BY order_month))*100,2) as growth_rate
 from yearly_data;
+
+-- creating a new column in orders table rating 
+alter TABLE orders
+add column rating int;
+
+-- adding data into it
+UPDATE orders
+set rating = floor(1 + rand() * 5);
+

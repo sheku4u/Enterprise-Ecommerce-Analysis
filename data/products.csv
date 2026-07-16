@@ -10,21 +10,21 @@ PROD01384,Portable Nivea Camera,Electronics,Camera,Nivea,VEND0167,43678.05,73455
 PROD00252,Wireless Ikea Education,Books,Education,Ikea,VEND0170,17880.86,28046.22,10165.36
 PROD00472,Pro Puma Education,Books,Education,Puma,VEND0278,368.58,496.12,127.54
 PROD00383,Smart Titan Lighting,Home,Lighting,Titan,VEND0014,27871.4,39228.01,11356.61
-PROD00129,Luxury Hp Smart Watch,Electronics,Smart Watch,HP,VEND0207,15760.13,20393.05,4632.92
+PROD00129,Luxury Hp Smart Watch,Electronics,Smart Watch,Hp,VEND0207,15760.13,20393.05,4632.92
 PROD00619,Premium Ikea Women Clothing,Fashion,Women Clothing,Ikea,VEND0152,34185.35,40607.31,6421.96
 PROD01092,Ultra Reebok Fiction,Books,Fiction,Reebok,VEND0121,47160.95,72370.4,25209.45
-PROD01403,Pro Oneplus Women Clothing,Fashion,Women Clothing,OnePlus,VEND0027,42411.09,70430.39,28019.3
-PROD01138,Luxury Lg Kitchen,Home,Kitchen,LG,VEND0029,40087.82,50902.41,10814.59
+PROD01403,Pro Oneplus Women Clothing,Fashion,Women Clothing,Oneplus,VEND0027,42411.09,70430.39,28019.3
+PROD01138,Luxury Lg Kitchen,Home,Kitchen,Lg,VEND0029,40087.82,50902.41,10814.59
 PROD01602,Portable Lakme Furniture,Home,Furniture,Lakme,VEND0065,6971.32,8017.48,1046.16
 PROD00584,Smart Puma Children,Books,Children,Puma,VEND0052,47474.83,74427.04,26952.21
 PROD00926,Max Loreal Cycling,Sports,Cycling,Loreal,VEND0300,13552.79,21432.24,7879.45
 PROD00066,Max Nike Cycling,Sports,Cycling,Nike,VEND0210,36001.73,46089.18,10087.45
 PROD00924,Classic Samsung Cricket,Sports,Cricket,Samsung,VEND0162,14475.17,22847.4,8372.23
 PROD00322,Luxury Samsung Women Clothing,Fashion,Women Clothing,Samsung,VEND0137,13076.22,16231.68,3155.46
-PROD00306,Elite Oneplus Footwear,Fashion,Footwear,OnePlus,VEND0179,34527.48,48110.65,13583.17
+PROD00306,Elite Oneplus Footwear,Fashion,Footwear,Oneplus,VEND0179,34527.48,48110.65,13583.17
 PROD01542,Smart Loreal Furniture,Home,Furniture,Loreal,VEND0258,20393.96,31506.03,11112.07
 PROD01772,Mini Nike Biography,Books,Biography,Nike,VEND0056,16873.57,26910.46,10036.89
-PROD01402,Classic Oneplus Children,Books,Children,OnePlus,VEND0031,24776.52,37721.86,12945.34
+PROD01402,Classic Oneplus Children,Books,Children,Oneplus,VEND0031,24776.52,37721.86,12945.34
 PROD00433,Wireless Fastrack Fiction,Books,Fiction,Fastrack,VEND0033,31760.29,48223.98,16463.69
 PROD00695,Premium Casio Mobile,Electronics,Mobile,Casio,VEND0197,11127.42,999999.0,988871.58
 PROD01665,Premium Samsung Makeup,Beauty,Makeup,Samsung,VEND0026,21544.63,32234.04,10689.41
@@ -32,7 +32,7 @@ PROD00112,Digital Reebok Mobile,Electronics,Mobile,Reebok,VEND0028,24612.74,3559
 PROD01023,Premium Cello Cycling,Sports,Cycling,Cello,VEND0002,27986.09,38566.82,10580.73
 PROD00030,Digital Loreal Mobile,Electronics,Mobile,Loreal,VEND0249,3589.32,4460.82,871.5
 PROD01883,Luxury Canon Skin Care,Beauty,Skin Care,Canon,VEND0192,7749.19,11106.21,3357.02
-PROD00384,Wireless Hp Tablet,Electronics,Tablet,HP,VEND0198,29866.38,46910.03,17043.65
+PROD00384,Wireless Hp Tablet,Electronics,Tablet,Hp,VEND0198,29866.38,46910.03,17043.65
 PROD01473,Mini Wildcraft Fiction,Books,Fiction,Wildcraft,VEND0215,5547.24,7312.07,1764.83
 PROD01874,Smart Borosil Lighting,Home,Lighting,Borosil,VEND0096,16768.89,24964.33,8195.44
 PROD00307,Classic Ikea Cycling,Sports,Cycling,Ikea,VEND0203,6137.61,9243.08,3105.47
@@ -41,7 +41,7 @@ PROD00778,Wireless Prestige Men Clothing,Fashion,Men Clothing,Prestige,VEND0156,
 PROD01694,Portable Noise Skin Care,Beauty,Skin Care,Noise,VEND0289,32813.17,43022.01,10208.84
 PROD01272,Elite Samsung Hair Care,Beauty,Hair Care,Samsung,VEND0110,31956.41,19173.846,-12782.56
 PROD01577,Smart Lenovo Biography,Books,Biography,Lenovo,VEND0046,49768.39,78811.42,29043.03
-PROD00820,Digital Oneplus Hair Care,Beauty,Hair Care,OnePlus,VEND0104,32641.01,47284.37,14643.36
+PROD00820,Digital Oneplus Hair Care,Beauty,Hair Care,Oneplus,VEND0104,32641.01,47284.37,14643.36
 PROD01511,Essential Loreal Men Clothing,Fashion,Men Clothing,Loreal,VEND0044,5961.63,9860.49,3898.86
 PROD01183,Premium Syska Perfume,Beauty,Perfume,Syska,VEND0227,39740.64,52340.99,12600.35
 PROD00325,Ultra Ikea Fiction,Books,Fiction,Ikea,VEND0245,18408.82,22689.05,4280.23
@@ -50,7 +50,7 @@ PROD01134,Digital Lenovo Lighting,Home,Lighting,Lenovo,VEND0063,44374.02,49502.6
 PROD00679,Smart Loreal Women Clothing,Fashion,Women Clothing,Loreal,VEND0118,46121.48,67241.43,21119.95
 PROD01152,Luxury Fastrack Watches,Fashion,Watches,Fastrack,VEND0136,37879.85,51894.21,14014.36
 PROD01556,Pro Boat Bags,Fashion,Bags,Boat,VEND0199,28528.18,45995.91,17467.73
-PROD00352,Mini Oneplus Laptop,Electronics,Laptop,OnePlus,VEND0156,23995.74,38913.52,14917.78
+PROD00352,Mini Oneplus Laptop,Electronics,Laptop,Oneplus,VEND0156,23995.74,38913.52,14917.78
 PROD01519,Pro Adidas Cycling,Sports,Cycling,Adidas,VEND0197,40116.94,59869.42,19752.48
 PROD01464,Premium Adidas Cricket,Sports,Cricket,Adidas,VEND0065,5531.15,6442.28,911.13
 PROD00819,Eco Puma Hair Care,Beauty,Hair Care,Puma,VEND0169,21351.93,27489.11,6137.18
@@ -61,13 +61,13 @@ PROD01308,Max Mi Laptop,Electronics,Laptop,Mi,VEND0106,3521.08,5907.66,2386.58
 PROD01579,Digital Titan Camera,Electronics,Camera,Titan,VEND0149,25192.91,15115.746,-10077.16
 PROD01950,Mini Borosil Children,Books,Children,Borosil,VEND0080,30942.08,37199.99,6257.91
 PROD01186,Essential Syska Fitness,Sports,Fitness,Syska,VEND0284,48634.42,65733.46,17099.04
-PROD00870,Elite Hp Laptop,Electronics,Laptop,HP,VEND0257,22216.52,24770.55,2554.03
-PROD00354,Mini Oneplus Storage,Home,Storage,OnePlus,VEND0145,19861.77,24700.07,4838.3
+PROD00870,Elite Hp Laptop,Electronics,Laptop,Hp,VEND0257,22216.52,24770.55,2554.03
+PROD00354,Mini Oneplus Storage,Home,Storage,Oneplus,VEND0145,19861.77,24700.07,4838.3
 PROD00975,Digital Ikea Women Clothing,Fashion,Women Clothing,Ikea,VEND0088,30201.62,47529.14,17327.52
 PROD01340,Smart Lakme Women Clothing,Fashion,Women Clothing,Lakme,VEND0172,48902.18,73344.58,24442.4
 PROD00125,Ultra Prestige Fitness,Sports,Fitness,Prestige,VEND0241,28833.54,44918.77,16085.23
 PROD00211,Ultra Canon Education,Books,Education,Canon,VEND0079,5185.09,6499.93,1314.84
-PROD00949,Elite Oneplus Skin Care,Beauty,Skin Care,OnePlus,VEND0275,40364.83,60562.98,20198.15
+PROD00949,Elite Oneplus Skin Care,Beauty,Skin Care,Oneplus,VEND0275,40364.83,60562.98,20198.15
 PROD01079,Luxury Syska Men Clothing,Fashion,Men Clothing,Syska,VEND0040,23789.65,29162.39,5372.74
 PROD01647,Ultra Canon Biography,Books,Biography,Canon,VEND0096,8553.12,12905.51,4352.39
 PROD01494,Advanced Prestige Women Clothing,Fashion,Women Clothing,Prestige,VEND0299,8877.93,14941.23,6063.3
@@ -75,9 +75,9 @@ PROD01112,Pro Philips Headphones,Electronics,Headphones,Philips,VEND0135,45346.9
 PROD01334,Classic Mi Footwear,Fashion,Footwear,Mi,VEND0220,31252.43,51897.67,20645.24
 PROD00353,Luxury Mi Laptop,Electronics,Laptop,Mi,VEND0246,48105.77,56302.5,8196.73
 PROD01755,Premium Borosil Biography,Books,Biography,Borosil,VEND0083,47126.85,60154.49,13027.64
-PROD01567,Classic Allen Solly Outdoor,Sports,Outdoor,Allen Solly,VEND0006,17766.88,26929.99,9163.11
+PROD01567,Classic Allen Solly Outdoor,Sports,Outdoor,Allen solly,VEND0006,17766.88,26929.99,9163.11
 PROD00520,Smart Puma Cricket,Sports,Cricket,Puma,VEND0151,2772.52,3056.12,283.6
-PROD01732,Luxury Oneplus Decor,Home,Decor,OnePlus,VEND0073,6181.27,9487.92,3306.65
+PROD01732,Luxury Oneplus Decor,Home,Decor,Oneplus,VEND0073,6181.27,9487.92,3306.65
 PROD01631,Premium Dell Fiction,Books,Fiction,Dell,VEND0111,48589.67,55205.65,6615.98
 PROD01081,Digital Reebok Lighting,Home,Lighting,Reebok,VEND0281,12600.68,17757.15,5156.47
 PROD01561,Luxury Lakme Kitchen,Home,Kitchen,Lakme,VEND0195,28431.92,48126.33,19694.41
@@ -89,17 +89,17 @@ PROD01568,Ultra Dell Outdoor,Sports,Outdoor,Dell,VEND0166,36150.05,52312.51,1616
 PROD00100,Portable Casio Decor,Home,Decor,Casio,VEND0142,17049.93,27760.56,10710.63
 PROD01311,Pro Dell Perfume,Beauty,Perfume,Dell,VEND0067,19480.2,31989.46,12509.26
 PROD00530,Luxury Casio Education,Books,Education,Casio,VEND0035,16021.49,24613.2,8591.71
-PROD00299,Digital Lg Outdoor,Sports,Outdoor,LG,VEND0195,29196.99,35103.75,5906.76
+PROD00299,Digital Lg Outdoor,Sports,Outdoor,Lg,VEND0195,29196.99,35103.75,5906.76
 PROD01019,Mini Borosil Decor,Home,Decor,Borosil,VEND0034,49419.7,69937.8,20518.1
 PROD01331,Premium Nivea Kitchen,Home,Kitchen,Nivea,VEND0216,45442.38,55439.31,9996.93
-PROD00713,Eco Hp Mobile,Electronics,Mobile,HP,VEND0004,33806.82,50644.46,16837.64
+PROD00713,Eco Hp Mobile,Electronics,Mobile,Hp,VEND0004,33806.82,50644.46,16837.64
 PROD00651,Pro Ikea Skin Care,Beauty,Skin Care,Ikea,VEND0298,33600.68,42014.71,8414.03
 PROD00240,Premium Titan Children,Books,Children,Titan,VEND0132,30786.65,50598.31,19811.66
 PROD01962,Smart Nike Lighting,Home,Lighting,Nike,VEND0278,22122.81,30653.84,8531.03
 PROD01722,Eco Adidas Perfume,Beauty,Perfume,Adidas,VEND0189,5823.38,6817.99,994.61
-PROD01847,Wireless Allen Solly Fiction,Books,Fiction,   Allen Solly   ,VEND0188,32622.0,39368.47,6746.47
+PROD01847,Wireless Allen Solly Fiction,Books,Fiction,Allen solly,VEND0188,32622.0,39368.47,6746.47
 PROD01877,Premium Loreal Biography,Books,Biography,Loreal,VEND0120,24153.75,32382.74,8228.99
-PROD00395,Max Us Polo Fiction,Books,Fiction,US Polo,VEND0124,33665.23,39843.05,6177.82
+PROD00395,Max Us Polo Fiction,Books,Fiction,Us polo,VEND0124,33665.23,39843.05,6177.82
 PROD01354,Portable Borosil Hair Care,Beauty,Hair Care,Borosil,VEND0222,22096.73,31005.59,8908.86
 PROD01230,Max Samsung Education,Books,Education,Samsung,VEND0129,3055.74,5051.4,1995.66
 PROD01145,Essential Philips Bags,Fashion,Bags,Philips,VEND0254,32398.15,49510.25,17112.1
@@ -107,7 +107,7 @@ PROD01621,Portable Cello Cycling,Sports,Cycling,Cello,VEND0233,30635.42,40928.81
 PROD00863,Wireless Borosil Education,Books,Education,Borosil,VEND0275,7811.55,10751.59,2940.04
 PROD01056,Eco Cello Lighting,Home,Lighting,Cello,VEND0140,13961.99,21335.27,7373.28
 PROD01426,Advanced Adidas Children,Books,Children,Adidas,VEND0181,28874.72,43804.71,14929.99
-PROD01377,Eco Oneplus Mobile,Electronics,Mobile,OnePlus,VEND0267,26140.61,28868.57,2727.96
+PROD01377,Eco Oneplus Mobile,Electronics,Mobile,Oneplus,VEND0267,26140.61,28868.57,2727.96
 PROD01346,Portable Ikea Cricket,Sports,Cricket,Ikea,VEND0170,37540.02,46452.25,8912.23
 PROD00527,Essential Canon Perfume,Beauty,Perfume,Canon,VEND0018,23839.3,27352.57,3513.27
 PROD00486,Mini Philips Mobile,Electronics,Mobile,Philips,VEND0044,6579.23,10488.64,3909.41
@@ -117,12 +117,12 @@ PROD01892,Wireless Noise Bags,Fashion,Bags,Noise,VEND0055,8218.97,12405.75,4186.
 PROD01560,Ultra Nike Lighting,Home,Lighting,Nike,VEND0241,13954.83,15670.85,1716.02
 PROD01610,Mini Reebok Cycling,Sports,Cycling,Reebok,VEND0220,1545.5,1866.88,321.38
 PROD01813,Portable Bajaj Mobile,Electronics,Mobile,Bajaj,VEND0201,30263.35,36046.93,5783.58
-PROD01191,Advanced Oneplus Cycling,Sports,Cycling,OnePlus,VEND0175,4686.34,6706.49,2020.15
+PROD01191,Advanced Oneplus Cycling,Sports,Cycling,Oneplus,VEND0175,4686.34,6706.49,2020.15
 PROD00528,Ultra Nike Outdoor,Sports,Outdoor,Nike,VEND0109,47465.28,65000.09,17534.81
 PROD01236,Digital Loreal Lighting,Home,Lighting,Loreal,VEND0002,842.94,1277.14,434.2
 PROD00531,Advanced Reebok Smart Watch,Electronics,Smart Watch,Reebok,VEND0235,27625.11,44586.22,16961.11
 PROD00901,Digital Canon Men Clothing,Fashion,Men Clothing,Canon,VEND0163,21614.19,31429.16,9814.97
-PROD01871,Premium Oneplus Headphones,Electronics,Headphones,OnePlus,VEND0060,12947.78,17875.87,4928.09
+PROD01871,Premium Oneplus Headphones,Electronics,Headphones,Oneplus,VEND0060,12947.78,17875.87,4928.09
 PROD01259,Premium Dell Cricket,Sports,Cricket,Dell,VEND0151,5136.29,5821.85,685.56
 PROD00818,Wireless Mamaearth Camera,Electronics,Camera,Mamaearth,VEND0117,26059.86,39266.92,13207.06
 PROD00908,Eco Milton Education,Books,Education,Milton,VEND0188,13499.06,22353.62,8854.56
@@ -130,20 +130,20 @@ PROD01454,Elite Cello Smart Watch,Electronics,Smart Watch,Cello,VEND0169,2921.96
 PROD00680,Wireless Adidas Perfume,Beauty,Perfume,Adidas,VEND0259,5473.08,6684.87,1211.79
 PROD01165,Digital Borosil Bags,Fashion,Bags,Borosil,VEND0178,5891.19,8681.36,2790.17
 PROD01537,Advanced Loreal Tablet,Electronics,Tablet,Loreal,VEND0055,1451.04,1841.84,390.8
-PROD00116,Ultra Casio Education,Books,Education,   Casio   ,VEND0283,33038.39,39455.58,6417.19
+PROD00116,Ultra Casio Education,Books,Education,Casio,VEND0283,33038.39,39455.58,6417.19
 PROD00966,Eco Ikea Biography,Books,Biography,Ikea,VEND0233,10519.01,13157.48,2638.47
 PROD00343,Eco Ikea Storage,Home,Storage,Ikea,VEND0164,11746.37,19379.61,7633.24
 PROD01692,Max Adidas Tablet,Electronics,Tablet,Adidas,VEND0005,23421.96,35925.52,12503.56
 PROD01942,Smart Casio Hair Care,Beauty,Hair Care,Casio,VEND0235,4901.43,7279.71,2378.28
 PROD01997,Premium Samsung Makeup,Beauty,Makeup,Samsung,VEND0116,31203.3,41624.22,10420.92
-PROD00255,Wireless Allen Solly Men Clothing,Fashion,Men Clothing,Allen Solly,VEND0093,3992.4,5834.78,1842.38
+PROD00255,Wireless Allen Solly Men Clothing,Fashion,Men Clothing,Allen solly,VEND0093,3992.4,5834.78,1842.38
 PROD01832,Premium Boat Women Clothing,Fashion,Women Clothing,Boat,VEND0163,26242.7,41926.51,15683.81
 PROD01951,Elite Syska Cycling,Sports,Cycling,Syska,VEND0087,18749.41,30359.89,11610.48
 PROD01091,Classic Wildcraft Watches,Fashion,Watches,Wildcraft,VEND0187,43365.23,71133.94,27768.71
 PROD01275,Mini Mi Bags,Fashion,Bags,Mi,VEND0023,31585.16,52040.51,20455.35
 PROD00121,Wireless Boat Mobile,Electronics,Mobile,Boat,VEND0292,39641.8,57759.15,18117.35
 PROD01944,Luxury Casio Bags,Fashion,Bags,Casio,VEND0072,28433.15,17059.89,-11373.26
-PROD00580,Elite Nike Headphones,Electronics,Headphones,   Nike   ,VEND0102,14171.2,22260.92,8089.72
+PROD00580,Elite Nike Headphones,Electronics,Headphones,Nike,VEND0102,14171.2,22260.92,8089.72
 PROD01302,Elite Adidas Storage,Home,Storage,Adidas,VEND0182,15313.32,23623.6,8310.28
 PROD00257,Premium Boat Perfume,Beauty,Perfume,Boat,VEND0181,34503.75,45231.94,10728.19
 PROD00136,Portable Mamaearth Outdoor,Sports,Outdoor,Mamaearth,VEND0070,9570.99,13970.07,4399.08
@@ -151,7 +151,7 @@ PROD01111,Pro Mamaearth Lighting,Home,Lighting,Mamaearth,VEND0011,47240.62,77030
 PROD00940,Elite Milton Skin Care,Beauty,Skin Care,Milton,VEND0224,35394.9,55307.87,19912.97
 PROD00465,Wireless Philips Fiction,Books,Fiction,Philips,VEND0007,37051.96,40814.26,3762.3
 PROD01345,Luxury Adidas Biography,Books,Biography,Adidas,VEND0021,13942.42,20720.68,6778.26
-PROD01048,Luxury Oneplus Perfume,Beauty,Perfume,OnePlus,VEND0161,25736.84,34604.39,8867.55
+PROD01048,Luxury Oneplus Perfume,Beauty,Perfume,Oneplus,VEND0161,25736.84,34604.39,8867.55
 PROD00931,Wireless Nike Outdoor,Sports,Outdoor,Nike,VEND0067,35418.35,41509.82,6091.47
 PROD00110,Elite Lenovo Children,Books,Children,Lenovo,VEND0246,43642.35,63038.69,19396.34
 PROD00362,Luxury Dell Fitness,Sports,Fitness,Dell,VEND0004,47262.15,70937.15,23675.0
@@ -160,8 +160,8 @@ PROD01633,Wireless Wildcraft Cycling,Sports,Cycling,Wildcraft,VEND0259,35440.19,
 PROD01757,Advanced Lakme Outdoor,Sports,Outdoor,Lakme,VEND0298,25564.27,40098.18,14533.91
 PROD00621,Luxury Mamaearth Storage,Home,Storage,Mamaearth,VEND0148,11917.89,18718.05,6800.16
 PROD00234,Smart Borosil Camera,Electronics,Camera,Borosil,VEND0265,43712.14,62627.45,18915.31
-PROD01526,Digital Allen Solly Skin Care,Beauty,Skin Care,Allen Solly,VEND0298,18615.63,28311.41,9695.78
-PROD01428,Pro Oneplus Decor,Home,Decor,OnePlus,VEND0184,47873.28,69956.58,22083.3
+PROD01526,Digital Allen Solly Skin Care,Beauty,Skin Care,Allen solly,VEND0298,18615.63,28311.41,9695.78
+PROD01428,Pro Oneplus Decor,Home,Decor,Oneplus,VEND0184,47873.28,69956.58,22083.3
 PROD00693,Digital Loreal Cricket,Sports,Cricket,Loreal,VEND0027,40052.64,58813.91,18761.27
 PROD01926,Essential Ikea Perfume,Beauty,Perfume,Ikea,VEND0091,41315.61,56588.9,15273.29
 PROD00789,Ultra Lenovo Outdoor,Sports,Outdoor,Lenovo,VEND0136,1934.93,2541.32,606.39
@@ -177,17 +177,17 @@ PROD00571,Portable Sony Furniture,Home,Furniture,Sony,VEND0267,14945.2,19047.61,
 PROD00308,Smart Ikea Women Clothing,Fashion,Women Clothing,Ikea,VEND0178,2151.22,3599.4,1448.18
 PROD01783,Luxury Sony Headphones,Electronics,Headphones,Sony,VEND0100,47994.84,68339.75,20344.91
 PROD00213,Ultra Lakme Cricket,Sports,Cricket,Lakme,VEND0226,43219.13,63805.72,20586.59
-PROD00905,Ultra Allen Solly Children,Books,Children,Allen Solly,VEND0213,48750.0,57596.44,8846.44
-PROD00415,Digital Cello Hair Care,Beauty,Hair Care,   Cello   ,VEND0089,31793.31,48200.56,16407.25
+PROD00905,Ultra Allen Solly Children,Books,Children,Allen solly,VEND0213,48750.0,57596.44,8846.44
+PROD00415,Digital Cello Hair Care,Beauty,Hair Care,Cello,VEND0089,31793.31,48200.56,16407.25
 PROD01352,Eco Noise Lighting,Home,Lighting,Noise,VEND0230,30312.27,38856.1,8543.83
 PROD00282,Portable Puma Watches,Fashion,Watches,Puma,VEND0177,15663.5,23981.1,8317.6
 PROD01968,Advanced Cello Laptop,Electronics,Laptop,Cello,VEND0241,375.54,614.39,238.85
 PROD01240,Portable Mamaearth Cycling,Sports,Cycling,Mamaearth,VEND0005,8900.47,13891.67,4991.2
-PROD00434,Elite Oneplus Cricket,Electronics,Hair Care,OnePlus,VEND0138,48408.02,77206.37,28798.35
-PROD00050,Advanced Oneplus Biography,Books,Biography,OnePlus,VEND0251,34390.48,55428.78,21038.3
+PROD00434,Elite Oneplus Cricket,Electronics,Hair Care,Oneplus,VEND0138,48408.02,77206.37,28798.35
+PROD00050,Advanced Oneplus Biography,Books,Biography,Oneplus,VEND0251,34390.48,55428.78,21038.3
 PROD00298,Luxury Borosil Men Clothing,Fashion,Men Clothing,Borosil,VEND0297,13313.25,19881.4,6568.15
 PROD01982,Classic Canon Children,Books,Children,Canon,VEND0031,14043.12,20559.45,6516.33
-PROD00483,Classic Hp Women Clothing,Fashion,Women Clothing,HP,VEND0263,35572.31,59798.48,24226.17
+PROD00483,Classic Hp Women Clothing,Fashion,Women Clothing,Hp,VEND0263,35572.31,59798.48,24226.17
 PROD00707,Digital Mamaearth Men Clothing,Fashion,Men Clothing,Mamaearth,VEND0118,31701.41,53782.04,22080.63
 PROD00775,Premium Syska Children,Books,Children,Syska,VEND0188,31217.33,45395.63,14178.3
 PROD01126,Max Prestige Lighting,Home,Lighting,Prestige,VEND0135,37403.78,61931.02,24527.24
@@ -197,19 +197,19 @@ PROD00174,Wireless Adidas Women Clothing,Fashion,Women Clothing,Adidas,VEND0284,
 PROD00810,Wireless Dell Skin Care,Beauty,Skin Care,Dell,VEND0185,19462.83,24577.39,5114.56
 PROD00430,Digital Lakme Kitchen,Home,Kitchen,Lakme,VEND0202,41432.67,64505.87,23073.2
 PROD00496,Pro Syska Smart Watch,Electronics,Smart Watch,Syska,VEND0082,17903.77,25967.51,8063.74
-PROD01736,Advanced Oneplus Laptop,Electronics,Laptop,OnePlus,VEND0027,18997.38,28419.23,9421.85
+PROD01736,Advanced Oneplus Laptop,Electronics,Laptop,Oneplus,VEND0027,18997.38,28419.23,9421.85
 PROD00238,Portable Apple Women Clothing,Fashion,Women Clothing,Apple,VEND0172,15968.31,18514.46,2546.15
 PROD01748,Eco Philips Hair Care,Beauty,Hair Care,Philips,VEND0026,31535.39,37468.49,5933.1
 PROD00024,Smart Canon Furniture,Home,Furniture,Canon,VEND0249,43906.58,73243.62,29337.04
-PROD01670,Eco Allen Solly Storage,Home,Storage,Allen Solly,VEND0072,33962.21,43929.71,9967.5
+PROD01670,Eco Allen Solly Storage,Home,Storage,Allen solly,VEND0072,33962.21,43929.71,9967.5
 PROD00064,Premium Mi Smart Watch,Electronics,Smart Watch,Mi,VEND0267,12773.39,19482.88,6709.49
 PROD00189,Advanced Adidas Biography,Books,Biography,Adidas,VEND0288,27840.72,40421.36,12580.64
-PROD01880,Premium Adidas Storage,Electronics,Hair Care,adidas,VEND0047,6538.05,8498.73,1960.68
+PROD01880,Premium Adidas Storage,Electronics,Hair Care,Adidas,VEND0047,6538.05,8498.73,1960.68
 PROD00862,Elite Loreal Decor,Home,Decor,Loreal,VEND0019,46117.87,63986.93,17869.06
 PROD00369,Smart Philips Outdoor,Sports,Outdoor,Philips,VEND0017,15033.73,24006.42,8972.69
-PROD00271,Mini Us Polo Cricket,Sports,Cricket,US Polo,VEND0038,41175.8,47115.43,5939.63
+PROD00271,Mini Us Polo Cricket,Sports,Cricket,Us polo,VEND0038,41175.8,47115.43,5939.63
 PROD01618,Wireless Samsung Camera,Electronics,Camera,Samsung,VEND0207,45586.58,57923.2,12336.62
-PROD00874,Smart Hp Men Clothing,Fashion,Men Clothing,HP,VEND0267,16697.82,27276.08,10578.26
+PROD00874,Smart Hp Men Clothing,Fashion,Men Clothing,Hp,VEND0267,16697.82,27276.08,10578.26
 PROD00197,Luxury Boat Makeup,Beauty,Makeup,Boat,VEND0291,18534.15,28412.07,9877.92
 PROD00484,Premium Wildcraft Camera,Electronics,Camera,Wildcraft,VEND0208,13045.33,22104.09,9058.76
 PROD01217,Premium Bajaj Skin Care,Beauty,Skin Care,Bajaj,VEND0252,30362.4,40718.37,10355.97
@@ -221,16 +221,16 @@ PROD01588,Max Reebok Fitness,Sports,Fitness,Reebok,VEND0284,42159.38,62243.73,20
 PROD01969,Max Noise Hair Care,Beauty,Hair Care,Noise,VEND0049,3324.7,4518.96,1194.26
 PROD00221,Digital Loreal Fiction,Books,Fiction,Loreal,VEND0198,3342.3,3866.05,523.75
 PROD00556,Eco Mamaearth Perfume,Beauty,Perfume,Mamaearth,VEND0098,36849.77,53425.32,16575.55
-PROD01674,Elite Allen Solly Makeup,Beauty,Makeup,Allen Solly,VEND0015,23354.3,39162.08,15807.78
-PROD00481,Wireless Oneplus Cycling,Sports,Cycling,OnePlus,VEND0062,22623.26,31175.03,8551.77
+PROD01674,Elite Allen Solly Makeup,Beauty,Makeup,Allen solly,VEND0015,23354.3,39162.08,15807.78
+PROD00481,Wireless Oneplus Cycling,Sports,Cycling,Oneplus,VEND0062,22623.26,31175.03,8551.77
 PROD01677,Elite Reebok Men Clothing,Fashion,Men Clothing,Reebok,VEND0266,6340.5,9523.73,3183.23
 PROD01447,Wireless Reebok Fiction,Books,Fiction,Reebok,VEND0004,744.32,903.69,159.37
 PROD00734,Portable Boat Perfume,Beauty,Perfume,Boat,VEND0121,9235.12,10286.64,1051.52
 PROD00758,Mini Casio Fiction,Books,Fiction,Casio,VEND0027,24087.42,30814.74,6727.32
 PROD00980,Portable Syska Smart Watch,Electronics,Smart Watch,Syska,VEND0051,19746.29,31314.26,11567.97
-PROD00612,Luxury Us Polo Cricket,Sports,Cricket,US Polo,VEND0128,48976.06,29385.636,-19590.42
-PROD01988,Elite Oneplus Bags,Fashion,Bags,OnePlus,VEND0186,9247.79,12771.16,3523.37
-PROD00858,Classic Oneplus Fiction,Books,Fiction,OnePlus,VEND0024,39988.24,67955.7,27967.46
+PROD00612,Luxury Us Polo Cricket,Sports,Cricket,Us polo,VEND0128,48976.06,29385.636,-19590.42
+PROD01988,Elite Oneplus Bags,Fashion,Bags,Oneplus,VEND0186,9247.79,12771.16,3523.37
+PROD00858,Classic Oneplus Fiction,Books,Fiction,Oneplus,VEND0024,39988.24,67955.7,27967.46
 PROD00317,Elite Fastrack Footwear,Fashion,Footwear,Fastrack,VEND0069,49455.52,70522.6,21067.08
 PROD01943,Portable Canon Children,Books,Children,Canon,VEND0228,37861.18,49426.47,11565.29
 PROD01508,Pro Puma Cricket,Sports,Cricket,Puma,VEND0219,110.46,136.37,25.91
@@ -241,18 +241,18 @@ PROD00839,Digital Fastrack Outdoor,Sports,Outdoor,Fastrack,VEND0084,4554.47,5895
 PROD00033,Digital Fastrack Perfume,Beauty,Perfume,Fastrack,VEND0051,43198.65,48922.59,5723.94
 PROD00463,Premium Dell Watches,Fashion,Watches,Dell,VEND0256,24832.57,34926.24,10093.67
 PROD00747,Digital Mamaearth Lighting,Home,Lighting,Mamaearth,VEND0123,11068.59,12701.49,1632.9
-PROD01848,Essential Allen Solly Makeup,Beauty,Makeup,Allen Solly,VEND0098,10728.31,15404.53,4676.22
+PROD01848,Essential Allen Solly Makeup,Beauty,Makeup,Allen solly,VEND0098,10728.31,15404.53,4676.22
 PROD00423,Elite Canon Camera,Electronics,Camera,Canon,VEND0135,14920.56,25358.8,10438.24
 PROD00164,Mini Casio Makeup,Beauty,Makeup,Casio,VEND0056,29248.78,46606.48,17357.7
 PROD00204,Mini Milton Education,Books,Education,Milton,VEND0037,27958.24,41960.53,14002.29
 PROD01415,Smart Nivea Bags,Fashion,Bags,Nivea,VEND0251,629.54,736.55,107.01
-PROD00290,Eco Reebok Biography,Books,Biography,reebok,VEND0288,18328.57,24566.68,6238.11
+PROD00290,Eco Reebok Biography,Books,Biography,Reebok,VEND0288,18328.57,24566.68,6238.11
 PROD00938,Elite Casio Mobile,Electronics,Mobile,Casio,VEND0077,38873.0,43197.97,4324.97
 PROD00781,Digital Lenovo Children,Books,Children,Lenovo,VEND0235,38325.86,55416.82,17090.96
 PROD01996,Classic Syska Bags,Fashion,Bags,Syska,VEND0011,39066.59,60306.12,21239.53
 PROD01812,Portable Dell Mobile,Electronics,Mobile,Dell,VEND0213,25250.26,38433.26,13183.0
 PROD01455,Ultra Lenovo Footwear,Fashion,Footwear,Lenovo,VEND0206,307.46,502.43,194.97
-PROD01393,Pro Hp Cricket,Sports,Cricket,HP,VEND0295,39787.25,51710.72,11923.47
+PROD01393,Pro Hp Cricket,Sports,Cricket,Hp,VEND0295,39787.25,51710.72,11923.47
 PROD00219,Portable Milton Fiction,Books,Fiction,Milton,VEND0225,32324.05,36315.59,3991.54
 PROD01669,Eco Lenovo Perfume,Beauty,Perfume,Lenovo,VEND0160,44657.03,73778.62,29121.59
 PROD01327,Digital Boat Children,Books,Children,Boat,VEND0140,3925.39,6116.36,2190.97
@@ -261,13 +261,13 @@ PROD00722,Digital Noise Bags,Fashion,Bags,Noise,VEND0118,28591.92,48250.68,19658
 PROD00060,Smart Mi Furniture,Home,Furniture,Mi,VEND0143,19953.38,25284.16,5330.78
 PROD01709,Ultra Mamaearth Perfume,Beauty,Perfume,Mamaearth,VEND0265,43705.15,63000.6,19295.45
 PROD00074,Advanced Philips Smart Watch,Electronics,Smart Watch,Philips,VEND0238,8835.54,14797.58,5962.04
-PROD00163,Advanced Hp Cycling,Sports,Cycling,HP,VEND0064,39544.56,43829.26,4284.7
+PROD00163,Advanced Hp Cycling,Sports,Cycling,Hp,VEND0064,39544.56,43829.26,4284.7
 PROD00367,Eco Lenovo Furniture,Home,Furniture,Lenovo,VEND0270,26243.05,32661.61,6418.56
 PROD00533,Max Lenovo Fitness,Sports,Fitness,Lenovo,VEND0275,28156.05,32677.75,4521.7
 PROD00562,Smart Dell Skin Care,Beauty,Skin Care,Dell,VEND0196,23637.37,28760.21,5122.84
 PROD00603,Premium Fastrack Outdoor,Sports,Outdoor,Fastrack,VEND0115,47520.24,62631.94,15111.7
-PROD01965,Ultra Us Polo Tablet,Electronics,Tablet,US Polo,VEND0169,30087.64,41989.2,11901.56
-PROD00046,Mini Oneplus Headphones,Electronics,Headphones,OnePlus,VEND0036,25318.94,29863.03,4544.09
+PROD01965,Ultra Us Polo Tablet,Electronics,Tablet,Us polo,VEND0169,30087.64,41989.2,11901.56
+PROD00046,Mini Oneplus Headphones,Electronics,Headphones,Oneplus,VEND0036,25318.94,29863.03,4544.09
 PROD00355,Mini Bajaj Perfume,Beauty,Perfume,Bajaj,VEND0263,32453.63,41704.65,9251.02
 PROD01648,Classic Puma Bags,Fashion,Bags,Puma,VEND0172,48114.04,72152.72,24038.68
 PROD01001,Luxury Philips Decor,Home,Decor,Philips,VEND0025,24237.94,40778.74,16540.8
@@ -298,8 +298,8 @@ PROD01614,Essential Lenovo Outdoor,Sports,Outdoor,Lenovo,VEND0039,28069.89,42940
 PROD01955,Digital Mi Education,Books,Education,Mi,VEND0051,18209.84,20389.64,2179.8
 PROD00620,Eco Sony Storage,Home,Storage,Sony,VEND0288,17966.19,24641.65,6675.46
 PROD01436,Eco Noise Mobile,Electronics,Mobile,Noise,VEND0251,26347.46,42822.72,16475.26
-PROD00721,Mini Oneplus Perfume,Beauty,Perfume,OnePlus,VEND0206,20983.69,32552.36,11568.67
-PROD01774,Ultra Allen Solly Children,Books,Children,Allen Solly,VEND0094,14500.09,20100.95,5600.86
+PROD00721,Mini Oneplus Perfume,Beauty,Perfume,Oneplus,VEND0206,20983.69,32552.36,11568.67
+PROD01774,Ultra Allen Solly Children,Books,Children,Allen solly,VEND0094,14500.09,20100.95,5600.86
 PROD01320,Smart Cello Education,Books,Education,Cello,VEND0189,20593.34,32066.23,11472.89
 PROD00594,Wireless Casio Mobile,Electronics,Mobile,Casio,VEND0269,32765.93,36285.52,3519.59
 PROD01970,Smart Bajaj Makeup,Beauty,Makeup,Bajaj,VEND0119,41136.76,50028.77,8892.01
@@ -307,18 +307,18 @@ PROD01293,Max Milton Watches,Fashion,Watches,Milton,VEND0117,27355.26,31373.62,4
 PROD01613,Eco Philips Makeup,Beauty,Makeup,Philips,VEND0109,28103.95,37416.32,9312.37
 PROD01090,Essential Cello Furniture,Home,Furniture,Cello,VEND0043,39122.58,44333.57,5210.99
 PROD00508,Eco Reebok Furniture,Home,Furniture,Reebok,VEND0017,42545.31,66476.97,23931.66
-PROD00186,Mini Allen Solly Education,Books,Education,Allen Solly,VEND0233,22605.17,27964.77,5359.6
+PROD00186,Mini Allen Solly Education,Books,Education,Allen solly,VEND0233,22605.17,27964.77,5359.6
 PROD00652,Smart Maybelline Makeup,Beauty,Makeup,Maybelline,VEND0146,6454.35,9638.18,3183.83
 PROD00428,Smart Milton Cycling,Electronics,Hair Care,Milton,VEND0070,49275.14,74286.2,25011.06
-PROD00301,Classic Us Polo Makeup,Beauty,Makeup,US Polo,VEND0257,7613.99,11529.87,3915.88
+PROD00301,Classic Us Polo Makeup,Beauty,Makeup,Us polo,VEND0257,7613.99,11529.87,3915.88
 PROD01051,Wireless Titan Cycling,Sports,Cycling,Titan,VEND0220,11332.38,15234.9,3902.52
-PROD00742,Max Hp Hair Care,Beauty,Hair Care,HP,VEND0080,22120.92,29187.89,7066.97
+PROD00742,Max Hp Hair Care,Beauty,Hair Care,Hp,VEND0080,22120.92,29187.89,7066.97
 PROD00555,Max Adidas Biography,Books,Biography,Adidas,VEND0133,36078.1,53873.27,17795.17
-PROD01624,Mini Hp Kitchen,Home,Kitchen,HP,VEND0276,9598.43,15754.54,6156.11
+PROD01624,Mini Hp Kitchen,Home,Kitchen,Hp,VEND0276,9598.43,15754.54,6156.11
 PROD01672,Essential Fastrack Tablet,Electronics,Tablet,Fastrack,VEND0224,27314.24,36207.2,8892.96
 PROD01963,Classic Cello Outdoor,Sports,Outdoor,Cello,VEND0058,15033.05,16622.97,1589.92
 PROD01385,Eco Philips Children,Books,Children,Philips,VEND0042,30357.81,40682.47,10324.66
-PROD00999,Luxury Us Polo Cycling,Sports,Cycling,US Polo,VEND0168,28956.3,43244.97,14288.67
+PROD00999,Luxury Us Polo Cycling,Sports,Cycling,Us polo,VEND0168,28956.3,43244.97,14288.67
 PROD00176,Ultra Prestige Fitness,Sports,Fitness,Prestige,VEND0277,42927.39,50946.78,8019.39
 PROD01481,Ultra Mi Children,Books,Children,Mi,VEND0099,26701.2,31833.26,5132.06
 PROD01733,Smart Titan Laptop,Electronics,Laptop,Titan,VEND0011,32512.91,44616.09,12103.18
@@ -326,7 +326,7 @@ PROD00454,Essential Dell Headphones,Electronics,Headphones,Dell,VEND0031,738.98,
 PROD00412,Ultra Maybelline Fitness,Sports,Fitness,Maybelline,VEND0153,17631.65,24238.52,6606.87
 PROD00040,Advanced Lakme Fiction,Books,Fiction,Lakme,VEND0272,2905.41,4214.32,1308.91
 PROD00807,Elite Bajaj Kitchen,Home,Kitchen,Bajaj,VEND0073,26187.13,32869.95,6682.82
-PROD01924,Mini Oneplus Makeup,Beauty,Makeup,OnePlus,VEND0186,20938.09,30560.17,9622.08
+PROD01924,Mini Oneplus Makeup,Beauty,Makeup,Oneplus,VEND0186,20938.09,30560.17,9622.08
 PROD00332,Premium Fastrack Headphones,Electronics,Headphones,Fastrack,VEND0203,33654.75,43243.05,9588.3
 PROD01652,Luxury Puma Outdoor,Sports,Outdoor,Puma,VEND0172,38774.06,44977.73,6203.67
 PROD00195,Digital Samsung Footwear,Fashion,Footwear,Samsung,VEND0206,9111.21,10805.45,1694.24
@@ -340,21 +340,21 @@ PROD00671,Pro Philips Hair Care,Beauty,Hair Care,Philips,VEND0077,3900.56,5796.5
 PROD01451,Mini Mamaearth Perfume,Beauty,Perfume,Mamaearth,VEND0128,8565.67,14406.06,5840.39
 PROD00068,Max Wildcraft Education,Books,Education,Wildcraft,VEND0147,20333.45,32538.3,12204.85
 PROD01260,Wireless Lenovo Perfume,Beauty,Perfume,Lenovo,VEND0006,30884.23,41590.71,10706.48
-PROD00549,Elite Allen Solly Biography,Books,Biography,Allen Solly,VEND0130,44779.37,72137.4,27358.03
+PROD00549,Elite Allen Solly Biography,Books,Biography,Allen solly,VEND0130,44779.37,72137.4,27358.03
 PROD01418,Essential Adidas Watches,Fashion,Watches,Adidas,VEND0276,5017.09,5709.95,692.86
 PROD01705,Pro Apple Headphones,Electronics,Headphones,Apple,VEND0018,31474.33,47249.11,15774.78
 PROD01432,Ultra Milton Biography,Books,Biography,Milton,VEND0162,30266.99,40915.28,10648.29
 PROD01638,Classic Nike Footwear,Fashion,Footwear,Nike,VEND0109,46350.04,53322.94,6972.9
-PROD01817,Pro Ikea Bags,Fashion,Bags,   Ikea   ,VEND0196,45387.9,64447.29,19059.39
+PROD01817,Pro Ikea Bags,Fashion,Bags,Ikea,VEND0196,45387.9,64447.29,19059.39
 PROD00906,Wireless Noise Perfume,Beauty,Perfume,Noise,VEND0231,22747.0,30810.24,8063.24
-PROD01182,Classic Us Polo Storage,Home,Storage,US Polo,VEND0212,39371.43,46568.39,7196.96
+PROD01182,Classic Us Polo Storage,Home,Storage,Us polo,VEND0212,39371.43,46568.39,7196.96
 PROD01658,Essential Prestige Fiction,Books,Fiction,Prestige,VEND0231,43863.34,66114.38,22251.04
 PROD00991,Advanced Philips Education,Books,Education,Philips,VEND0217,16057.17,26313.85,10256.68
-PROD01517,Smart Allen Solly Headphones,Electronics,Headphones,Allen Solly,VEND0166,47981.29,60796.41,12815.12
+PROD01517,Smart Allen Solly Headphones,Electronics,Headphones,Allen solly,VEND0166,47981.29,60796.41,12815.12
 PROD00893,Elite Fastrack Skin Care,Beauty,Skin Care,Fastrack,VEND0091,16302.64,18888.11,2585.47
 PROD00417,Pro Maybelline Fitness,Sports,Fitness,Maybelline,VEND0197,47594.51,66192.8,18598.29
 PROD01845,Wireless Lakme Watches,Fashion,Watches,Lakme,VEND0110,26557.74,43288.36,16730.62
-PROD01554,Essential Us Polo Men Clothing,Fashion,Men Clothing,US Polo,VEND0022,25321.82,31847.16,6525.34
+PROD01554,Essential Us Polo Men Clothing,Fashion,Men Clothing,Us polo,VEND0022,25321.82,31847.16,6525.34
 PROD00889,Classic Dell Watches,Fashion,Watches,Dell,VEND0212,39631.93,23779.158,-15852.77
 PROD00744,Luxury Bajaj Bags,Fashion,Bags,Bajaj,VEND0245,465.44,769.49,304.05
 PROD00545,Max Maybelline Lighting,Home,Lighting,Maybelline,VEND0047,17245.24,27637.09,10391.85
@@ -362,7 +362,7 @@ PROD01934,Pro Fastrack Cricket,Sports,Cricket,Fastrack,VEND0091,12290.1,17967.5,
 PROD00907,Eco Philips Makeup,Beauty,Makeup,Philips,VEND0256,9330.26,13647.78,4317.52
 PROD00932,Elite Nike Hair Care,Beauty,Hair Care,Nike,VEND0039,34797.9,43567.02,8769.12
 PROD00262,Digital Adidas Skin Care,Beauty,Skin Care,Adidas,VEND0143,26496.52,35474.08,8977.56
-PROD00591,Smart Lg Laptop,Electronics,Laptop,LG,VEND0214,49079.38,78851.42,29772.04
+PROD00591,Smart Lg Laptop,Electronics,Laptop,Lg,VEND0214,49079.38,78851.42,29772.04
 PROD00989,Advanced Noise Footwear,Fashion,Footwear,Noise,VEND0105,32426.22,49382.68,16956.46
 PROD00241,Pro Syska Kitchen,Home,Kitchen,Syska,VEND0155,21191.58,33179.73,11988.15
 PROD01475,Classic Borosil Decor,Home,Decor,Borosil,VEND0095,14043.96,20559.14,6515.18
@@ -380,7 +380,7 @@ PROD00592,Mini Titan Cricket,Sports,Cricket,Titan,VEND0015,9103.96,12088.7,2984.
 PROD00072,Eco Dell Lighting,Home,Lighting,Dell,VEND0100,22798.04,37199.15,14401.11
 PROD01024,Elite Wildcraft Decor,Home,Decor,Wildcraft,VEND0064,47803.53,76511.74,28708.21
 PROD00260,Luxury Titan Storage,Home,Storage,Titan,VEND0188,1788.21,2039.17,250.96
-PROD00199,Max Allen Solly Bags,Fashion,Bags,Allen Solly,VEND0111,24308.8,33187.02,8878.22
+PROD00199,Max Allen Solly Bags,Fashion,Bags,Allen solly,VEND0111,24308.8,33187.02,8878.22
 PROD01241,Pro Nivea Smart Watch,Electronics,Smart Watch,Nivea,VEND0011,46815.58,63985.03,17169.45
 PROD01387,Wireless Ikea Children,Books,Children,Ikea,VEND0267,30378.33,46392.73,16014.4
 PROD01379,Digital Lakme Biography,Books,Biography,Lakme,VEND0205,40851.52,68001.22,27149.7
@@ -389,10 +389,10 @@ PROD01461,Portable Ikea Laptop,Electronics,Laptop,Ikea,VEND0170,2060.8,2754.73,6
 PROD00589,Classic Nivea Fiction,Books,Fiction,Nivea,VEND0205,40757.47,49305.19,8547.72
 PROD00974,Classic Adidas Tablet,Electronics,Tablet,Adidas,VEND0088,5599.91,7724.07,2124.16
 PROD00586,Digital Sony Laptop,Electronics,Laptop,Sony,VEND0161,42619.82,56093.17,13473.35
-PROD01742,Max Hp Footwear,Fashion,Footwear,HP,VEND0173,49940.36,78046.97,28106.61
+PROD01742,Max Hp Footwear,Fashion,Footwear,Hp,VEND0173,49940.36,78046.97,28106.61
 PROD01038,Pro Puma Kitchen,Home,Kitchen,Puma,VEND0067,34417.96,44208.39,9790.43
 PROD00427,Max Bajaj Cycling,Sports,Cycling,Bajaj,VEND0149,8460.45,14276.16,5815.71
-PROD00577,Max Us Polo Fiction,Books,Fiction,US Polo,VEND0243,22243.5,13346.1,-8897.4
+PROD00577,Max Us Polo Fiction,Books,Fiction,Us polo,VEND0243,22243.5,13346.1,-8897.4
 PROD01904,Digital Bajaj Furniture,Home,Furniture,Bajaj,VEND0253,4773.9,7333.06,2559.16
 PROD01263,Essential Dell Headphones,Electronics,Headphones,Dell,VEND0294,29664.68,47596.02,17931.34
 PROD01002,Essential Ikea Decor,Home,Decor,Ikea,VEND0083,22823.53,27384.08,4560.55
@@ -409,8 +409,8 @@ PROD00850,Mini Noise Decor,Home,Decor,Noise,VEND0019,48316.35,74871.06,26554.71
 PROD00293,Advanced Puma Cycling,Sports,Cycling,Puma,VEND0021,9992.94,14044.81,4051.87
 PROD00950,Ultra Philips Storage,Home,Storage,Philips,VEND0251,46244.55,51892.24,5647.69
 PROD01482,Portable Maybelline Makeup,Beauty,Makeup,Maybelline,VEND0061,44750.91,61267.99,16517.08
-PROD01657,Pro Allen Solly Storage,Home,Storage,Allen Solly,VEND0194,18003.03,27843.83,9840.8
-PROD01976,Premium Allen Solly Makeup,Beauty,Makeup,Allen Solly,VEND0207,28186.16,43903.25,15717.09
+PROD01657,Pro Allen Solly Storage,Home,Storage,Allen solly,VEND0194,18003.03,27843.83,9840.8
+PROD01976,Premium Allen Solly Makeup,Beauty,Makeup,Allen solly,VEND0207,28186.16,43903.25,15717.09
 PROD00142,Wireless Adidas Skin Care,Beauty,Skin Care,Adidas,VEND0052,25139.44,36555.47,11416.03
 PROD00746,Classic Mi Cycling,Sports,Cycling,Mi,VEND0128,20616.21,29611.73,8995.52
 PROD00003,Classic Mi Fitness,Sports,Fitness,Mi,VEND0113,35815.18,54467.55,18652.37
@@ -418,9 +418,9 @@ PROD00766,Eco Ikea Children,Books,Children,Ikea,VEND0096,27159.57,37861.94,10702
 PROD01176,Wireless Lenovo Skin Care,Beauty,Skin Care,Lenovo,VEND0053,39093.54,57303.06,18209.52
 PROD01462,Max Mi Laptop,Electronics,Laptop,Mi,VEND0061,47421.37,79469.65,32048.28
 PROD00409,Max Mamaearth Perfume,Beauty,Perfume,Mamaearth,VEND0033,272.28,334.6,62.32
-PROD01287,Wireless Oneplus Fiction,Books,Fiction,OnePlus,VEND0121,11015.34,13458.55,2443.21
-PROD00266,Mini Hp Children,Books,Children,HP,VEND0178,40535.14,68120.79,27585.65
-PROD00377,Smart Lg Cycling,Sports,Cycling,LG,VEND0175,4929.41,6108.95,1179.54
+PROD01287,Wireless Oneplus Fiction,Books,Fiction,Oneplus,VEND0121,11015.34,13458.55,2443.21
+PROD00266,Mini Hp Children,Books,Children,Hp,VEND0178,40535.14,68120.79,27585.65
+PROD00377,Smart Lg Cycling,Sports,Cycling,Lg,VEND0175,4929.41,6108.95,1179.54
 PROD00702,Essential Philips Footwear,Fashion,Footwear,Philips,VEND0207,30337.85,36912.52,6574.67
 PROD00994,Smart Dell Cycling,Sports,Cycling,Dell,VEND0042,9458.26,15420.63,5962.37
 PROD00440,Classic Wildcraft Smart Watch,Electronics,Smart Watch,Wildcraft,VEND0047,36313.12,56399.33,20086.21
@@ -429,16 +429,16 @@ PROD00185,Digital Lenovo Cricket,Sports,Cricket,Lenovo,VEND0283,39665.15,46354.6
 PROD01245,Digital Mi Storage,Home,Storage,Mi,VEND0290,33008.93,47513.85,14504.92
 PROD00245,Advanced Syska Fiction,Books,Fiction,Syska,VEND0279,48733.99,55586.36,6852.37
 PROD01118,Digital Titan Women Clothing,Fashion,Women Clothing,Titan,VEND0235,45371.05,59970.67,14599.62
-PROD00446,Classic Oneplus Makeup,Beauty,Makeup,oneplus,VEND0227,31422.6,37418.8,5996.2
+PROD00446,Classic Oneplus Makeup,Beauty,Makeup,Oneplus,VEND0227,31422.6,37418.8,5996.2
 PROD00608,Essential Loreal Hair Care,Beauty,Hair Care,Loreal,VEND0064,5432.9,7327.26,1894.36
-PROD01740,Advanced Allen Solly Cricket,Sports,Cricket,Allen Solly,VEND0134,28651.5,41286.29,12634.79
+PROD01740,Advanced Allen Solly Cricket,Sports,Cricket,Allen solly,VEND0134,28651.5,41286.29,12634.79
 PROD01764,Mini Maybelline Men Clothing,Fashion,Men Clothing,Maybelline,VEND0248,28044.83,32135.62,4090.79
-PROD01291,Max Us Polo Perfume,Beauty,Perfume,US Polo,VEND0196,18407.22,25742.97,7335.75
+PROD01291,Max Us Polo Perfume,Beauty,Perfume,Us polo,VEND0196,18407.22,25742.97,7335.75
 PROD00694,Elite Samsung Lighting,Home,Lighting,Samsung,VEND0223,40228.25,64121.95,23893.7
 PROD00416,Wireless Cello Outdoor,Sports,Outdoor,Cello,VEND0231,14477.3,17550.24,3072.94
 PROD00274,Portable Wildcraft Outdoor,Sports,Outdoor,Wildcraft,VEND0116,8274.62,10704.02,2429.4
-PROD00745,Luxury Allen Solly Men Clothing,Fashion,Men Clothing,Allen Solly,VEND0004,39908.34,58194.43,18286.09
-PROD01972,Ultra Oneplus Biography,Books,Biography,OnePlus,VEND0099,28571.87,34079.34,5507.47
+PROD00745,Luxury Allen Solly Men Clothing,Fashion,Men Clothing,Allen solly,VEND0004,39908.34,58194.43,18286.09
+PROD01972,Ultra Oneplus Biography,Books,Biography,Oneplus,VEND0099,28571.87,34079.34,5507.47
 PROD01476,Digital Nivea Bags,Fashion,Bags,Nivea,VEND0007,16747.39,19542.82,2795.43
 PROD00251,Max Reebok Watches,Fashion,Watches,Reebok,VEND0019,49456.68,70516.25,21059.57
 PROD00414,Eco Milton Women Clothing,Fashion,Women Clothing,Milton,VEND0197,19453.74,28360.74,8907.0
@@ -447,14 +447,14 @@ PROD01420,Wireless Syska Skin Care,Beauty,Skin Care,Syska,VEND0064,41865.34,5959
 PROD00311,Smart Syska Camera,Electronics,Camera,Syska,VEND0212,11322.3,14036.28,2713.98
 PROD00583,Smart Samsung Women Clothing,Fashion,Women Clothing,Samsung,VEND0294,686.83,792.19,105.36
 PROD01842,Essential Borosil Kitchen,Home,Kitchen,Borosil,VEND0027,43736.97,56595.76,12858.79
-PROD00426,Eco Oneplus Outdoor,Sports,Outdoor,OnePlus,VEND0180,40685.82,64416.41,23730.59
+PROD00426,Eco Oneplus Outdoor,Sports,Outdoor,Oneplus,VEND0180,40685.82,64416.41,23730.59
 PROD01905,Pro Maybelline Makeup,Beauty,Makeup,Maybelline,VEND0269,48594.05,73542.0,24947.95
 PROD01838,Pro Dell Outdoor,Sports,Outdoor,Dell,VEND0144,29652.32,34449.64,4797.32
 PROD01171,Premium Canon Makeup,Beauty,Makeup,Canon,VEND0184,10511.18,11859.02,1347.84
 PROD01375,Pro Prestige Skin Care,Beauty,Skin Care,Prestige,VEND0245,3259.91,3643.93,384.02
 PROD00708,Wireless Maybelline Bags,Fashion,Bags,Maybelline,VEND0135,25849.39,15509.633999999998,-10339.76
 PROD01600,Premium Casio Storage,Home,Storage,Casio,VEND0275,46332.83,56327.15,9994.32
-PROD01487,Pro Oneplus Makeup,Beauty,Makeup,OnePlus,VEND0005,9244.11,11055.97,1811.86
+PROD01487,Pro Oneplus Makeup,Beauty,Makeup,Oneplus,VEND0005,9244.11,11055.97,1811.86
 PROD00927,Pro Canon Perfume,Beauty,Perfume,Canon,VEND0267,36728.96,53375.79,16646.83
 PROD01617,Premium Lakme Storage,Home,Storage,Lakme,VEND0146,29579.0,36732.77,7153.77
 PROD00183,Digital Puma Watches,Fashion,Watches,Puma,VEND0300,3330.83,4213.53,882.7
@@ -466,18 +466,18 @@ PROD01382,Wireless Nivea Education,Books,Education,Nivea,VEND0244,22623.31,34199
 PROD01731,Wireless Prestige Perfume,Beauty,Perfume,Prestige,VEND0267,3968.38,6536.83,2568.45
 PROD00273,Premium Adidas Education,Books,Education,Adidas,VEND0064,21659.28,35660.43,14001.15
 PROD00705,Luxury Titan Cycling,Sports,Cycling,Titan,VEND0125,48304.47,69457.05,21152.58
-PROD01562,Pro Allen Solly Tablet,Electronics,Tablet,Allen Solly,VEND0012,48929.11,60087.52,11158.41
+PROD01562,Pro Allen Solly Tablet,Electronics,Tablet,Allen solly,VEND0012,48929.11,60087.52,11158.41
 PROD00372,Essential Syska Fitness,Sports,Fitness,Syska,VEND0291,45961.65,56894.08,10932.43
 PROD00223,Max Adidas Bags,Fashion,Bags,Adidas,VEND0287,29772.31,49505.44,19733.13
 PROD01809,Premium Lenovo Headphones,Electronics,Headphones,Lenovo,VEND0081,25099.89,39527.46,14427.57
 PROD00945,Smart Lenovo Bags,Fashion,Bags,Lenovo,VEND0225,31549.32,41504.92,9955.6
 PROD00793,Essential Maybelline Tablet,Electronics,Tablet,Maybelline,VEND0062,43995.64,59859.7,15864.06
 PROD00519,Classic Ikea Biography,Books,Biography,Ikea,VEND0293,14905.16,17253.46,2348.3
-PROD00335,Elite Us Polo Kitchen,Home,Kitchen,US Polo,VEND0194,18754.32,30659.57,11905.25
-PROD01310,Ultra Us Polo Decor,Home,Decor,US Polo,VEND0275,19585.71,33173.43,13587.72
+PROD00335,Elite Us Polo Kitchen,Home,Kitchen,Us polo,VEND0194,18754.32,30659.57,11905.25
+PROD01310,Ultra Us Polo Decor,Home,Decor,Us polo,VEND0275,19585.71,33173.43,13587.72
 PROD01685,Pro Reebok Tablet,Electronics,Tablet,Reebok,VEND0280,24211.79,29306.59,5094.8
 PROD01424,Digital Bajaj Footwear,Fashion,Footwear,Bajaj,VEND0001,8621.58,14538.24,5916.66
-PROD01404,Essential Reebok Lighting,Home,Lighting,   Reebok   ,VEND0082,14990.13,23819.43,8829.3
+PROD01404,Essential Reebok Lighting,Home,Lighting,Reebok,VEND0082,14990.13,23819.43,8829.3
 PROD00016,Elite Philips Makeup,Beauty,Makeup,Philips,VEND0047,49866.42,58991.93,9125.51
 PROD01660,Advanced Prestige Cricket,Sports,Cricket,Prestige,VEND0176,15500.7,17433.02,1932.32
 PROD01993,Wireless Nike Fitness,Sports,Fitness,Nike,VEND0045,26611.53,42023.72,15412.19
@@ -489,12 +489,12 @@ PROD00466,Ultra Borosil Furniture,Home,Furniture,Borosil,VEND0019,18230.63,30119
 PROD01266,Ultra Wildcraft Makeup,Beauty,Makeup,Wildcraft,VEND0076,29204.11,41606.69,12402.58
 PROD00200,Digital Maybelline Fitness,Sports,Fitness,Maybelline,VEND0250,21524.19,27334.6,5810.41
 PROD01224,Advanced Nike Cricket,Sports,Cricket,Nike,VEND0209,13500.91,17429.7,3928.79
-PROD01466,Smart Allen Solly Skin Care,Beauty,Skin Care,Allen Solly,VEND0220,24035.64,30509.26,6473.62
+PROD01466,Smart Allen Solly Skin Care,Beauty,Skin Care,Allen solly,VEND0220,24035.64,30509.26,6473.62
 PROD01319,Digital Prestige Kitchen,Home,Kitchen,Prestige,VEND0035,44133.66,62786.42,18652.76
 PROD01712,Wireless Ikea Laptop,Electronics,Laptop,Ikea,VEND0266,3785.12,5470.31,1685.19
 PROD01987,Luxury Adidas Fiction,Books,Fiction,Adidas,VEND0161,38616.43,44053.71,5437.28
 PROD01421,Premium Noise Furniture,Home,Furniture,Noise,VEND0285,43107.07,65399.01,22291.94
-PROD01434,Mini Us Polo Fitness,Sports,Fitness,US Polo,VEND0171,3344.67,4963.85,1619.18
+PROD01434,Mini Us Polo Fitness,Sports,Fitness,Us polo,VEND0171,3344.67,4963.85,1619.18
 PROD01119,Portable Borosil Mobile,Electronics,Mobile,Borosil,VEND0204,6703.59,8674.09,1970.5
 PROD01594,Ultra Fastrack Mobile,Electronics,Mobile,Fastrack,VEND0145,46363.59,54412.8,8049.21
 PROD00044,Digital Lakme Women Clothing,Fashion,Women Clothing,Lakme,VEND0154,11972.36,16012.69,4040.33
@@ -503,8 +503,8 @@ PROD01114,Portable Boat Tablet,Electronics,Tablet,Boat,VEND0270,47364.81,55436.2
 PROD00102,Luxury Borosil Hair Care,Beauty,Hair Care,Borosil,VEND0009,32312.85,45060.04,12747.19
 PROD00887,Wireless Borosil Mobile,Electronics,Mobile,Borosil,VEND0088,5688.71,7891.33,2202.62
 PROD01839,Digital Lenovo Decor,Home,Decor,Lenovo,VEND0197,6378.87,9015.84,2636.97
-PROD01589,Premium Oneplus Decor,Home,Decor,OnePlus,VEND0079,4708.06,5251.3,543.24
-PROD00108,Premium Ikea Laptop,Electronics,Laptop,ikea,VEND0274,11412.78,13782.81,2370.03
+PROD01589,Premium Oneplus Decor,Home,Decor,Oneplus,VEND0079,4708.06,5251.3,543.24
+PROD00108,Premium Ikea Laptop,Electronics,Laptop,Ikea,VEND0274,11412.78,13782.81,2370.03
 PROD01076,Luxury Mi Bags,Fashion,Bags,Mi,VEND0039,24872.74,40005.33,15132.59
 PROD00498,Wireless Mamaearth Storage,Home,Storage,Mamaearth,VEND0089,17772.49,28498.78,10726.29
 PROD01129,Smart Casio Smart Watch,Electronics,Smart Watch,Casio,VEND0254,8219.57,11345.31,3125.74
@@ -516,11 +516,11 @@ PROD00073,Portable Cello Children,Books,Children,Cello,VEND0003,20012.66,23785.9
 PROD00768,Max Syska Furniture,Home,Furniture,Syska,VEND0278,7793.52,9955.47,2161.95
 PROD01232,Max Boat Men Clothing,Fashion,Men Clothing,Boat,VEND0046,36972.19,53160.42,16188.23
 PROD01587,Portable Syska Makeup,Beauty,Makeup,Syska,VEND0065,7964.26,9864.39,1900.13
-PROD01915,Classic Us Polo Children,Books,Children,US Polo,VEND0244,31756.89,41196.66,9439.77
+PROD01915,Classic Us Polo Children,Books,Children,Us polo,VEND0244,31756.89,41196.66,9439.77
 PROD00482,Premium Wildcraft Laptop,Electronics,Laptop,Wildcraft,VEND0111,41328.02,62741.17,21413.15
 PROD01084,Digital Fastrack Decor,Home,Decor,Fastrack,VEND0154,7429.8,8843.57,1413.77
 PROD00507,Max Noise Storage,Home,Storage,Noise,VEND0066,18950.29,29190.97,10240.68
-PROD00786,Premium Titan Bags,Fashion,Bags,titan,VEND0146,47993.23,52798.19,4804.96
+PROD00786,Premium Titan Bags,Fashion,Bags,Titan,VEND0146,47993.23,52798.19,4804.96
 PROD01853,Wireless Fastrack Children,Books,Children,Fastrack,VEND0280,24540.51,33965.76,9425.25
 PROD01940,Wireless Lenovo Skin Care,Beauty,Skin Care,Lenovo,VEND0297,7341.89,9232.42,1890.53
 PROD00312,Advanced Lenovo Bags,Fashion,Bags,Lenovo,VEND0081,34075.54,40293.65,6218.11
@@ -536,8 +536,8 @@ PROD00149,Classic Nivea Footwear,Fashion,Footwear,Nivea,VEND0290,21562.81,26878.
 PROD00638,Portable Bajaj Laptop,Electronics,Laptop,Bajaj,VEND0223,41446.0,67440.2,25994.2
 PROD00728,Wireless Maybelline Cycling,Sports,Cycling,Maybelline,VEND0102,1040.77,1220.56,179.79
 PROD00833,Essential Syska Fitness,Sports,Fitness,Syska,VEND0022,5510.35,7571.99,2061.64
-PROD01199,Pro Lg Mobile,Electronics,Mobile,LG,VEND0229,21273.09,25060.51,3787.42
-PROD00576,Premium Lg Fitness,Sports,Fitness,LG,VEND0025,33115.4,49412.83,16297.43
+PROD01199,Pro Lg Mobile,Electronics,Mobile,Lg,VEND0229,21273.09,25060.51,3787.42
+PROD00576,Premium Lg Fitness,Sports,Fitness,Lg,VEND0025,33115.4,49412.83,16297.43
 PROD00711,Pro Cello Kitchen,Home,Kitchen,Cello,VEND0136,36868.76,45751.06,8882.3
 PROD01279,Digital Fastrack Decor,Home,Decor,Fastrack,VEND0088,12045.49,19100.45,7054.96
 PROD01376,Premium Samsung Skin Care,Beauty,Skin Care,Samsung,VEND0299,3099.77,4807.99,1708.22
@@ -550,11 +550,11 @@ PROD00753,Smart Fastrack Makeup,Beauty,Makeup,Fastrack,VEND0075,34861.89,39011.9
 PROD00599,Wireless Philips Headphones,Electronics,Headphones,Philips,VEND0121,27547.25,36560.23,9012.98
 PROD00951,Pro Borosil Fiction,Books,Fiction,Borosil,VEND0067,45363.58,66730.88,21367.3
 PROD01008,Portable Bajaj Furniture,Home,Furniture,Bajaj,VEND0152,48781.27,63355.57,14574.3
-PROD01661,Luxury Allen Solly Fitness,Sports,Fitness,Allen Solly,VEND0178,39776.88,57278.61,17501.73
+PROD01661,Luxury Allen Solly Fitness,Sports,Fitness,Allen solly,VEND0178,39776.88,57278.61,17501.73
 PROD01611,Mini Canon Decor,Home,Decor,Canon,VEND0075,3678.38,5496.14,1817.76
 PROD01055,Classic Mi Tablet,Electronics,Tablet,Mi,VEND0063,16964.65,24717.1,7752.45
 PROD01290,Classic Sony Women Clothing,Fashion,Women Clothing,Sony,VEND0231,23289.39,34297.71,11008.32
-PROD01303,Luxury Us Polo Women Clothing,Fashion,Women Clothing,US Polo,VEND0276,21314.68,33071.34,11756.66
+PROD01303,Luxury Us Polo Women Clothing,Fashion,Women Clothing,Us polo,VEND0276,21314.68,33071.34,11756.66
 PROD01222,Classic Puma Tablet,Electronics,Tablet,Puma,VEND0062,20670.5,26758.6,6088.1
 PROD00610,Essential Borosil Cricket,Sports,Cricket,Borosil,VEND0091,46222.33,72506.61,26284.28
 PROD01059,Wireless Adidas Hair Care,Beauty,Hair Care,Adidas,VEND0035,1534.69,2367.53,832.84
@@ -562,26 +562,26 @@ PROD00813,Premium Fastrack Storage,Home,Storage,Fastrack,VEND0127,28056.34,42855
 PROD01443,Max Wildcraft Education,Books,Education,Wildcraft,VEND0209,31799.98,36638.84,4838.86
 PROD00494,Classic Maybelline Cricket,Sports,Cricket,Maybelline,VEND0139,45638.22,63959.04,18320.82
 PROD00278,Luxury Apple Fitness,Sports,Fitness,Apple,VEND0296,4107.08,6855.24,2748.16
-PROD01876,Pro Allen Solly Cricket,Sports,Cricket,Allen Solly,VEND0130,36561.2,50605.94,14044.74
+PROD01876,Pro Allen Solly Cricket,Sports,Cricket,Allen solly,VEND0130,36561.2,50605.94,14044.74
 PROD00359,Mini Cello Outdoor,Sports,Outdoor,Cello,VEND0132,27554.59,45908.12,18353.53
-PROD01570,Elite Us Polo Men Clothing,Fashion,Men Clothing,US Polo,VEND0065,13176.99,20205.22,7028.23
+PROD01570,Elite Us Polo Men Clothing,Fashion,Men Clothing,Us polo,VEND0065,13176.99,20205.22,7028.23
 PROD00552,Mini Wildcraft Cycling,Sports,Cycling,Wildcraft,VEND0142,34236.44,47555.89,13319.45
-PROD00916,Luxury Hp Bags,Fashion,Bags,HP,VEND0143,6384.73,7317.65,932.92
+PROD00916,Luxury Hp Bags,Fashion,Bags,Hp,VEND0143,6384.73,7317.65,932.92
 PROD00209,Smart Loreal Makeup,Beauty,Makeup,Loreal,VEND0262,11117.52,17426.39,6308.87
 PROD01407,Eco Lenovo Children,Books,Children,Lenovo,VEND0028,6588.49,10221.12,3632.63
 PROD01584,Portable Nivea Laptop,Electronics,Laptop,Nivea,VEND0163,42046.44,59343.42,17296.98
 PROD00059,Max Mi Hair Care,Beauty,Hair Care,Mi,VEND0117,40838.5,56201.21,15362.71
-PROD01608,Essential Allen Solly Cricket,Sports,Cricket,Allen Solly,VEND0033,10026.05,13151.66,3125.61
+PROD01608,Essential Allen Solly Cricket,Sports,Cricket,Allen solly,VEND0033,10026.05,13151.66,3125.61
 PROD01889,Ultra Reebok Headphones,Electronics,Headphones,Reebok,VEND0256,45733.57,68021.66,22288.09
 PROD01601,Mini Milton Headphones,Electronics,Headphones,Milton,VEND0059,38060.0,46805.58,8745.58
-PROD00364,Eco Lg Makeup,Beauty,Makeup,LG,VEND0248,30910.87,46367.94,15457.07
+PROD00364,Eco Lg Makeup,Beauty,Makeup,Lg,VEND0248,30910.87,46367.94,15457.07
 PROD00506,Portable Lakme Children,Books,Children,Lakme,VEND0183,8751.42,14713.29,5961.87
 PROD01981,Premium Borosil Decor,Home,Decor,Borosil,VEND0200,47077.63,68533.93,21456.3
 PROD01139,Pro Mamaearth Fiction,Books,Fiction,Mamaearth,VEND0205,4672.92,5855.63,1182.71
 PROD01627,Mini Adidas Women Clothing,Fashion,Women Clothing,Adidas,VEND0076,29193.49,34213.04,5019.55
 PROD01234,Digital Milton Storage,Home,Storage,Milton,VEND0176,47872.99,61803.19,13930.2
 PROD01646,Eco Lenovo Fiction,Books,Fiction,Lenovo,VEND0245,9294.69,15286.69,5992.0
-PROD01890,Classic Oneplus Furniture,Home,Furniture,OnePlus,VEND0093,15131.8,17487.98,2356.18
+PROD01890,Classic Oneplus Furniture,Home,Furniture,Oneplus,VEND0093,15131.8,17487.98,2356.18
 PROD00944,Classic Mi Makeup,Beauty,Makeup,Mi,VEND0098,8872.08,9968.66,1096.58
 PROD00119,Digital Casio Education,Books,Education,Casio,VEND0102,39402.01,58119.34,18717.33
 PROD00782,Classic Lenovo Children,Books,Children,Lenovo,VEND0259,8382.13,10127.61,1745.48
@@ -592,7 +592,7 @@ PROD00381,Smart Puma Lighting,Home,Lighting,Puma,VEND0047,36995.78,47724.81,1072
 PROD01714,Classic Casio Cricket,Sports,Cricket,Casio,VEND0134,32678.94,36579.66,3900.72
 PROD00085,Wireless Apple Smart Watch,Electronics,Smart Watch,Apple,VEND0237,4243.18,5758.71,1515.53
 PROD01703,Digital Mi Hair Care,Beauty,Hair Care,Mi,VEND0147,9826.11,13704.1,3877.99
-PROD00988,Eco Lg Cycling,Sports,Cycling,LG,VEND0021,5592.78,7378.86,1786.08
+PROD00988,Eco Lg Cycling,Sports,Cycling,Lg,VEND0021,5592.78,7378.86,1786.08
 PROD00330,Elite Nike Cricket,Sports,Cricket,Nike,VEND0047,34030.75,52072.18,18041.43
 PROD00007,Digital Mamaearth Fitness,Sports,Fitness,Mamaearth,VEND0186,3986.07,5085.85,1099.78
 PROD00760,Premium Nike Watches,Fashion,Watches,Nike,VEND0298,19820.62,24693.59,4872.97
@@ -605,21 +605,21 @@ PROD01504,Portable Bajaj Mobile,Electronics,Mobile,Bajaj,VEND0044,36819.77,47977
 PROD00288,Eco Maybelline Kitchen,Home,Kitchen,Maybelline,VEND0241,2480.47,3147.25,666.78
 PROD01854,Ultra Nivea Mobile,Electronics,Mobile,Nivea,VEND0091,1490.41,2439.14,948.73
 PROD00808,Premium Mamaearth Fiction,Books,Fiction,Mamaearth,VEND0131,29171.1,43701.72,14530.62
-PROD01360,Smart Us Polo Fiction,Books,Fiction,US Polo,VEND0198,44255.73,75034.86,30779.13
+PROD01360,Smart Us Polo Fiction,Books,Fiction,Us polo,VEND0198,44255.73,75034.86,30779.13
 PROD00963,Advanced Lenovo Headphones,Electronics,Headphones,Lenovo,VEND0260,30965.1,50090.34,19125.24
 PROD01727,Smart Reebok Women Clothing,Fashion,Women Clothing,Reebok,VEND0040,23961.13,28116.61,4155.48
 PROD00814,Premium Loreal Cycling,Sports,Cycling,Loreal,VEND0178,24522.15,37926.8,13404.65
 PROD01484,Premium Prestige Storage,Home,Storage,Prestige,VEND0290,34850.48,41031.58,6181.1
-PROD01104,Elite Hp Tablet,Electronics,Tablet,HP,VEND0212,41168.73,68517.0,27348.27
-PROD01675,Essential Us Polo Fitness,Sports,Fitness,US Polo,VEND0155,4467.03,5290.53,823.5
+PROD01104,Elite Hp Tablet,Electronics,Tablet,Hp,VEND0212,41168.73,68517.0,27348.27
+PROD01675,Essential Us Polo Fitness,Sports,Fitness,Us polo,VEND0155,4467.03,5290.53,823.5
 PROD00328,Eco Syska Cricket,Sports,Cricket,Syska,VEND0058,35203.12,40373.11,5169.99
 PROD01478,Classic Canon Cycling,Sports,Cycling,Canon,VEND0045,32529.9,39882.31,7352.41
 PROD01095,Essential Mamaearth Watches,Fashion,Watches,Mamaearth,VEND0217,40301.79,62321.7,22019.91
-PROD00943,Mini Hp Skin Care,Beauty,Skin Care,HP,VEND0042,18299.5,29498.89,11199.39
+PROD00943,Mini Hp Skin Care,Beauty,Skin Care,Hp,VEND0042,18299.5,29498.89,11199.39
 PROD00178,Ultra Lakme Storage,Home,Storage,Lakme,VEND0216,838.27,1055.57,217.3
 PROD01341,Pro Titan Headphones,Electronics,Headphones,Titan,VEND0258,19149.45,28424.59,9275.14
-PROD00087,Premium Us Polo Makeup,Beauty,Makeup,US Polo,VEND0277,12650.96,14537.77,1886.81
-PROD01429,Classic Allen Solly Women Clothing,Fashion,Women Clothing,Allen Solly,VEND0084,3764.26,4716.54,952.28
+PROD00087,Premium Us Polo Makeup,Beauty,Makeup,Us polo,VEND0277,12650.96,14537.77,1886.81
+PROD01429,Classic Allen Solly Women Clothing,Fashion,Women Clothing,Allen solly,VEND0084,3764.26,4716.54,952.28
 PROD01930,Eco Apple Children,Books,Children,Apple,VEND0242,16284.76,20355.37,4070.61
 PROD00458,Classic Canon Bags,Fashion,Bags,Canon,VEND0060,2942.4,3388.84,446.44
 PROD01857,Mini Boat Footwear,Fashion,Footwear,Boat,VEND0265,45290.95,65767.37,20476.42
@@ -631,19 +631,19 @@ PROD00114,Max Syska Outdoor,Sports,Outdoor,Syska,VEND0220,19049.88,31339.01,1228
 PROD01974,Essential Prestige Children,Books,Children,Prestige,VEND0156,11474.74,14431.93,2957.19
 PROD01246,Essential Adidas Furniture,Home,Furniture,Adidas,VEND0292,37311.37,43895.28,6583.91
 PROD01895,Classic Reebok Smart Watch,Electronics,Smart Watch,Reebok,VEND0133,21151.73,23958.71,2806.98
-PROD00175,Luxury Oneplus Storage,Home,Storage,OnePlus,VEND0076,40662.0,50412.72,9750.72
+PROD00175,Luxury Oneplus Storage,Home,Storage,Oneplus,VEND0076,40662.0,50412.72,9750.72
 PROD00590,Classic Mamaearth Makeup,Beauty,Makeup,Mamaearth,VEND0086,34510.63,47864.41,13353.78
 PROD01583,Premium Canon Bags,Fashion,Bags,Canon,VEND0008,257.67,423.98,166.31
 PROD00019,Mini Bajaj Fiction,Books,Fiction,Bajaj,VEND0058,37556.35,58631.44,21075.09
 PROD00424,Luxury Titan Men Clothing,Fashion,Men Clothing,Titan,VEND0122,43271.26,50646.05,7374.79
 PROD01362,Essential Nivea Cricket,Sports,Cricket,Nivea,VEND0218,34837.95,51927.49,17089.54
 PROD00286,Advanced Mi Cycling,Sports,Cycling,Mi,VEND0240,38167.91,53395.35,15227.44
-PROD01607,Mini Allen Solly Perfume,Beauty,Perfume,Allen Solly,VEND0056,29836.67,37683.84,7847.17
+PROD01607,Mini Allen Solly Perfume,Beauty,Perfume,Allen solly,VEND0056,29836.67,37683.84,7847.17
 PROD00429,Wireless Prestige Skin Care,Beauty,Skin Care,Prestige,VEND0068,43359.03,50995.98,7636.95
 PROD01533,Portable Syska Men Clothing,Fashion,Men Clothing,Syska,VEND0109,18909.14,31590.44,12681.3
 PROD00765,Premium Maybelline Children,Books,Children,Maybelline,VEND0249,36233.74,45307.31,9073.57
 PROD00670,Essential Borosil Bags,Fashion,Bags,Borosil,VEND0072,44364.24,48976.28,4612.04
-PROD00032,Classic Us Polo Lighting,Home,Lighting,US Polo,VEND0182,9560.98,11073.13,1512.15
+PROD00032,Classic Us Polo Lighting,Home,Lighting,Us polo,VEND0182,9560.98,11073.13,1512.15
 PROD01861,Wireless Maybelline Footwear,Fashion,Footwear,Maybelline,VEND0045,5929.84,8181.7,2251.86
 PROD00723,Wireless Prestige Camera,Electronics,Camera,Prestige,VEND0196,40214.17,57635.11,17420.94
 PROD00215,Premium Dell Watches,Fashion,Watches,Dell,VEND0189,15554.87,21328.03,5773.16
@@ -651,7 +651,7 @@ PROD00830,Mini Titan Laptop,Electronics,Laptop,Titan,VEND0235,43363.09,60446.66,
 PROD00327,Luxury Canon Education,Books,Education,Canon,VEND0042,34033.08,49602.83,15569.75
 PROD01305,Classic Reebok Watches,Fashion,Watches,Reebok,VEND0033,49009.6,59915.35,10905.75
 PROD00701,Eco Ikea Headphones,Electronics,Headphones,Ikea,VEND0179,36320.63,52137.11,15816.48
-PROD01207,Essential Us Polo Storage,Home,Storage,US Polo,VEND0146,2480.12,4058.84,1578.72
+PROD01207,Essential Us Polo Storage,Home,Storage,Us polo,VEND0146,2480.12,4058.84,1578.72
 PROD00342,Luxury Reebok Furniture,Home,Furniture,Reebok,VEND0029,21976.19,31290.93,9314.74
 PROD00630,Classic Milton Fitness,Sports,Fitness,Milton,VEND0048,8010.56,11421.84,3411.28
 PROD00148,Luxury Wildcraft Hair Care,Beauty,Hair Care,Wildcraft,VEND0029,45176.03,50940.25,5764.22
@@ -669,28 +669,28 @@ PROD00501,Pro Noise Cycling,Sports,Cycling,Noise,VEND0113,24547.3,28331.37,3784.
 PROD01791,Ultra Philips Cricket,Sports,Cricket,Philips,VEND0249,33683.71,42413.57,8729.86
 PROD00180,Digital Sony Hair Care,Beauty,Hair Care,Sony,VEND0267,36375.79,59847.31,23471.52
 PROD01782,Advanced Puma Decor,Home,Decor,Puma,VEND0087,4844.0,6933.21,2089.21
-PROD00915,Portable Lg Outdoor,Sports,Outdoor,LG,VEND0014,32833.18,41864.01,9030.83
+PROD00915,Portable Lg Outdoor,Sports,Outdoor,Lg,VEND0014,32833.18,41864.01,9030.83
 PROD01174,Luxury Loreal Makeup,Beauty,Makeup,Loreal,VEND0286,39255.05,61301.64,22046.59
 PROD01643,Advanced Sony Mobile,Electronics,Mobile,Sony,VEND0052,28782.76,35784.46,7001.7
 PROD00529,Classic Sony Kitchen,Home,Kitchen,Sony,VEND0104,21197.58,35886.82,14689.24
-PROD00347,Ultra Us Polo Cycling,Sports,Cycling,US Polo,VEND0276,20442.55,26165.1,5722.55
+PROD00347,Ultra Us Polo Cycling,Sports,Cycling,Us polo,VEND0276,20442.55,26165.1,5722.55
 PROD01408,Elite Fastrack Biography,Books,Biography,Fastrack,VEND0248,32748.97,47364.65,14615.68
 PROD01991,Premium Milton Fitness,Sports,Fitness,Milton,VEND0259,18705.04,26924.57,8219.53
 PROD00937,Smart Lenovo Storage,Home,Storage,Lenovo,VEND0018,45634.83,69786.62,24151.79
-PROD01030,Essential Lg Biography,Electronics,Hair Care,LG,VEND0040,14528.32,20597.78,6069.46
+PROD01030,Essential Lg Biography,Electronics,Hair Care,Lg,VEND0040,14528.32,20597.78,6069.46
 PROD00602,Smart Sony Perfume,Beauty,Perfume,Sony,VEND0156,27878.69,30669.4,2790.71
 PROD01064,Ultra Mamaearth Makeup,Beauty,Makeup,Mamaearth,VEND0286,22155.68,24849.56,2693.88
 PROD00244,Classic Samsung Bags,Fashion,Bags,Samsung,VEND0096,30759.74,38275.53,7515.79
-PROD01453,Digital Oneplus Children,Books,Children,OnePlus,VEND0264,46156.67,76503.08,30346.41
-PROD01990,Luxury Us Polo Camera,Electronics,Camera,US Polo,VEND0025,21395.18,33882.24,12487.06
+PROD01453,Digital Oneplus Children,Books,Children,Oneplus,VEND0264,46156.67,76503.08,30346.41
+PROD01990,Luxury Us Polo Camera,Electronics,Camera,Us polo,VEND0025,21395.18,33882.24,12487.06
 PROD01499,Ultra Noise Cricket,Sports,Cricket,Noise,VEND0091,32395.84,36044.53,3648.69
 PROD00313,Max Borosil Perfume,Beauty,Perfume,Borosil,VEND0165,32544.41,50559.26,18014.85
-PROD00436,Elite Sony Men Clothing,Fashion,Men Clothing,   Sony   ,VEND0009,5023.76,7888.98,2865.22
+PROD00436,Elite Sony Men Clothing,Fashion,Men Clothing,Sony,VEND0009,5023.76,7888.98,2865.22
 PROD01929,Smart Philips Furniture,Home,Furniture,Philips,VEND0293,6971.67,10261.96,3290.29
 PROD00953,Elite Dell Outdoor,Electronics,Hair Care,Dell,VEND0113,40899.12,47598.34,6699.22
 PROD00309,Max Borosil Makeup,Beauty,Makeup,Borosil,VEND0288,10738.64,17147.15,6408.51
 PROD00431,Smart Prestige Hair Care,Beauty,Hair Care,Prestige,VEND0048,31409.25,41620.5,10211.25
-PROD00567,Classic Allen Solly Cricket,Sports,Cricket,Allen Solly,VEND0003,20199.5,33918.93,13719.43
+PROD00567,Classic Allen Solly Cricket,Sports,Cricket,Allen solly,VEND0003,20199.5,33918.93,13719.43
 PROD01000,Luxury Fastrack Perfume,Beauty,Perfume,Fastrack,VEND0157,15238.91,17969.3,2730.39
 PROD00182,Essential Cello Fiction,Books,Fiction,Cello,VEND0042,35634.45,48681.55,13047.1
 PROD01622,Pro Nivea Skin Care,Beauty,Skin Care,Nivea,VEND0025,46888.3,54467.61,7579.31
@@ -714,22 +714,22 @@ PROD00127,Smart Maybelline Smart Watch,Electronics,Smart Watch,Maybelline,VEND00
 PROD00995,Ultra Ikea Hair Care,Beauty,Hair Care,Ikea,VEND0142,47914.91,54918.56,7003.65
 PROD00856,Luxury Syska Cricket,Sports,Cricket,Syska,VEND0093,36472.78,51012.46,14539.68
 PROD00356,Luxury Lenovo Perfume,Beauty,Perfume,Lenovo,VEND0164,40150.69,61569.0,21418.31
-PROD01640,Classic Lg Men Clothing,Fashion,Men Clothing,LG,VEND0100,32448.66,49945.01,17496.35
-PROD00683,Premium Allen Solly Camera,Electronics,Camera,Allen Solly,VEND0272,26126.11,34544.63,8418.52
+PROD01640,Classic Lg Men Clothing,Fashion,Men Clothing,Lg,VEND0100,32448.66,49945.01,17496.35
+PROD00683,Premium Allen Solly Camera,Electronics,Camera,Allen solly,VEND0272,26126.11,34544.63,8418.52
 PROD01380,Premium Maybelline Skin Care,Beauty,Skin Care,Maybelline,VEND0234,43660.22,69147.4,25487.18
 PROD00890,Classic Canon Storage,Home,Storage,Canon,VEND0034,27420.05,46184.55,18764.5
 PROD00210,Mini Syska Fiction,Books,Fiction,Syska,VEND0180,25522.11,41946.96,16424.85
-PROD00987,Essential Hp Outdoor,Sports,Outdoor,HP,VEND0029,31041.74,40398.24,9356.5
+PROD00987,Essential Hp Outdoor,Sports,Outdoor,Hp,VEND0029,31041.74,40398.24,9356.5
 PROD00141,Wireless Mamaearth Children,Books,Children,Mamaearth,VEND0078,19334.63,28967.4,9632.77
 PROD01458,Essential Reebok Lighting,Home,Lighting,Reebok,VEND0094,18746.76,24721.3,5974.54
 PROD01358,Mini Samsung Furniture,Home,Furniture,Samsung,VEND0252,43089.67,66281.44,23191.77
 PROD01122,Max Samsung Fitness,Sports,Fitness,Samsung,VEND0203,12720.16,18721.46,6001.3
 PROD01816,Classic Ikea Perfume,Beauty,Perfume,Ikea,VEND0288,21505.25,26523.54,5018.29
-PROD01113,Max Lg Education,Books,Education,LG,VEND0077,20081.69,12049.014,-8032.68
+PROD01113,Max Lg Education,Books,Education,Lg,VEND0077,20081.69,12049.014,-8032.68
 PROD00866,Classic Prestige Laptop,Electronics,Laptop,Prestige,VEND0274,42044.92,54805.19,12760.27
 PROD00910,Essential Prestige Storage,Home,Storage,Prestige,VEND0046,23273.57,26693.41,3419.84
 PROD00712,Mini Mi Kitchen,Home,Kitchen,Mi,VEND0080,41755.28,66883.64,25128.36
-PROD01285,Portable Cello Makeup,Beauty,Makeup,cello,VEND0192,25968.67,31354.55,5385.88
+PROD01285,Portable Cello Makeup,Beauty,Makeup,Cello,VEND0192,25968.67,31354.55,5385.88
 PROD01103,Luxury Titan Kitchen,Home,Kitchen,Titan,VEND0209,31586.07,51412.03,19825.96
 PROD01659,Mini Casio Outdoor,Sports,Outdoor,Casio,VEND0201,45520.85,59600.77,14079.92
 PROD00011,Classic Bajaj Outdoor,Sports,Outdoor,Bajaj,VEND0139,36469.88,43692.43,7222.55
@@ -740,8 +740,8 @@ PROD01108,Luxury Nike Fitness,Sports,Fitness,Nike,VEND0067,7933.23,11184.42,3251
 PROD00292,Mini Nike Watches,Fashion,Watches,Nike,VEND0174,6476.74,7500.12,1023.38
 PROD00755,Classic Nike Skin Care,Beauty,Skin Care,Nike,VEND0227,48731.2,74500.72,25769.52
 PROD00627,Ultra Samsung Cycling,Sports,Cycling,Samsung,VEND0021,16561.61,25269.93,8708.32
-PROD00964,Luxury Oneplus Lighting,Home,Lighting,OnePlus,VEND0077,13857.51,16853.94,2996.43
-PROD00880,Digital Lg Cricket,Sports,Cricket,LG,VEND0026,6547.2,9051.12,2503.92
+PROD00964,Luxury Oneplus Lighting,Home,Lighting,Oneplus,VEND0077,13857.51,16853.94,2996.43
+PROD00880,Digital Lg Cricket,Sports,Cricket,Lg,VEND0026,6547.2,9051.12,2503.92
 PROD00130,Advanced Bajaj Fitness,Sports,Fitness,Bajaj,VEND0186,23125.72,26190.4,3064.68
 PROD00844,Premium Nike Women Clothing,Fashion,Women Clothing,Nike,VEND0130,44932.17,75318.01,30385.84
 PROD00324,Advanced Fastrack Fiction,Books,Fiction,Fastrack,VEND0160,15374.98,20652.44,5277.46
@@ -749,18 +749,18 @@ PROD01106,Premium Lakme Bags,Fashion,Bags,Lakme,VEND0095,22690.42,25331.82,2641.
 PROD01477,Portable Loreal Education,Books,Education,Loreal,VEND0271,18060.41,28644.19,10583.78
 PROD01488,Max Milton Cricket,Sports,Cricket,Milton,VEND0113,35402.31,50095.82,14693.51
 PROD01274,Smart Samsung Tablet,Electronics,Tablet,Samsung,VEND0073,3732.87,4173.39,440.52
-PROD01808,Premium Us Polo Footwear,Fashion,Footwear,US Polo,VEND0019,10819.97,16662.76,5842.79
-PROD00696,Digital Lg Makeup,Beauty,Makeup,   LG   ,VEND0254,47288.51,75289.8,28001.29
-PROD00216,Elite Hp Men Clothing,Fashion,Men Clothing,HP,VEND0298,30769.67,43208.02,12438.35
+PROD01808,Premium Us Polo Footwear,Fashion,Footwear,Us polo,VEND0019,10819.97,16662.76,5842.79
+PROD00696,Digital Lg Makeup,Beauty,Makeup,Lg,VEND0254,47288.51,75289.8,28001.29
+PROD00216,Elite Hp Men Clothing,Fashion,Men Clothing,Hp,VEND0298,30769.67,43208.02,12438.35
 PROD01642,Smart Lenovo Cricket,Sports,Cricket,Lenovo,VEND0113,34073.97,50695.49,16621.52
 PROD01945,Eco Ikea Storage,Home,Storage,Ikea,VEND0186,1345.73,2190.99,845.26
-PROD00159,Classic Hp Education,Books,Education,HP,VEND0090,45485.91,58951.17,13465.26
+PROD00159,Classic Hp Education,Books,Education,Hp,VEND0090,45485.91,58951.17,13465.26
 PROD01074,Smart Lakme Perfume,Beauty,Perfume,Lakme,VEND0106,28648.31,45407.46,16759.15
-PROD01779,Essential Oneplus Camera,Electronics,Camera,OnePlus,VEND0161,21555.36,27309.64,5754.28
+PROD01779,Essential Oneplus Camera,Electronics,Camera,Oneplus,VEND0161,21555.36,27309.64,5754.28
 PROD00969,Pro Mi Bags,Fashion,Bags,Mi,VEND0057,37366.98,61245.36,23878.38
 PROD00842,Ultra Loreal Laptop,Electronics,Laptop,Loreal,VEND0084,28296.3,42323.29,14026.99
 PROD00635,Pro Cello Cricket,Sports,Cricket,Cello,VEND0165,2240.39,3671.93,1431.54
-PROD00517,Essential Allen Solly Fiction,Books,Fiction,Allen Solly,VEND0223,47124.99,56502.78,9377.79
+PROD00517,Essential Allen Solly Fiction,Books,Fiction,Allen solly,VEND0223,47124.99,56502.78,9377.79
 PROD01449,Essential Titan Fiction,Books,Fiction,Titan,VEND0269,48234.14,72578.55,24344.41
 PROD01544,Portable Fastrack Kitchen,Home,Kitchen,Fastrack,VEND0119,3983.71,5878.25,1894.54
 PROD00598,Mini Dell Hair Care,Beauty,Hair Care,Dell,VEND0143,37583.93,48572.73,10988.8
@@ -770,7 +770,7 @@ PROD00888,Portable Adidas Footwear,Fashion,Footwear,Adidas,VEND0055,25422.09,341
 PROD00411,Classic Syska Bags,Fashion,Bags,Syska,VEND0201,48297.52,62209.26,13911.74
 PROD00097,Max Fastrack Cricket,Sports,Cricket,Fastrack,VEND0166,21806.95,33552.52,11745.57
 PROD01781,Eco Ikea Kitchen,Home,Kitchen,Ikea,VEND0055,46963.28,58969.79,12006.51
-PROD00967,Luxury Lg Mobile,Electronics,Mobile,LG,VEND0015,46246.82,55752.05,9505.23
+PROD00967,Luxury Lg Mobile,Electronics,Mobile,Lg,VEND0015,46246.82,55752.05,9505.23
 PROD00157,Digital Casio Kitchen,Home,Kitchen,Casio,VEND0071,33904.33,51960.32,18055.99
 PROD00420,Elite Philips Tablet,Electronics,Tablet,Philips,VEND0290,26903.55,32309.16,5405.61
 PROD01831,Elite Nivea Education,Books,Education,Nivea,VEND0108,25993.02,32510.6,6517.58
@@ -778,7 +778,7 @@ PROD00478,Classic Casio Decor,Electronics,Hair Care,Casio,VEND0168,42553.14,7045
 PROD01885,Portable Borosil Education,Books,Education,Borosil,VEND0125,33438.42,53461.62,20023.2
 PROD00669,Classic Mamaearth Cycling,Sports,Cycling,Mamaearth,VEND0181,48635.07,60003.01,11367.94
 PROD01054,Portable Reebok Lighting,Home,Lighting,Reebok,VEND0087,34767.1,58636.19,23869.09
-PROD01902,Digital Us Polo Footwear,Fashion,Footwear,US Polo,VEND0019,925.07,1197.76,272.69
+PROD01902,Digital Us Polo Footwear,Fashion,Footwear,Us polo,VEND0019,925.07,1197.76,272.69
 PROD00554,Luxury Syska Kitchen,Home,Kitchen,Syska,VEND0207,38285.45,62780.95,24495.5
 PROD00179,Advanced Dell Fitness,Sports,Fitness,Dell,VEND0056,23838.49,37350.39,13511.9
 PROD00391,Classic Mi Footwear,Fashion,Footwear,Mi,VEND0164,23976.54,28929.67,4953.13
@@ -793,7 +793,7 @@ PROD01068,Premium Ikea Cycling,Sports,Cycling,Ikea,VEND0066,16058.12,17935.12,18
 PROD00665,Pro Casio Furniture,Home,Furniture,Casio,VEND0266,18503.29,20828.88,2325.59
 PROD00143,Ultra Syska Skin Care,Beauty,Skin Care,Syska,VEND0210,45526.56,50498.45,4971.89
 PROD01616,Smart Sony Perfume,Beauty,Perfume,Sony,VEND0232,49513.47,66978.97,17465.5
-PROD01450,Mini Dell Kitchen,Home,Kitchen,   Dell   ,VEND0027,18384.19,21693.18,3308.99
+PROD01450,Mini Dell Kitchen,Home,Kitchen,Dell,VEND0027,18384.19,21693.18,3308.99
 PROD00865,Mini Bajaj Cycling,Sports,Cycling,Bajaj,VEND0182,984.99,1424.73,439.74
 PROD00422,Pro Sony Watches,Fashion,Watches,Sony,VEND0218,38012.21,51879.82,13867.61
 PROD00637,Pro Dell Camera,Electronics,Camera,Dell,VEND0218,10578.53,15631.99,5053.46
@@ -808,7 +808,7 @@ PROD01830,Max Nivea Cycling,Sports,Cycling,Nivea,VEND0268,28212.33,33842.59,5630
 PROD01964,Luxury Mi Children,Books,Children,Mi,VEND0234,29467.43,43640.07,14172.64
 PROD00132,Eco Cello Bags,Fashion,Bags,Cello,VEND0123,6115.23,10297.36,4182.13
 PROD01800,Pro Canon Perfume,Beauty,Perfume,Canon,VEND0210,1496.68,1886.95,390.27
-PROD01010,Advanced Borosil Men Clothing,Fashion,Men Clothing,   Borosil   ,VEND0060,45013.71,53280.66,8266.95
+PROD01010,Advanced Borosil Men Clothing,Fashion,Men Clothing,Borosil,VEND0060,45013.71,53280.66,8266.95
 PROD01085,Digital Lakme Perfume,Beauty,Perfume,Lakme,VEND0105,43016.29,70834.18,27817.89
 PROD01884,Digital Boat Smart Watch,Electronics,Smart Watch,Boat,VEND0202,17268.36,23873.17,6604.81
 PROD01363,Mini Canon Education,Books,Education,Canon,VEND0015,23912.39,39524.34,15611.95
@@ -818,21 +818,21 @@ PROD00725,Max Bajaj Storage,Home,Storage,Bajaj,VEND0129,36041.99,56629.17,20587.
 PROD00291,Luxury Ikea Decor,Home,Decor,Ikea,VEND0282,3722.91,5221.58,1498.67
 PROD01160,Elite Boat Mobile,Electronics,Mobile,Boat,VEND0249,45125.65,69641.0,24515.35
 PROD01559,Eco Reebok Hair Care,Beauty,Hair Care,Reebok,VEND0249,16469.6,21251.89,4782.29
-PROD01035,Wireless Us Polo Fitness,Sports,Fitness,US Polo,VEND0068,23051.54,26413.38,3361.84
+PROD01035,Wireless Us Polo Fitness,Sports,Fitness,Us polo,VEND0068,23051.54,26413.38,3361.84
 PROD01381,Advanced Adidas Children,Books,Children,Adidas,VEND0144,1332.74,1564.29,231.55
 PROD00779,Advanced Syska Laptop,Electronics,Laptop,Syska,VEND0198,4901.11,7523.71,2622.6
-PROD00840,Mini Hp Fiction,Books,Fiction,HP,VEND0044,5752.54,7878.9,2126.36
-PROD00349,Ultra Us Polo Headphones,Electronics,Headphones,US Polo,VEND0199,48390.92,69410.58,21019.66
+PROD00840,Mini Hp Fiction,Books,Fiction,Hp,VEND0044,5752.54,7878.9,2126.36
+PROD00349,Ultra Us Polo Headphones,Electronics,Headphones,Us polo,VEND0199,48390.92,69410.58,21019.66
 PROD01975,Portable Wildcraft Women Clothing,Fashion,Women Clothing,Wildcraft,VEND0162,16719.42,21941.9,5222.48
-PROD00572,Mini Allen Solly Cycling,Sports,Cycling,Allen Solly,VEND0251,44404.3,75366.68,30962.38
+PROD00572,Mini Allen Solly Cycling,Sports,Cycling,Allen solly,VEND0251,44404.3,75366.68,30962.38
 PROD00918,Ultra Puma Outdoor,Sports,Outdoor,Puma,VEND0134,32974.82,43588.1,10613.28
 PROD01203,Elite Syska Storage,Home,Storage,Syska,VEND0017,5947.0,7300.45,1353.45
-PROD01917,Classic Oneplus Perfume,Beauty,Perfume,OnePlus,VEND0131,26635.41,32015.98,5380.57
+PROD01917,Classic Oneplus Perfume,Beauty,Perfume,Oneplus,VEND0131,26635.41,32015.98,5380.57
 PROD01491,Smart Canon Camera,Electronics,Camera,Canon,VEND0001,49477.34,60658.4,11181.06
-PROD01615,Pro Allen Solly Cricket,Sports,Cricket,Allen Solly,VEND0026,15923.28,20574.04,4650.76
-PROD01336,Smart Samsung Biography,Books,Biography,samsung,VEND0143,19489.87,26803.75,7313.88
+PROD01615,Pro Allen Solly Cricket,Sports,Cricket,Allen solly,VEND0026,15923.28,20574.04,4650.76
+PROD01336,Smart Samsung Biography,Books,Biography,Samsung,VEND0143,19489.87,26803.75,7313.88
 PROD01873,Wireless Lakme Skin Care,Beauty,Skin Care,Lakme,VEND0005,35079.35,51836.17,16756.82
-PROD00137,Max Us Polo Tablet,Electronics,Tablet,US Polo,VEND0002,17026.77,26776.82,9750.05
+PROD00137,Max Us Polo Tablet,Electronics,Tablet,Us polo,VEND0002,17026.77,26776.82,9750.05
 PROD00459,Ultra Wildcraft Skin Care,Beauty,Skin Care,Wildcraft,VEND0062,33320.67,49808.78,16488.11
 PROD01361,Luxury Mi Outdoor,Sports,Outdoor,Mi,VEND0179,38159.4,63888.69,25729.29
 PROD00334,Max Dell Fitness,Sports,Fitness,Dell,VEND0210,49307.56,68204.32,18896.76
@@ -843,7 +843,7 @@ PROD00817,Digital Philips Cycling,Sports,Cycling,Philips,VEND0071,7627.82,12496.
 PROD00606,Ultra Lenovo Cycling,Sports,Cycling,Lenovo,VEND0210,2336.62,2800.42,463.8
 PROD01886,Classic Adidas Smart Watch,Electronics,Smart Watch,Adidas,VEND0168,15951.92,26498.65,10546.73
 PROD01928,Classic Mamaearth Fiction,Books,Fiction,Mamaearth,VEND0211,29028.88,39213.95,10185.07
-PROD01335,Premium Oneplus Laptop,Electronics,Laptop,OnePlus,VEND0206,5338.97,6908.74,1569.77
+PROD01335,Premium Oneplus Laptop,Electronics,Laptop,Oneplus,VEND0206,5338.97,6908.74,1569.77
 PROD00911,Eco Dell Lighting,Home,Lighting,Dell,VEND0160,34219.5,48712.09,14492.59
 PROD01960,Eco Wildcraft Storage,Home,Storage,Wildcraft,VEND0298,3090.21,3821.2,730.99
 PROD01226,Luxury Lenovo Watches,Fashion,Watches,Lenovo,VEND0065,12353.49,17700.38,5346.89
@@ -859,7 +859,7 @@ PROD00172,Wireless Prestige Smart Watch,Electronics,Smart Watch,Prestige,VEND023
 PROD00650,Premium Noise Furniture,Home,Furniture,Noise,VEND0282,33565.35,48346.71,14781.36
 PROD01524,Advanced Ikea Women Clothing,Fashion,Women Clothing,Ikea,VEND0216,23046.4,36900.78,13854.38
 PROD01231,Wireless Maybelline Children,Books,Children,Maybelline,VEND0262,42129.81,51720.77,9590.96
-PROD01430,Portable Hp Perfume,Beauty,Perfume,HP,VEND0074,47239.79,71139.13,23899.34
+PROD01430,Portable Hp Perfume,Beauty,Perfume,Hp,VEND0074,47239.79,71139.13,23899.34
 PROD00902,Digital Reebok Children,Books,Children,Reebok,VEND0089,19109.17,27270.15,8160.98
 PROD00673,Pro Nike Makeup,Beauty,Makeup,Nike,VEND0083,24101.76,33436.1,9334.34
 PROD00259,Ultra Nivea Children,Books,Children,Nivea,VEND0016,25678.65,39800.34,14121.69
@@ -871,12 +871,12 @@ PROD00894,Eco Dell Bags,Fashion,Bags,Dell,VEND0195,29933.05,45237.97,15304.92
 PROD01866,Max Lakme Storage,Home,Storage,Lakme,VEND0103,20728.44,33189.66,12461.22
 PROD00550,Classic Wildcraft Lighting,Home,Lighting,Wildcraft,VEND0300,33875.95,54018.13,20142.18
 PROD00320,Classic Noise Education,Books,Education,Noise,VEND0219,30567.18,45338.33,14771.15
-PROD01329,Digital Lg Lighting,Home,Lighting,LG,VEND0053,41833.23,66385.45,24552.22
+PROD01329,Digital Lg Lighting,Home,Lighting,Lg,VEND0053,41833.23,66385.45,24552.22
 PROD01828,Ultra Boat Perfume,Beauty,Perfume,Boat,VEND0281,31326.94,44319.9,12992.96
 PROD00140,Premium Mamaearth Education,Books,Education,Mamaearth,VEND0163,11716.44,18340.06,6623.62
 PROD01761,Pro Syska Cricket,Sports,Cricket,Syska,VEND0295,26040.78,33596.87,7556.09
 PROD00532,Ultra Syska Camera,Electronics,Camera,Syska,VEND0076,39095.2,45644.09,6548.89
-PROD00225,Max Allen Solly Camera,Electronics,Camera,Allen Solly,VEND0093,25449.0,28272.27,2823.27
+PROD00225,Max Allen Solly Camera,Electronics,Camera,Allen solly,VEND0093,25449.0,28272.27,2823.27
 PROD00724,Classic Puma Kitchen,Home,Kitchen,Puma,VEND0256,23675.7,26181.66,2505.96
 PROD00787,Premium Syska Fitness,Sports,Fitness,Syska,VEND0154,6797.53,11108.49,4310.96
 PROD01178,Elite Ikea Women Clothing,Fashion,Women Clothing,Ikea,VEND0051,35422.76,55159.57,19736.81
@@ -885,7 +885,7 @@ PROD00326,Elite Nivea Lighting,Home,Lighting,Nivea,VEND0276,20821.49,29765.17,89
 PROD00300,Pro Sony Kitchen,Home,Kitchen,Sony,VEND0010,28649.89,43556.79,14906.9
 PROD01281,Classic Mamaearth Storage,Home,Storage,Mamaearth,VEND0126,34732.98,44832.32,10099.34
 PROD01158,Digital Apple Education,Books,Education,Apple,VEND0124,10501.01,15637.83,5136.82
-PROD00026,Luxury Allen Solly Watches,Fashion,Watches,Allen Solly,VEND0103,48219.93,79917.21,31697.28
+PROD00026,Luxury Allen Solly Watches,Fashion,Watches,Allen solly,VEND0103,48219.93,79917.21,31697.28
 PROD01888,Mini Noise Storage,Home,Storage,Noise,VEND0257,38403.8,50749.84,12346.04
 PROD00715,Max Noise Bags,Fashion,Bags,Noise,VEND0204,49220.51,81194.35,31973.84
 PROD00847,Wireless Prestige Storage,Home,Storage,Prestige,VEND0107,31007.31,44480.89,13473.58
@@ -900,12 +900,12 @@ PROD00468,Premium Nivea Men Clothing,Fashion,Men Clothing,Nivea,VEND0092,6014.08
 PROD00006,Portable Maybelline Tablet,Electronics,Tablet,Maybelline,VEND0236,30206.12,47854.86,17648.74
 PROD01394,Portable Loreal Fitness,Sports,Fitness,Loreal,VEND0196,18881.67,28897.75,10016.08
 PROD00229,Luxury Noise Kitchen,Home,Kitchen,Noise,VEND0085,41575.69,64968.61,23392.92
-PROD00543,Max Lg Smart Watch,Electronics,Smart Watch,LG,VEND0189,45905.65,69904.22,23998.57
+PROD00543,Max Lg Smart Watch,Electronics,Smart Watch,Lg,VEND0189,45905.65,69904.22,23998.57
 PROD00243,Pro Bajaj Smart Watch,Electronics,Smart Watch,Bajaj,VEND0074,870.95,1227.36,356.41
 PROD00899,Max Milton Headphones,Electronics,Headphones,Milton,VEND0032,20239.66,12143.796,-8095.86
 PROD01209,Luxury Wildcraft Perfume,Beauty,Perfume,Wildcraft,VEND0194,28309.91,46433.13,18123.22
 PROD01790,Pro Sony Women Clothing,Fashion,Women Clothing,Sony,VEND0071,47461.67,70071.03,22609.36
-PROD00843,Luxury Lg Kitchen,Home,Kitchen,LG,VEND0229,21008.11,27010.36,6002.25
+PROD00843,Luxury Lg Kitchen,Home,Kitchen,Lg,VEND0229,21008.11,27010.36,6002.25
 PROD01702,Portable Apple Makeup,Beauty,Makeup,Apple,VEND0231,46181.36,59698.44,13517.08
 PROD01713,Essential Reebok Cycling,Sports,Cycling,Reebok,VEND0057,30951.31,44185.01,13233.7
 PROD00662,Advanced Milton Lighting,Home,Lighting,Milton,VEND0006,25545.08,34181.13,8636.05
@@ -928,42 +928,42 @@ PROD00537,Max Loreal Men Clothing,Fashion,Men Clothing,Loreal,VEND0252,40878.43,
 PROD00812,Smart Lakme Fitness,Sports,Fitness,Lakme,VEND0096,24258.87,35375.83,11116.96
 PROD01767,Advanced Lakme Footwear,Fashion,Footwear,Lakme,VEND0076,5942.3,7993.0,2050.7
 PROD00086,Mini Casio Furniture,Home,Furniture,Casio,VEND0173,18986.24,23296.04,4309.8
-PROD01351,Ultra Hp Storage,Home,Storage,HP,VEND0102,21340.68,29455.36,8114.68
+PROD01351,Ultra Hp Storage,Home,Storage,Hp,VEND0102,21340.68,29455.36,8114.68
 PROD01201,Portable Cello Watches,Fashion,Watches,Cello,VEND0251,31841.23,54063.45,22222.22
 PROD01936,Classic Samsung Fiction,Books,Fiction,Samsung,VEND0267,37443.0,56509.51,19066.51
 PROD01392,Digital Borosil Decor,Home,Decor,Borosil,VEND0070,47577.62,71478.75,23901.13
 PROD01162,Classic Samsung Tablet,Electronics,Hair Care,Samsung,VEND0213,5178.04,8329.28,3151.24
 PROD01170,Luxury Mi Kitchen,Home,Kitchen,Mi,VEND0213,7857.89,10964.2,3106.31
-PROD01027,Elite Allen Solly Cricket,Sports,Cricket,Allen Solly,VEND0062,43423.88,64128.28,20704.4
+PROD01027,Elite Allen Solly Cricket,Sports,Cricket,Allen solly,VEND0062,43423.88,64128.28,20704.4
 PROD01031,Ultra Noise Outdoor,Sports,Outdoor,Noise,VEND0279,38246.23,55811.1,17564.87
 PROD01235,Mini Titan Biography,Books,Biography,Titan,VEND0175,13687.01,20494.47,6807.46
 PROD01515,Luxury Samsung Fiction,Books,Fiction,Samsung,VEND0076,43092.61,72689.89,29597.28
-PROD01088,Pro Allen Solly Perfume,Beauty,Perfume,Allen Solly,VEND0082,21129.86,34724.67,13594.81
+PROD01088,Pro Allen Solly Perfume,Beauty,Perfume,Allen solly,VEND0082,21129.86,34724.67,13594.81
 PROD00666,Premium Borosil Bags,Fashion,Bags,Borosil,VEND0166,45899.2,74766.64,28867.44
 PROD00365,Premium Apple Children,Books,Children,Apple,VEND0009,380.29,544.19,163.9
-PROD00078,Elite Syska Biography,Books,Biography,syska,VEND0040,24255.62,30163.02,5907.4
+PROD00078,Elite Syska Biography,Books,Biography,Syska,VEND0040,24255.62,30163.02,5907.4
 PROD00028,Eco Canon Skin Care,Beauty,Skin Care,Canon,VEND0284,11273.63,14687.86,3414.23
 PROD01457,Luxury Nike Lighting,Home,Lighting,Nike,VEND0129,45659.8,50415.1,4755.3
 PROD00526,Wireless Philips Cricket,Sports,Cricket,Philips,VEND0268,27702.42,44447.93,16745.51
 PROD01898,Portable Puma Fiction,Books,Fiction,Puma,VEND0133,397.49,663.38,265.89
-PROD00056,Essential Us Polo Watches,Fashion,Watches,US Polo,VEND0122,48693.16,75459.14,26765.98
+PROD00056,Essential Us Polo Watches,Fashion,Watches,Us polo,VEND0122,48693.16,75459.14,26765.98
 PROD00639,Premium Puma Fiction,Books,Fiction,Puma,VEND0045,1236.46,1891.93,655.47
 PROD00303,Elite Syska Children,Books,Children,Syska,VEND0273,18872.4,31592.61,12720.21
 PROD00625,Ultra Noise Bags,Fashion,Bags,Noise,VEND0264,49173.49,56287.98,7114.49
 PROD00008,Max Dell Outdoor,Sports,Outdoor,Dell,VEND0041,2338.93,2892.65,553.72
 PROD00804,Smart Puma Decor,Home,Decor,Puma,VEND0028,37898.8,61079.92,23181.12
-PROD01050,Max Hp Fitness,Sports,Fitness,HP,VEND0234,16439.36,19224.74,2785.38
+PROD01050,Max Hp Fitness,Sports,Fitness,Hp,VEND0234,16439.36,19224.74,2785.38
 PROD00337,Wireless Syska Cricket,Sports,Cricket,Syska,VEND0002,6410.99,10816.84,4405.85
 PROD00048,Essential Wildcraft Fitness,Sports,Fitness,Wildcraft,VEND0069,46591.21,54146.06,7554.85
-PROD01503,Eco Hp Kitchen,Home,Kitchen,HP,VEND0007,13419.44,22318.66,8899.22
-PROD00350,Elite Oneplus Decor,Home,Decor,OnePlus,VEND0190,16546.64,18986.31,2439.67
+PROD01503,Eco Hp Kitchen,Home,Kitchen,Hp,VEND0007,13419.44,22318.66,8899.22
+PROD00350,Elite Oneplus Decor,Home,Decor,Oneplus,VEND0190,16546.64,18986.31,2439.67
 PROD01080,Advanced Milton Biography,Books,Biography,Milton,VEND0161,40216.13,54683.73,14467.6
 PROD00239,Portable Sony Kitchen,Home,Kitchen,Sony,VEND0072,14379.63,22976.59,8596.96
 PROD00214,Eco Titan Smart Watch,Electronics,Smart Watch,Titan,VEND0029,31587.69,49838.99,18251.3
 PROD01271,Elite Wildcraft Watches,Fashion,Watches,Wildcraft,VEND0022,20963.83,25101.42,4137.59
 PROD01315,Portable Cello Cycling,Sports,Cycling,Cello,VEND0047,23037.22,33304.44,10267.22
 PROD00794,Premium Samsung Storage,Home,Storage,Samsung,VEND0157,31712.66,46913.05,15200.39
-PROD01097,Smart Lg Watches,Fashion,Watches,LG,VEND0163,24543.41,32515.67,7972.26
+PROD01097,Smart Lg Watches,Fashion,Watches,Lg,VEND0163,24543.41,32515.67,7972.26
 PROD01197,Mini Mamaearth Education,Books,Education,Mamaearth,VEND0265,26007.35,32472.26,6464.91
 PROD01592,Portable Wildcraft Education,Books,Education,Wildcraft,VEND0194,9731.75,15612.39,5880.64
 PROD01606,Portable Wildcraft Skin Care,Beauty,Skin Care,Wildcraft,VEND0250,8324.37,10184.86,1860.49
@@ -973,31 +973,31 @@ PROD00645,Luxury Bajaj Hair Care,Electronics,Hair Care,Bajaj,VEND0280,11032.29,1
 PROD01531,Essential Samsung Outdoor,Sports,Outdoor,Samsung,VEND0233,19849.71,26879.93,7030.22
 PROD00534,Eco Casio Bags,Fashion,Bags,Casio,VEND0243,19183.02,26690.31,7507.29
 PROD01532,Essential Milton Cycling,Sports,Cycling,Milton,VEND0081,15336.4,18961.75,3625.35
-PROD01227,Advanced Us Polo Watches,Fashion,Watches,US Polo,VEND0105,22326.81,35896.3,13569.49
+PROD01227,Advanced Us Polo Watches,Fashion,Watches,Us polo,VEND0105,22326.81,35896.3,13569.49
 PROD01075,Ultra Milton Bags,Fashion,Bags,Milton,VEND0154,40582.29,60890.99,20308.7
 PROD01323,Premium Reebok Makeup,Beauty,Makeup,Reebok,VEND0129,42795.87,57261.07,14465.2
 PROD01282,Ultra Mi Headphones,Electronics,Headphones,Mi,VEND0168,42729.05,54544.04,11814.99
 PROD00093,Smart Wildcraft Camera,Electronics,Camera,Wildcraft,VEND0290,42522.15,62092.84,19570.69
 PROD00667,Portable Syska Camera,Electronics,Camera,Syska,VEND0135,31696.67,40067.67,8371.0
-PROD00281,Elite Lg Skin Care,Beauty,Skin Care,LG,VEND0105,7946.12,10722.28,2776.16
+PROD00281,Elite Lg Skin Care,Beauty,Skin Care,Lg,VEND0105,7946.12,10722.28,2776.16
 PROD00360,Ultra Fastrack Perfume,Beauty,Perfume,Fastrack,VEND0072,8453.27,13330.68,4877.41
 PROD01256,Luxury Dell Outdoor,Sports,Outdoor,Dell,VEND0049,38798.69,57101.58,18302.89
 PROD01342,Smart Philips Fitness,Sports,Fitness,Philips,VEND0159,1109.61,1725.85,616.24
 PROD00848,Ultra Puma Laptop,Electronics,Laptop,Puma,VEND0017,2800.44,3666.93,866.49
 PROD01605,Portable Noise Decor,Home,Decor,Noise,VEND0144,9933.93,15970.0,6036.07
 PROD00111,Wireless Noise Makeup,Beauty,Makeup,Noise,VEND0245,48276.61,60417.55,12140.94
-PROD00043,Advanced Hp Fitness,Sports,Fitness,HP,VEND0162,20990.28,30440.17,9449.89
+PROD00043,Advanced Hp Fitness,Sports,Fitness,Hp,VEND0162,20990.28,30440.17,9449.89
 PROD00126,Digital Prestige Cricket,Sports,Cricket,Prestige,VEND0252,9115.38,13228.22,4112.84
-PROD00205,Wireless Allen Solly Skin Care,Beauty,Skin Care,Allen Solly,VEND0161,986.14,999999.0,999012.86
+PROD00205,Wireless Allen Solly Skin Care,Beauty,Skin Care,Allen solly,VEND0161,986.14,999999.0,999012.86
 PROD00053,Essential Nike Fitness,Sports,Fitness,Nike,VEND0077,3808.43,6207.22,2398.79
 PROD00546,Luxury Mamaearth Men Clothing,Fashion,Men Clothing,Mamaearth,VEND0110,2530.07,4079.21,1549.14
 PROD00069,Pro Lakme Lighting,Home,Lighting,Lakme,VEND0262,23276.16,31778.85,8502.69
-PROD01862,Portable Hp Cricket,Sports,Cricket,HP,VEND0045,5857.27,6761.26,903.99
+PROD01862,Portable Hp Cricket,Sports,Cricket,Hp,VEND0045,5857.27,6761.26,903.99
 PROD00184,Elite Mamaearth Cycling,Sports,Cycling,Mamaearth,VEND0259,49731.66,70536.11,20804.45
-PROD00900,Mini Lg Watches,Fashion,Watches,LG,VEND0057,92.12,132.29,40.17
+PROD00900,Mini Lg Watches,Fashion,Watches,Lg,VEND0057,92.12,132.29,40.17
 PROD00133,Smart Wildcraft Education,Books,Education,Wildcraft,VEND0116,27564.41,39454.34,11889.93
 PROD00081,Pro Loreal Perfume,Beauty,Perfume,Loreal,VEND0216,27153.43,36642.59,9489.16
-PROD01564,Wireless Hp Bags,Fashion,Bags,HP,VEND0215,14951.92,22836.43,7884.51
+PROD01564,Wireless Hp Bags,Fashion,Bags,Hp,VEND0215,14951.92,22836.43,7884.51
 PROD00542,Premium Mi Laptop,Electronics,Laptop,Mi,VEND0128,43765.27,53412.71,9647.44
 PROD00984,Classic Fastrack Smart Watch,Electronics,Smart Watch,Fastrack,VEND0095,38603.16,62711.58,24108.42
 PROD00166,Portable Dell Outdoor,Sports,Outdoor,Dell,VEND0155,31788.43,43822.27,12033.84
@@ -1019,18 +1019,18 @@ PROD01811,Portable Mamaearth Men Clothing,Fashion,Men Clothing,Mamaearth,VEND013
 PROD00763,Ultra Puma Tablet,Electronics,Tablet,Puma,VEND0250,35081.34,55248.89,20167.55
 PROD00990,Portable Canon Decor,Home,Decor,Canon,VEND0298,27004.71,40221.44,13216.73
 PROD00389,Classic Fastrack Outdoor,Sports,Outdoor,Fastrack,VEND0171,5393.27,6918.46,1525.19
-PROD00236,Elite Hp Lighting,Home,Lighting,HP,VEND0179,47323.34,58360.22,11036.88
+PROD00236,Elite Hp Lighting,Home,Lighting,Hp,VEND0179,47323.34,58360.22,11036.88
 PROD01558,Essential Noise Mobile,Electronics,Mobile,Noise,VEND0204,36602.32,60411.26,23808.94
 PROD00268,Ultra Philips Watches,Fashion,Watches,Philips,VEND0122,6112.05,7460.3,1348.25
 PROD01205,Ultra Nivea Mobile,Electronics,Mobile,Nivea,VEND0061,28609.65,32162.09,3552.44
 PROD00118,Elite Ikea Laptop,Electronics,Laptop,Ikea,VEND0037,35362.44,53814.3,18451.86
 PROD00674,Eco Apple Children,Books,Children,Apple,VEND0083,12221.33,14381.22,2159.89
 PROD00250,Premium Mi Tablet,Electronics,Tablet,Mi,VEND0162,2238.12,2729.79,491.67
-PROD01474,Digital Lg Decor,Home,Decor,LG,VEND0165,9128.49,10044.27,915.78
+PROD01474,Digital Lg Decor,Home,Decor,Lg,VEND0165,9128.49,10044.27,915.78
 PROD01923,Classic Boat Women Clothing,Fashion,Women Clothing,Boat,VEND0282,38355.39,64844.76,26489.37
 PROD00095,Digital Cello Smart Watch,Electronics,Smart Watch,Cello,VEND0236,5321.67,8921.63,3599.96
 PROD00034,Pro Loreal Smart Watch,Electronics,Smart Watch,Loreal,VEND0098,40039.6,46668.61,6629.01
-PROD01693,Mini Milton Decor,Home,Decor,milton,VEND0269,42799.19,60001.18,17201.99
+PROD01693,Mini Milton Decor,Home,Decor,Milton,VEND0269,42799.19,60001.18,17201.99
 PROD00717,Ultra Maybelline Headphones,Electronics,Headphones,Maybelline,VEND0235,19716.16,29806.95,10090.79
 PROD01856,Digital Bajaj Men Clothing,Fashion,Men Clothing,Bajaj,VEND0009,13910.03,22416.65,8506.62
 PROD01541,Classic Reebok Footwear,Fashion,Footwear,Reebok,VEND0183,25035.79,32263.21,7227.42
@@ -1038,37 +1038,37 @@ PROD00001,Ultra Apple Fiction,Books,Fiction,Apple,VEND0053,37090.45,46249.38,915
 PROD01395,Smart Philips Children,Books,Children,Philips,VEND0058,11216.36,13116.57,1900.21
 PROD01102,Pro Wildcraft Makeup,Beauty,Makeup,Wildcraft,VEND0153,4558.0,7263.74,2705.74
 PROD01109,Ultra Lakme Cricket,Sports,Cricket,Lakme,VEND0134,22601.92,36707.86,14105.94
-PROD01766,Eco Us Polo Outdoor,Sports,Outdoor,US Polo,VEND0134,33721.55,50566.87,16845.32
+PROD01766,Eco Us Polo Outdoor,Sports,Outdoor,Us polo,VEND0134,33721.55,50566.87,16845.32
 PROD00083,Premium Cello Hair Care,Beauty,Hair Care,Cello,VEND0200,11010.11,14990.28,3980.17
 PROD00677,Elite Titan Laptop,Electronics,Laptop,Titan,VEND0088,30345.97,41963.87,11617.9
 PROD01472,Advanced Philips Women Clothing,Fashion,Women Clothing,Philips,VEND0219,16842.08,23368.67,6526.59
 PROD00771,Advanced Mi Children,Books,Children,Mi,VEND0079,26227.28,36679.62,10452.34
 PROD01233,Essential Adidas Skin Care,Beauty,Skin Care,Adidas,VEND0222,36267.44,61629.0,25361.56
-PROD01299,Luxury Oneplus Kitchen,Home,Kitchen,OnePlus,VEND0283,23748.19,33472.96,9724.77
-PROD01653,Elite Maybelline Perfume,Beauty,Perfume,maybelline,VEND0130,49490.17,62080.65,12590.48
+PROD01299,Luxury Oneplus Kitchen,Home,Kitchen,Oneplus,VEND0283,23748.19,33472.96,9724.77
+PROD01653,Elite Maybelline Perfume,Beauty,Perfume,Maybelline,VEND0130,49490.17,62080.65,12590.48
 PROD01512,Eco Puma Headphones,Electronics,Headphones,Puma,VEND0093,8944.49,12685.87,3741.38
 PROD00405,Premium Wildcraft Men Clothing,Fashion,Men Clothing,Wildcraft,VEND0176,2281.92,3483.28,1201.36
 PROD01754,Mini Apple Women Clothing,Fashion,Women Clothing,Apple,VEND0209,16360.7,25733.72,9373.02
-PROD01317,Portable Us Polo Outdoor,Sports,Outdoor,US Polo,VEND0222,12494.28,20490.35,7996.07
+PROD01317,Portable Us Polo Outdoor,Sports,Outdoor,Us polo,VEND0222,12494.28,20490.35,7996.07
 PROD01359,Elite Reebok Perfume,Beauty,Perfume,Reebok,VEND0158,48526.11,64243.08,15716.97
 PROD00105,Portable Prestige Bags,Fashion,Bags,Prestige,VEND0099,15365.82,19027.85,3662.03
 PROD00689,Classic Nivea Cricket,Sports,Cricket,Nivea,VEND0105,30613.44,51892.21,21278.77
 PROD01324,Elite Adidas Camera,Electronics,Camera,Adidas,VEND0237,16389.16,25390.18,9001.02
 PROD00063,Eco Maybelline Cricket,Sports,Cricket,Maybelline,VEND0262,36440.83,46943.31,10502.48
-PROD00853,Eco Us Polo Watches,Fashion,Watches,US Polo,VEND0030,26256.08,39843.54,13587.46
+PROD00853,Eco Us Polo Watches,Fashion,Watches,Us polo,VEND0030,26256.08,39843.54,13587.46
 PROD01805,Portable Apple Fitness,Sports,Fitness,Apple,VEND0171,40130.52,46316.7,6186.18
 PROD00224,Portable Adidas Makeup,Beauty,Makeup,Adidas,VEND0270,33522.31,53547.71,20025.4
-PROD00146,Digital Bajaj Children,Books,Children,   Bajaj   ,VEND0148,1843.16,2103.14,259.98
+PROD00146,Digital Bajaj Children,Books,Children,Bajaj,VEND0148,1843.16,2103.14,259.98
 PROD01089,Digital Apple Women Clothing,Fashion,Women Clothing,Apple,VEND0282,12956.92,20499.44,7542.52
 PROD00374,Pro Noise Fitness,Sports,Fitness,Noise,VEND0074,46441.88,59849.22,13407.34
 PROD01143,Classic Mamaearth Perfume,Beauty,Perfume,Mamaearth,VEND0047,23848.16,34289.7,10441.54
-PROD01855,Elite Us Polo Furniture,Home,Furniture,US Polo,VEND0032,41711.52,48871.56,7160.04
+PROD01855,Elite Us Polo Furniture,Home,Furniture,Us polo,VEND0032,41711.52,48871.56,7160.04
 PROD01518,Elite Mamaearth Kitchen,Home,Kitchen,Mamaearth,VEND0212,17662.81,24666.54,7003.73
-PROD01625,Smart Lg Camera,Electronics,Camera,LG,VEND0025,13021.4,20456.18,7434.78
-PROD01289,Elite Hp Watches,Fashion,Watches,HP,VEND0266,6759.8,7776.59,1016.79
-PROD00010,Digital Oneplus Footwear,Fashion,Footwear,OnePlus,VEND0037,33525.25,50995.0,17469.75
+PROD01625,Smart Lg Camera,Electronics,Camera,Lg,VEND0025,13021.4,20456.18,7434.78
+PROD01289,Elite Hp Watches,Fashion,Watches,Hp,VEND0266,6759.8,7776.59,1016.79
+PROD00010,Digital Oneplus Footwear,Fashion,Footwear,Oneplus,VEND0037,33525.25,50995.0,17469.75
 PROD00450,Digital Milton Storage,Home,Storage,Milton,VEND0028,9472.89,12646.79,3173.9
-PROD00709,Mini Hp Decor,Home,Decor,HP,VEND0039,19976.59,30949.19,10972.6
+PROD00709,Mini Hp Decor,Home,Decor,Hp,VEND0039,19976.59,30949.19,10972.6
 PROD00256,Max Lakme Cycling,Sports,Cycling,Lakme,VEND0157,5174.77,6710.39,1535.62
 PROD00883,Portable Adidas Smart Watch,Electronics,Smart Watch,Adidas,VEND0240,4691.16,7418.65,2727.49
 PROD00390,Wireless Loreal Cricket,Sports,Cricket,Loreal,VEND0070,22039.13,29937.29,7898.16
@@ -1077,8 +1077,8 @@ PROD00925,Wireless Lenovo Fitness,Sports,Fitness,Lenovo,VEND0222,45889.72,68029.
 PROD01250,Max Sony Watches,Fashion,Watches,Sony,VEND0216,44195.93,54569.99,10374.06
 PROD00461,Wireless Boat Cycling,Sports,Cycling,Boat,VEND0138,18624.88,28866.07,10241.19
 PROD01288,Ultra Wildcraft Hair Care,Beauty,Hair Care,Wildcraft,VEND0192,21279.89,28222.45,6942.56
-PROD01918,Mini Hp Skin Care,Beauty,Skin Care,HP,VEND0043,31587.63,45384.96,13797.33
-PROD01169,Digital Oneplus Hair Care,Beauty,Hair Care,OnePlus,VEND0248,14158.74,21939.71,7780.97
+PROD01918,Mini Hp Skin Care,Beauty,Skin Care,Hp,VEND0043,31587.63,45384.96,13797.33
+PROD01169,Digital Oneplus Hair Care,Beauty,Hair Care,Oneplus,VEND0248,14158.74,21939.71,7780.97
 PROD00959,Eco Noise Mobile,Electronics,Mobile,Noise,VEND0146,46310.54,70579.34,24268.8
 PROD00502,Pro Borosil Headphones,Electronics,Headphones,Borosil,VEND0067,84.14,138.89,54.75
 PROD00740,Advanced Titan Cycling,Sports,Cycling,Titan,VEND0091,6798.99,11348.14,4549.15
@@ -1094,7 +1094,7 @@ PROD01032,Mini Wildcraft Footwear,Fashion,Footwear,Wildcraft,VEND0050,13609.38,2
 PROD00373,Max Sony Makeup,Beauty,Makeup,Sony,VEND0279,46211.76,69810.13,23598.37
 PROD00668,Digital Mamaearth Outdoor,Sports,Outdoor,Mamaearth,VEND0040,32701.08,43138.55,10437.47
 PROD01549,Essential Cello Fitness,Sports,Fitness,Cello,VEND0152,4750.99,6120.37,1369.38
-PROD00358,Pro Us Polo Tablet,Electronics,Tablet,US Polo,VEND0195,14794.85,18015.91,3221.06
+PROD00358,Pro Us Polo Tablet,Electronics,Tablet,Us polo,VEND0195,14794.85,18015.91,3221.06
 PROD00968,Eco Dell Skin Care,Beauty,Skin Care,Dell,VEND0297,44759.2,68608.77,23849.57
 PROD00784,Wireless Nivea Cycling,Sports,Cycling,Nivea,VEND0166,20646.55,30555.75,9909.2
 PROD00736,Smart Apple Skin Care,Beauty,Skin Care,Apple,VEND0054,38558.14,54536.24,15978.1
@@ -1103,15 +1103,15 @@ PROD00971,Classic Borosil Furniture,Home,Furniture,Borosil,VEND0075,29275.36,331
 PROD01548,Luxury Cello Storage,Home,Storage,Cello,VEND0159,4915.43,5451.04,535.61
 PROD01510,Smart Cello Fiction,Books,Fiction,Cello,VEND0145,8519.48,9934.41,1414.93
 PROD01547,Eco Mamaearth Camera,Electronics,Camera,Mamaearth,VEND0039,11993.58,20367.57,8373.99
-PROD01369,Max Oneplus Decor,Home,Decor,OnePlus,VEND0004,46504.34,62259.18,15754.84
+PROD01369,Max Oneplus Decor,Home,Decor,Oneplus,VEND0004,46504.34,62259.18,15754.84
 PROD01882,Wireless Wildcraft Kitchen,Home,Kitchen,Wildcraft,VEND0105,15410.96,18658.92,3247.96
 PROD01666,Advanced Maybelline Women Clothing,Fashion,Women Clothing,Maybelline,VEND0288,43942.17,69040.09,25097.92
 PROD01253,Smart Loreal Kitchen,Home,Kitchen,Loreal,VEND0015,15574.75,22982.05,7407.3
-PROD01719,Essential Allen Solly Decor,Home,Decor,Allen Solly,VEND0117,23905.75,37506.33,13600.58
+PROD01719,Essential Allen Solly Decor,Home,Decor,Allen solly,VEND0117,23905.75,37506.33,13600.58
 PROD01237,Classic Samsung Cricket,Sports,Cricket,Samsung,VEND0285,45077.18,67779.12,22701.94
 PROD00886,Elite Loreal Hair Care,Beauty,Hair Care,Loreal,VEND0250,39449.5,64280.69,24831.19
 PROD00080,Pro Philips Kitchen,Home,Kitchen,Philips,VEND0033,19182.61,22859.59,3676.98
-PROD01173,Advanced Allen Solly Tablet,Electronics,Tablet,Allen Solly,VEND0115,5742.77,7098.15,1355.38
+PROD01173,Advanced Allen Solly Tablet,Electronics,Tablet,Allen solly,VEND0115,5742.77,7098.15,1355.38
 PROD00815,Advanced Maybelline Biography,Books,Biography,Maybelline,VEND0142,31280.29,38841.45,7561.16
 PROD01304,Ultra Apple Footwear,Fashion,Footwear,Apple,VEND0079,28400.49,31789.39,3388.9
 PROD00672,Digital Nivea Kitchen,Home,Kitchen,Nivea,VEND0118,30120.91,47897.46,17776.55
@@ -1125,14 +1125,14 @@ PROD01215,Digital Borosil Outdoor,Sports,Outdoor,Borosil,VEND0273,25156.81,27954
 PROD01802,Portable Casio Perfume,Beauty,Perfume,Casio,VEND0113,45622.82,57529.94,11907.12
 PROD00348,Luxury Philips Hair Care,Beauty,Hair Care,Philips,VEND0238,15071.78,22977.62,7905.84
 PROD00387,Max Cello Footwear,Fashion,Footwear,Cello,VEND0216,7339.44,8809.71,1470.27
-PROD01025,Digital Us Polo Biography,Books,Biography,US Polo,VEND0126,9009.65,14812.55,5802.9
-PROD00895,Essential Lg Bags,Fashion,Bags,LG,VEND0298,4572.12,7270.68,2698.56
+PROD01025,Digital Us Polo Biography,Books,Biography,Us polo,VEND0126,9009.65,14812.55,5802.9
+PROD00895,Essential Lg Bags,Fashion,Bags,Lg,VEND0298,4572.12,7270.68,2698.56
 PROD00829,Luxury Philips Bags,Fashion,Bags,Philips,VEND0105,37131.21,62861.14,25729.93
 PROD00476,Smart Fastrack Makeup,Beauty,Makeup,Fastrack,VEND0259,48729.01,56084.24,7355.23
-PROD01493,Premium Us Polo Women Clothing,Fashion,Women Clothing,US Polo,VEND0006,44921.87,57362.41,12440.54
-PROD01468,Luxury Allen Solly Women Clothing,Fashion,Women Clothing,Allen Solly,VEND0053,9960.7,15178.88,5218.18
-PROD01495,Digital Mamaearth Camera,Electronics,Camera,mamaearth,VEND0283,47285.53,59315.3,12029.77
-PROD00173,Premium Oneplus Camera,Electronics,Camera,OnePlus,VEND0026,32103.14,46815.61,14712.47
+PROD01493,Premium Us Polo Women Clothing,Fashion,Women Clothing,Us polo,VEND0006,44921.87,57362.41,12440.54
+PROD01468,Luxury Allen Solly Women Clothing,Fashion,Women Clothing,Allen solly,VEND0053,9960.7,15178.88,5218.18
+PROD01495,Digital Mamaearth Camera,Electronics,Camera,Mamaearth,VEND0283,47285.53,59315.3,12029.77
+PROD00173,Premium Oneplus Camera,Electronics,Camera,Oneplus,VEND0026,32103.14,46815.61,14712.47
 PROD00039,Premium Cello Bags,Fashion,Bags,Cello,VEND0297,7782.1,9945.72,2163.62
 PROD00714,Essential Borosil Fitness,Sports,Fitness,Borosil,VEND0295,18591.27,23968.8,5377.53
 PROD00091,Premium Boat Fitness,Sports,Fitness,Boat,VEND0160,48237.8,56190.25,7952.45
@@ -1149,27 +1149,27 @@ PROD00500,Luxury Puma Biography,Books,Biography,Puma,VEND0253,28177.29,34177.37,
 PROD00339,Essential Fastrack Kitchen,Home,Kitchen,Fastrack,VEND0058,17340.68,21942.72,4602.04
 PROD01189,Smart Reebok Biography,Books,Biography,Reebok,VEND0019,38781.25,63158.55,24377.3
 PROD00029,Premium Philips Storage,Home,Storage,Philips,VEND0118,409.18,623.88,214.7
-PROD01218,Advanced Allen Solly Tablet,Electronics,Tablet,Allen Solly,VEND0163,9066.37,10103.87,1037.5
+PROD01218,Advanced Allen Solly Tablet,Electronics,Tablet,Allen solly,VEND0163,9066.37,10103.87,1037.5
 PROD01344,Pro Puma Women Clothing,Fashion,Women Clothing,Puma,VEND0228,18818.61,27949.84,9131.23
 PROD01849,Pro Noise Makeup,Beauty,Makeup,Noise,VEND0227,46662.96,79199.32,32536.36
 PROD00946,Eco Adidas Education,Books,Education,Adidas,VEND0123,1833.13,2044.34,211.21
 PROD00170,Elite Prestige Cricket,Sports,Cricket,Prestige,VEND0228,1684.18,2227.02,542.84
-PROD01425,Luxury Sony Decor,Home,Decor,sony,VEND0151,47313.42,66790.74,19477.32
-PROD01198,Classic Nivea Outdoor,Sports,Outdoor,nivea,VEND0211,22742.76,27016.85,4274.09
+PROD01425,Luxury Sony Decor,Home,Decor,Sony,VEND0151,47313.42,66790.74,19477.32
+PROD01198,Classic Nivea Outdoor,Sports,Outdoor,Nivea,VEND0211,22742.76,27016.85,4274.09
 PROD01254,Mini Apple Perfume,Beauty,Perfume,Apple,VEND0129,29646.91,43752.27,14105.36
 PROD01419,Luxury Apple Lighting,Home,Lighting,Apple,VEND0272,19720.14,31364.44,11644.3
-PROD00913,Max Us Polo Makeup,Beauty,Makeup,US Polo,VEND0149,17678.08,29816.85,12138.77
+PROD00913,Max Us Polo Makeup,Beauty,Makeup,Us polo,VEND0149,17678.08,29816.85,12138.77
 PROD00492,Essential Mamaearth Tablet,Electronics,Tablet,Mamaearth,VEND0270,6904.94,8421.78,1516.84
 PROD01098,Essential Borosil Cricket,Sports,Cricket,Borosil,VEND0075,34152.79,57308.01,23155.22
 PROD01033,Mini Puma Cycling,Sports,Cycling,Puma,VEND0249,694.24,979.5,285.26
 PROD00588,Eco Loreal Education,Books,Education,Loreal,VEND0138,17908.49,24402.62,6494.13
 PROD00751,Elite Lenovo Laptop,Electronics,Laptop,Lenovo,VEND0005,14141.62,16616.74,2475.12
-PROD00235,Essential Hp Tablet,Electronics,Tablet,HP,VEND0263,38167.69,48231.55,10063.86
+PROD00235,Essential Hp Tablet,Electronics,Tablet,Hp,VEND0263,38167.69,48231.55,10063.86
 PROD00733,Mini Prestige Cricket,Sports,Cricket,Prestige,VEND0267,44390.21,69629.79,25239.58
 PROD01656,Elite Philips Lighting,Home,Lighting,Philips,VEND0016,32985.38,39087.01,6101.63
 PROD01157,Wireless Adidas Men Clothing,Fashion,Men Clothing,Adidas,VEND0009,6798.94,8257.19,1458.25
 PROD01492,Essential Nivea Biography,Books,Biography,Nivea,VEND0282,16261.87,27122.47,10860.6
-PROD01445,Elite Hp Fitness,Sports,Fitness,HP,VEND0006,37183.3,53264.92,16081.62
+PROD01445,Elite Hp Fitness,Sports,Fitness,Hp,VEND0006,37183.3,53264.92,16081.62
 PROD01651,Wireless Apple Mobile,Electronics,Mobile,Apple,VEND0117,28384.97,48091.17,19706.2
 PROD00935,Essential Casio Tablet,Electronics,Tablet,Casio,VEND0103,8937.58,10203.49,1265.91
 PROD01066,Eco Cello Skin Care,Beauty,Skin Care,Cello,VEND0241,33020.93,49902.04,16881.11
@@ -1177,39 +1177,39 @@ PROD00109,Portable Sony Decor,Home,Decor,Sony,VEND0065,48716.03,69762.1,21046.07
 PROD01566,Elite Boat Footwear,Fashion,Footwear,Boat,VEND0244,9970.34,16602.26,6631.92
 PROD00569,Pro Apple Outdoor,Sports,Outdoor,Apple,VEND0116,33853.57,49968.28,16114.71
 PROD01168,Digital Mamaearth Decor,Home,Decor,Mamaearth,VEND0185,47992.18,76780.21,28788.03
-PROD00891,Luxury Allen Solly Women Clothing,Fashion,Women Clothing,Allen Solly,VEND0176,39226.48,53395.56,14169.08
+PROD00891,Luxury Allen Solly Women Clothing,Fashion,Women Clothing,Allen solly,VEND0176,39226.48,53395.56,14169.08
 PROD01049,Mini Nike Smart Watch,Electronics,Smart Watch,Nike,VEND0148,26010.39,999999.0,973988.61
-PROD01371,Portable Allen Solly Makeup,Beauty,Makeup,Allen Solly,VEND0069,8573.18,11357.67,2784.49
+PROD01371,Portable Allen Solly Makeup,Beauty,Makeup,Allen solly,VEND0069,8573.18,11357.67,2784.49
 PROD01954,Digital Maybelline Education,Books,Education,Maybelline,VEND0007,24964.57,35990.04,11025.47
 PROD01467,Max Puma Storage,Home,Storage,Puma,VEND0059,36475.97,44213.11,7737.14
 PROD00885,Essential Puma Kitchen,Home,Kitchen,Puma,VEND0187,43061.76,63307.9,20246.14
 PROD01698,Ultra Dell Cricket,Sports,Cricket,Dell,VEND0119,2294.21,1376.526,-917.68
 PROD00851,Smart Lakme Tablet,Electronics,Tablet,Lakme,VEND0219,18460.04,24503.19,6043.15
-PROD00735,Smart Hp Biography,Books,Biography,HP,VEND0033,10568.05,14142.45,3574.4
+PROD00735,Smart Hp Biography,Books,Biography,Hp,VEND0033,10568.05,14142.45,3574.4
 PROD00718,Premium Syska Camera,Electronics,Camera,Syska,VEND0108,23030.53,34857.31,11826.78
 PROD00455,Classic Milton Makeup,Beauty,Makeup,Milton,VEND0043,38367.14,51954.68,13587.54
 PROD00076,Advanced Titan Biography,Books,Biography,Titan,VEND0219,30651.98,46945.48,16293.5
 PROD01682,Pro Samsung Footwear,Fashion,Footwear,Samsung,VEND0059,40290.56,59396.28,19105.72
 PROD00445,Digital Dell Education,Books,Education,Dell,VEND0085,26548.89,29338.78,2789.89
-PROD00396,Eco Allen Solly Women Clothing,Fashion,Women Clothing,Allen Solly,VEND0246,39464.38,45162.21,5697.83
+PROD00396,Eco Allen Solly Women Clothing,Fashion,Women Clothing,Allen solly,VEND0246,39464.38,45162.21,5697.83
 PROD00177,Premium Nike Women Clothing,Fashion,Women Clothing,Nike,VEND0184,33069.83,36888.34,3818.51
 PROD01043,Eco Puma Mobile,Electronics,Mobile,Puma,VEND0179,42300.78,70435.32,28134.54
 PROD01762,Mini Loreal Women Clothing,Fashion,Women Clothing,Loreal,VEND0119,12191.51,19025.9,6834.39
 PROD01422,Digital Nike Makeup,Beauty,Makeup,Nike,VEND0083,2005.2,2897.61,892.41
-PROD01770,Smart Allen Solly Furniture,Home,Furniture,Allen Solly,VEND0068,1245.38,1494.66,249.28
+PROD01770,Smart Allen Solly Furniture,Home,Furniture,Allen solly,VEND0068,1245.38,1494.66,249.28
 PROD00596,Classic Borosil Hair Care,Beauty,Hair Care,Borosil,VEND0077,17320.19,26080.35,8760.16
 PROD00062,Premium Noise Tablet,Electronics,Tablet,Noise,VEND0056,29050.46,49099.06,20048.6
 PROD01297,Classic Wildcraft Men Clothing,Fashion,Men Clothing,Wildcraft,VEND0208,14128.17,18479.36,4351.19
 PROD00873,Smart Fastrack Furniture,Home,Furniture,Fastrack,VEND0003,19410.03,31422.63,12012.6
 PROD01513,Eco Puma Children,Books,Children,Puma,VEND0147,44661.22,67541.0,22879.78
 PROD01909,Advanced Casio Laptop,Electronics,Laptop,Casio,VEND0125,49746.17,73094.48,23348.31
-PROD00037,Classic Us Polo Kitchen,Home,Kitchen,   US Polo   ,VEND0031,24307.77,29855.98,5548.21
+PROD00037,Classic Us Polo Kitchen,Home,Kitchen,Us polo,VEND0031,24307.77,29855.98,5548.21
 PROD01539,Eco Canon Fiction,Books,Fiction,Canon,VEND0023,13494.94,22752.44,9257.5
 PROD00663,Ultra Boat Education,Books,Education,Boat,VEND0092,37872.44,44849.39,6976.95
 PROD01835,Digital Fastrack Headphones,Electronics,Headphones,Fastrack,VEND0287,29743.0,33908.9,4165.9
 PROD01465,Premium Milton Decor,Home,Decor,Milton,VEND0176,731.77,1105.46,373.69
-PROD00978,Eco Allen Solly Decor,Home,Decor,Allen Solly,VEND0077,28994.38,47408.52,18414.14
-PROD01595,Essential Hp Women Clothing,Fashion,Women Clothing,HP,VEND0107,3915.2,6290.84,2375.64
+PROD00978,Eco Allen Solly Decor,Home,Decor,Allen solly,VEND0077,28994.38,47408.52,18414.14
+PROD01595,Essential Hp Women Clothing,Fashion,Women Clothing,Hp,VEND0107,3915.2,6290.84,2375.64
 PROD00739,Elite Maybelline Mobile,Electronics,Mobile,Maybelline,VEND0240,43025.42,55723.12,12697.7
 PROD00920,Classic Puma Laptop,Electronics,Laptop,Puma,VEND0197,41888.83,64997.09,23108.26
 PROD00457,Wireless Lakme Storage,Home,Storage,Lakme,VEND0034,19567.04,28970.5,9403.46
@@ -1223,12 +1223,12 @@ PROD01099,Essential Nivea Bags,Fashion,Bags,Nivea,VEND0018,41077.2,45704.32,4627
 PROD00826,Smart Philips Outdoor,Sports,Outdoor,Philips,VEND0245,11584.07,12923.78,1339.71
 PROD01520,Wireless Bajaj Perfume,Beauty,Perfume,Bajaj,VEND0118,26711.84,37917.05,11205.21
 PROD00617,Luxury Bajaj Children,Books,Children,Bajaj,VEND0007,14332.1,23051.47,8719.37
-PROD00115,Luxury Lg Watches,Electronics,Hair Care,LG,VEND0107,30501.06,47095.27,16594.21
+PROD00115,Luxury Lg Watches,Electronics,Hair Care,Lg,VEND0107,30501.06,47095.27,16594.21
 PROD01941,Ultra Boat Camera,Electronics,Camera,Boat,VEND0125,18354.9,27420.79,9065.89
 PROD00970,Pro Lenovo Women Clothing,Fashion,Women Clothing,Lenovo,VEND0193,11894.06,16027.93,4133.87
 PROD00605,Digital Philips Camera,Electronics,Camera,Philips,VEND0150,159.74,95.844,-63.9
 PROD01949,Portable Puma Cycling,Sports,Cycling,Puma,VEND0261,29232.53,36705.91,7473.38
-PROD00090,Mini Oneplus Skin Care,Beauty,Skin Care,OnePlus,VEND0086,23278.45,29185.27,5906.82
+PROD00090,Mini Oneplus Skin Care,Beauty,Skin Care,Oneplus,VEND0086,23278.45,29185.27,5906.82
 PROD00849,Classic Loreal Biography,Books,Biography,Loreal,VEND0092,46023.22,51979.49,5956.27
 PROD01543,Premium Mamaearth Furniture,Home,Furniture,Mamaearth,VEND0149,23873.8,38706.29,14832.49
 PROD01948,Wireless Mamaearth Cycling,Sports,Cycling,Mamaearth,VEND0109,12902.42,15957.08,3054.66
@@ -1240,14 +1240,14 @@ PROD00012,Pro Lakme Education,Books,Education,Lakme,VEND0017,42150.45,25290.27,-
 PROD00285,Wireless Canon Cricket,Sports,Cricket,Canon,VEND0168,48136.16,999999.0,951862.84
 PROD01067,Eco Milton Hair Care,Beauty,Hair Care,Milton,VEND0194,2834.07,3565.36,731.29
 PROD01192,Eco Apple Education,Books,Education,Apple,VEND0133,1443.17,2277.26,834.09
-PROD01771,Advanced Allen Solly Cricket,Sports,Cricket,Allen Solly,VEND0124,17750.67,23810.58,6059.91
+PROD01771,Advanced Allen Solly Cricket,Sports,Cricket,Allen solly,VEND0124,17750.67,23810.58,6059.91
 PROD00691,Digital Reebok Cycling,Sports,Cycling,Reebok,VEND0061,36802.33,59362.13,22559.8
 PROD01655,Digital Nike Children,Books,Children,Nike,VEND0011,13533.38,19103.52,5570.14
 PROD01906,Ultra Sony Cricket,Sports,Cricket,Sony,VEND0052,3872.98,5126.58,1253.6
 PROD00690,Max Noise Perfume,Beauty,Perfume,Noise,VEND0158,18542.14,26569.9,8027.76
 PROD00160,Advanced Bajaj Kitchen,Home,Kitchen,Bajaj,VEND0140,43829.21,57833.28,14004.07
 PROD00896,Max Puma Fiction,Books,Fiction,Puma,VEND0200,33061.03,45352.61,12291.58
-PROD01841,Smart Samsung Kitchen,Home,Kitchen,   Samsung   ,VEND0076,39179.08,66347.9,27168.82
+PROD01841,Smart Samsung Kitchen,Home,Kitchen,Samsung,VEND0076,39179.08,66347.9,27168.82
 PROD00258,Premium Prestige Cricket,Sports,Cricket,Prestige,VEND0039,31991.49,50382.97,18391.48
 PROD00336,Smart Bajaj Skin Care,Beauty,Skin Care,Bajaj,VEND0092,6692.84,10816.78,4123.94
 PROD01910,Essential Nivea Fiction,Books,Fiction,Nivea,VEND0224,28688.13,35261.31,6573.18
@@ -1275,11 +1275,11 @@ PROD01012,Essential Mi Men Clothing,Fashion,Men Clothing,Mi,VEND0143,29192.4,360
 PROD01980,Smart Milton Storage,Home,Storage,Milton,VEND0125,22033.15,27858.23,5825.08
 PROD00094,Advanced Bajaj Tablet,Electronics,Tablet,Bajaj,VEND0175,21447.48,28360.91,6913.43
 PROD01009,Essential Puma Makeup,Beauty,Makeup,Puma,VEND0227,39988.83,61467.88,21479.05
-PROD01071,Max Hp Decor,Home,Decor,HP,VEND0059,45523.93,51865.42,6341.49
+PROD01071,Max Hp Decor,Home,Decor,Hp,VEND0059,45523.93,51865.42,6341.49
 PROD01609,Classic Sony Hair Care,Beauty,Hair Care,Sony,VEND0151,47906.97,59971.77,12064.8
 PROD01309,Advanced Syska Decor,Home,Decor,Syska,VEND0006,3545.47,4022.24,476.77
 PROD00697,Advanced Mi Skin Care,Beauty,Skin Care,Mi,VEND0147,42535.85,70543.8,28007.95
-PROD01821,Pro Oneplus Outdoor,Sports,Outdoor,OnePlus,VEND0043,43248.14,60283.01,17034.87
+PROD01821,Pro Oneplus Outdoor,Sports,Outdoor,Oneplus,VEND0043,43248.14,60283.01,17034.87
 PROD00997,Classic Bajaj Bags,Fashion,Bags,Bajaj,VEND0228,46589.49,64495.83,17906.34
 PROD01459,Elite Lenovo Cycling,Sports,Cycling,Lenovo,VEND0083,49468.99,73895.18,24426.19
 PROD00154,Portable Mamaearth Laptop,Electronics,Laptop,Mamaearth,VEND0152,28617.54,41349.12,12731.58
@@ -1289,12 +1289,12 @@ PROD00790,Smart Canon Watches,Fashion,Watches,Canon,VEND0293,11688.06,18544.8,68
 PROD00581,Mini Casio Outdoor,Sports,Outdoor,Casio,VEND0210,41583.37,70021.07,28437.7
 PROD01471,Classic Mi Skin Care,Beauty,Skin Care,Mi,VEND0269,4592.22,2755.332,-1836.89
 PROD00704,Max Loreal Cycling,Sports,Cycling,Loreal,VEND0276,47353.42,74902.0,27548.58
-PROD01213,Eco Hp Biography,Books,Biography,HP,VEND0159,43304.38,66009.96,22705.58
+PROD01213,Eco Hp Biography,Books,Biography,Hp,VEND0159,43304.38,66009.96,22705.58
 PROD01296,Portable Adidas Storage,Home,Storage,Adidas,VEND0279,49920.33,77447.9,27527.57
 PROD01691,Eco Sony Cycling,Sports,Cycling,Sony,VEND0228,32273.19,52796.76,20523.57
 PROD01261,Eco Fastrack Perfume,Beauty,Perfume,Fastrack,VEND0052,39768.48,64741.61,24973.13
 PROD00488,Premium Loreal Furniture,Home,Furniture,Loreal,VEND0087,6170.26,3702.156,-2468.1
-PROD00560,Wireless Hp Biography,Books,Biography,HP,VEND0158,11151.56,6690.936,-4460.62
+PROD00560,Wireless Hp Biography,Books,Biography,Hp,VEND0158,11151.56,6690.936,-4460.62
 PROD01120,Max Mamaearth Education,Books,Education,Mamaearth,VEND0038,35437.24,54632.26,19195.02
 PROD00802,Max Maybelline Decor,Home,Decor,Maybelline,VEND0087,29714.16,33117.15,3402.99
 PROD00513,Classic Cello Lighting,Home,Lighting,Cello,VEND0052,44094.44,57796.29,13701.85
@@ -1306,18 +1306,18 @@ PROD01151,Portable Reebok Kitchen,Home,Kitchen,Reebok,VEND0153,2310.67,3118.83,8
 PROD00791,Ultra Dell Hair Care,Beauty,Hair Care,Dell,VEND0250,36192.85,57030.61,20837.76
 PROD00117,Elite Samsung Laptop,Electronics,Laptop,Samsung,VEND0150,20455.45,30961.83,10506.38
 PROD01498,Ultra Noise Smart Watch,Electronics,Smart Watch,Noise,VEND0097,22996.54,36549.75,13553.21
-PROD00741,Max Allen Solly Cricket,Sports,Cricket,Allen Solly,VEND0178,26196.82,38868.67,12671.85
+PROD00741,Max Allen Solly Cricket,Sports,Cricket,Allen solly,VEND0178,26196.82,38868.67,12671.85
 PROD01082,Pro Syska Furniture,Electronics,Hair Care,Syska,VEND0240,43142.35,62388.41,19246.06
 PROD00831,Wireless Reebok Lighting,Home,Lighting,Reebok,VEND0195,38821.93,56864.73,18042.8
 PROD00120,Max Bajaj Skin Care,Beauty,Skin Care,Bajaj,VEND0073,11279.23,13415.44,2136.21
 PROD00657,Max Noise Fitness,Sports,Fitness,Noise,VEND0072,32295.3,37113.25,4817.95
-PROD01938,Wireless Bajaj Camera,Electronics,Camera,bajaj,VEND0031,35752.47,48734.64,12982.17
+PROD01938,Wireless Bajaj Camera,Electronics,Camera,Bajaj,VEND0031,35752.47,48734.64,12982.17
 PROD00636,Advanced Lenovo Fitness,Sports,Fitness,Lenovo,VEND0274,8411.37,14078.66,5667.29
 PROD00370,Digital Mamaearth Smart Watch,Electronics,Smart Watch,Mamaearth,VEND0005,18889.62,26173.52,7283.9
 PROD00656,Max Borosil Decor,Home,Decor,Borosil,VEND0250,23169.28,30473.28,7304.0
 PROD00936,Advanced Noise Cricket,Sports,Cricket,Noise,VEND0221,32291.88,37621.92,5330.04
 PROD00823,Essential Puma Decor,Home,Decor,Puma,VEND0212,36367.62,56706.61,20338.99
-PROD00867,Luxury Mamaearth Storage,Home,Storage,mamaearth,VEND0158,9409.58,11010.21,1600.63
+PROD00867,Luxury Mamaearth Storage,Home,Storage,Mamaearth,VEND0158,9409.58,11010.21,1600.63
 PROD00047,Portable Ikea Decor,Home,Decor,Ikea,VEND0155,7929.45,12689.08,4759.63
 PROD01374,Max Lenovo Perfume,Beauty,Perfume,Lenovo,VEND0044,43424.68,52095.53,8670.85
 PROD00877,Premium Prestige Fiction,Books,Fiction,Prestige,VEND0287,7508.57,9492.2,1983.63
@@ -1327,17 +1327,17 @@ PROD01004,Ultra Nike Kitchen,Home,Kitchen,Nike,VEND0226,2105.52,2716.07,610.55
 PROD01593,Premium Prestige Men Clothing,Fashion,Men Clothing,Prestige,VEND0297,4194.02,4975.21,781.19
 PROD01859,Elite Puma Storage,Home,Storage,Puma,VEND0023,36461.41,41944.52,5483.11
 PROD01003,Portable Noise Biography,Books,Biography,Noise,VEND0079,48661.64,78033.76,29372.12
-PROD01078,Eco Hp Storage,Home,Storage,HP,VEND0173,35899.46,51943.5,16044.04
+PROD01078,Eco Hp Storage,Home,Storage,Hp,VEND0173,35899.46,51943.5,16044.04
 PROD00838,Ultra Reebok Education,Books,Education,Reebok,VEND0233,20707.29,28379.99,7672.7
 PROD01818,Portable Reebok Smart Watch,Electronics,Smart Watch,Reebok,VEND0056,47575.3,74104.25,26528.95
 PROD00305,Max Mi Cricket,Sports,Cricket,Mi,VEND0116,47869.0,60669.35,12800.35
 PROD01366,Ultra Syska Skin Care,Beauty,Skin Care,Syska,VEND0219,45501.96,73968.15,28466.19
 PROD01581,Classic Maybelline Skin Care,Beauty,Skin Care,Maybelline,VEND0203,48382.42,79754.43,31372.01
-PROD00314,Portable Hp Men Clothing,Fashion,Men Clothing,HP,VEND0020,32632.32,40442.28,7809.96
+PROD00314,Portable Hp Men Clothing,Fashion,Men Clothing,Hp,VEND0020,32632.32,40442.28,7809.96
 PROD00150,Classic Boat Education,Books,Education,Boat,VEND0124,8794.71,12890.36,4095.65
-PROD01214,Eco Hp Fitness,Sports,Fitness,HP,VEND0028,9661.72,14214.54,4552.82
+PROD01214,Eco Hp Fitness,Sports,Fitness,Hp,VEND0028,9661.72,14214.54,4552.82
 PROD00575,Luxury Sony Tablet,Electronics,Tablet,Sony,VEND0274,18790.86,27889.26,9098.4
-PROD00051,Premium Hp Men Clothing,Fashion,Men Clothing,HP,VEND0002,31732.51,50696.14,18963.63
+PROD00051,Premium Hp Men Clothing,Fashion,Men Clothing,Hp,VEND0002,31732.51,50696.14,18963.63
 PROD01576,Digital Bajaj Outdoor,Sports,Outdoor,Bajaj,VEND0224,21822.01,27736.14,5914.13
 PROD00727,Mini Titan Skin Care,Beauty,Skin Care,Titan,VEND0287,37242.43,46771.33,9528.9
 PROD00834,Advanced Bajaj Storage,Home,Storage,Bajaj,VEND0199,19810.78,30530.43,10719.65
@@ -1349,7 +1349,7 @@ PROD00972,Elite Fastrack Storage,Home,Storage,Fastrack,VEND0100,8944.14,11842.86
 PROD00654,Ultra Nivea Education,Books,Education,Nivea,VEND0003,40394.6,67668.85,27274.25
 PROD00400,Advanced Lenovo Bags,Fashion,Bags,Lenovo,VEND0266,576.86,724.1,147.24
 PROD00512,Elite Lenovo Footwear,Fashion,Footwear,Lenovo,VEND0215,36034.66,40679.11,4644.45
-PROD00321,Ultra Hp Cycling,Sports,Cycling,HP,VEND0245,20071.62,23227.5,3155.88
+PROD00321,Ultra Hp Cycling,Sports,Cycling,Hp,VEND0245,20071.62,23227.5,3155.88
 PROD00020,Essential Boat Bags,Fashion,Bags,Boat,VEND0135,22713.5,37983.55,15270.05
 PROD00685,Essential Adidas Smart Watch,Electronics,Smart Watch,Adidas,VEND0043,12763.18,19904.37,7141.19
 PROD00903,Mini Mi Hair Care,Beauty,Hair Care,Mi,VEND0214,27793.31,44635.96,16842.65
@@ -1371,24 +1371,24 @@ PROD00490,Ultra Noise Women Clothing,Fashion,Women Clothing,Noise,VEND0018,13785
 PROD00155,Digital Reebok Camera,Electronics,Camera,Reebok,VEND0026,13760.29,19808.73,6048.44
 PROD00962,Pro Wildcraft Fitness,Sports,Fitness,Wildcraft,VEND0099,17425.29,19215.6,1790.31
 PROD00854,Portable Syska Headphones,Electronics,Headphones,Syska,VEND0148,49360.1,68620.3,19260.2
-PROD01312,Ultra Allen Solly Decor,Home,Decor,Allen Solly,VEND0295,40903.91,61309.87,20405.96
+PROD01312,Ultra Allen Solly Decor,Home,Decor,Allen solly,VEND0295,40903.91,61309.87,20405.96
 PROD00626,Ultra Sony Smart Watch,Electronics,Smart Watch,Sony,VEND0083,21453.97,30764.12,9310.15
 PROD01992,Smart Cello Watches,Fashion,Watches,Cello,VEND0039,14168.19,18422.21,4254.02
 PROD00570,Eco Wildcraft Biography,Books,Biography,Wildcraft,VEND0157,6490.09,8632.67,2142.58
 PROD01939,Advanced Sony Bags,Fashion,Bags,Sony,VEND0226,18200.49,27846.29,9645.8
 PROD00018,Wireless Fastrack Perfume,Beauty,Perfume,Fastrack,VEND0006,26479.26,44555.25,18075.99
 PROD00128,Wireless Cello Bags,Fashion,Bags,Cello,VEND0282,14446.48,24083.96,9637.48
-PROD01347,Digital Oneplus Women Clothing,Fashion,Women Clothing,OnePlus,VEND0128,26988.62,44368.73,17380.11
+PROD01347,Digital Oneplus Women Clothing,Fashion,Women Clothing,Oneplus,VEND0128,26988.62,44368.73,17380.11
 PROD01280,Ultra Dell Cricket,Sports,Cricket,Dell,VEND0098,5968.74,9726.86,3758.12
 PROD01999,Mini Mi Cricket,Sports,Cricket,Mi,VEND0296,38507.9,55630.94,17123.04
 PROD00928,Wireless Lakme Women Clothing,Fashion,Women Clothing,Lakme,VEND0035,27403.25,41205.75,13802.5
 PROD00981,Portable Canon Perfume,Beauty,Perfume,Canon,VEND0209,4200.42,6518.41,2317.99
 PROD01995,Digital Puma Perfume,Beauty,Perfume,Puma,VEND0295,32539.66,37219.37,4679.71
-PROD01140,Max Oneplus Mobile,Electronics,Mobile,OnePlus,VEND0079,8188.89,12837.69,4648.8
+PROD01140,Max Oneplus Mobile,Electronics,Mobile,Oneplus,VEND0079,8188.89,12837.69,4648.8
 PROD00993,Max Bajaj Smart Watch,Electronics,Smart Watch,Bajaj,VEND0232,33931.5,48173.0,14241.5
 PROD01986,Advanced Bajaj Watches,Fashion,Watches,Bajaj,VEND0150,38151.22,47934.39,9783.17
 PROD01681,Digital Cello Storage,Home,Storage,Cello,VEND0080,6863.32,11235.47,4372.15
-PROD00302,Advanced Lg Cricket,Sports,Cricket,LG,VEND0167,35303.47,49820.61,14517.14
+PROD00302,Advanced Lg Cricket,Sports,Cricket,Lg,VEND0167,35303.47,49820.61,14517.14
 PROD00497,Essential Canon Laptop,Electronics,Laptop,Canon,VEND0029,13363.02,21244.14,7881.12
 PROD01721,Portable Borosil Fiction,Books,Fiction,Borosil,VEND0065,2654.41,4139.31,1484.9
 PROD01735,Classic Mamaearth Tablet,Electronics,Hair Care,Mamaearth,VEND0228,24793.11,40106.91,15313.8
@@ -1402,42 +1402,42 @@ PROD01196,Wireless Maybelline Outdoor,Sports,Outdoor,Maybelline,VEND0294,14995.1
 PROD00017,Classic Puma Mobile,Electronics,Mobile,Puma,VEND0033,31390.93,49448.49,18057.56
 PROD01536,Smart Nivea Furniture,Home,Furniture,Nivea,VEND0054,32350.03,39364.76,7014.73
 PROD01073,Premium Prestige Cricket,Sports,Cricket,Prestige,VEND0163,1069.09,999999.0,998929.91
-PROD00547,Premium Oneplus Kitchen,Home,Kitchen,OnePlus,VEND0005,13490.72,18154.52,4663.8
+PROD00547,Premium Oneplus Kitchen,Home,Kitchen,Oneplus,VEND0005,13490.72,18154.52,4663.8
 PROD01540,Max Sony Cricket,Sports,Cricket,Sony,VEND0005,2450.04,2832.07,382.03
 PROD00659,Luxury Apple Headphones,Electronics,Headphones,Apple,VEND0109,40641.49,58822.07,18180.58
 PROD01671,Max Casio Education,Books,Education,Casio,VEND0157,6827.75,9781.23,2953.48
-PROD01020,Max Hp Cricket,Sports,Cricket,HP,VEND0213,380.61,564.55,183.94
+PROD01020,Max Hp Cricket,Sports,Cricket,Hp,VEND0213,380.61,564.55,183.94
 PROD01687,Pro Noise Fiction,Books,Fiction,Noise,VEND0088,7127.22,11024.09,3896.87
 PROD01505,Wireless Borosil Kitchen,Home,Kitchen,Borosil,VEND0084,37995.6,62139.3,24143.7
 PROD00960,Advanced Adidas Perfume,Beauty,Perfume,Adidas,VEND0231,10347.7,15354.9,5007.2
 PROD01912,Luxury Prestige Biography,Books,Biography,Prestige,VEND0213,302.3,370.1,67.8
 PROD00284,Max Titan Tablet,Electronics,Tablet,Titan,VEND0197,12433.55,14399.13,1965.58
-PROD00798,Classic Lg Smart Watch,Electronics,Smart Watch,LG,VEND0257,27430.21,34494.44,7064.23
+PROD00798,Classic Lg Smart Watch,Electronics,Smart Watch,Lg,VEND0257,27430.21,34494.44,7064.23
 PROD01650,Pro Borosil Cycling,Sports,Cycling,Borosil,VEND0242,29178.78,40645.59,11466.81
 PROD00226,Ultra Cello Decor,Home,Decor,Cello,VEND0040,9640.66,16388.99,6748.33
 PROD00027,Elite Reebok Biography,Books,Biography,Reebok,VEND0265,49757.71,74135.35,24377.64
 PROD01798,Ultra Lakme Perfume,Beauty,Perfume,Lakme,VEND0238,12407.44,16811.08,4403.64
 PROD00438,Max Wildcraft Education,Books,Education,Wildcraft,VEND0048,7990.92,13262.01,5271.09
-PROD01979,Advanced Allen Solly Tablet,Electronics,Tablet,Allen Solly,VEND0103,39556.45,51241.86,11685.41
+PROD01979,Advanced Allen Solly Tablet,Electronics,Tablet,Allen solly,VEND0103,39556.45,51241.86,11685.41
 PROD01389,Advanced Titan Hair Care,Beauty,Hair Care,Titan,VEND0124,47754.81,66345.81,18591.0
 PROD00038,Luxury Samsung Lighting,Home,Lighting,Samsung,VEND0233,49266.18,62032.12,12765.94
 PROD00750,Premium Cello Watches,Fashion,Watches,Cello,VEND0274,9430.08,10482.83,1052.75
 PROD01046,Wireless Lenovo Fitness,Sports,Fitness,Lenovo,VEND0244,46215.39,76361.06,30145.67
 PROD01399,Elite Lenovo Education,Books,Education,Lenovo,VEND0162,19795.85,28169.01,8373.16
-PROD00470,Pro Hp Footwear,Fashion,Footwear,HP,VEND0150,27676.92,30576.95,2900.03
+PROD00470,Pro Hp Footwear,Fashion,Footwear,Hp,VEND0150,27676.92,30576.95,2900.03
 PROD01718,Elite Prestige Hair Care,Beauty,Hair Care,Prestige,VEND0260,36180.32,42057.33,5877.01
 PROD01998,Digital Puma Bags,Fashion,Bags,Puma,VEND0168,12979.7,16013.5,3033.8
 PROD00688,Max Lenovo Makeup,Beauty,Makeup,Lenovo,VEND0134,7781.19,11601.33,3820.14
 PROD01872,Mini Borosil Outdoor,Sports,Outdoor,Borosil,VEND0289,7033.77,10213.68,3179.91
 PROD00640,Eco Noise Mobile,Electronics,Mobile,Noise,VEND0117,39721.03,56993.74,17272.71
-PROD01738,Wireless Oneplus Watches,Fashion,Watches,OnePlus,VEND0223,37874.75,49410.14,11535.39
-PROD01219,Ultra Hp Makeup,Beauty,Makeup,HP,VEND0147,5776.5,6698.43,921.93
+PROD01738,Wireless Oneplus Watches,Fashion,Watches,Oneplus,VEND0223,37874.75,49410.14,11535.39
+PROD01219,Ultra Hp Makeup,Beauty,Makeup,Hp,VEND0147,5776.5,6698.43,921.93
 PROD01416,Elite Apple Education,Books,Education,Apple,VEND0141,29363.18,49694.53,20331.35
-PROD01528,Portable Us Polo Mobile,Electronics,Mobile,US Polo,VEND0072,7528.38,9105.23,1576.85
+PROD01528,Portable Us Polo Mobile,Electronics,Mobile,Us polo,VEND0072,7528.38,9105.23,1576.85
 PROD01680,Pro Milton Mobile,Electronics,Mobile,Milton,VEND0265,36981.2,41855.77,4874.57
-PROD01301,Premium Oneplus Children,Books,Children,OnePlus,VEND0192,21962.11,35397.79,13435.68
+PROD01301,Premium Oneplus Children,Books,Children,Oneplus,VEND0192,21962.11,35397.79,13435.68
 PROD01851,Max Samsung Watches,Fashion,Watches,Samsung,VEND0246,30358.38,34004.93,3646.55
-PROD00801,Mini Hp Watches,Fashion,Watches,HP,VEND0179,5670.87,7645.18,1974.31
+PROD00801,Mini Hp Watches,Fashion,Watches,Hp,VEND0179,5670.87,7645.18,1974.31
 PROD01604,Advanced Fastrack Biography,Books,Biography,Fastrack,VEND0205,37272.46,52087.56,14815.1
 PROD00161,Wireless Borosil Decor,Home,Decor,Borosil,VEND0174,48370.83,61773.66,13402.83
 PROD00957,Premium Boat Decor,Home,Decor,Boat,VEND0069,21961.13,36354.57,14393.44
@@ -1454,31 +1454,31 @@ PROD01251,Smart Lakme Cricket,Sports,Cricket,Lakme,VEND0293,307.71,374.41,66.7
 PROD01689,Elite Reebok Footwear,Fashion,Footwear,Reebok,VEND0214,19321.75,30526.69,11204.94
 PROD00104,Advanced Syska Bags,Fashion,Bags,Syska,VEND0170,17220.68,29240.35,12019.67
 PROD01446,Digital Borosil Hair Care,Beauty,Hair Care,Borosil,VEND0273,24915.37,37648.95,12733.58
-PROD01444,Smart Hp Men Clothing,Fashion,Men Clothing,HP,VEND0085,3880.83,4827.84,947.01
+PROD01444,Smart Hp Men Clothing,Fashion,Men Clothing,Hp,VEND0085,3880.83,4827.84,947.01
 PROD00587,Premium Lenovo Skin Care,Beauty,Skin Care,Lenovo,VEND0071,42569.73,69566.4,26996.67
 PROD01937,Essential Dell Perfume,Beauty,Perfume,Dell,VEND0276,39162.98,65580.17,26417.19
 PROD00054,Ultra Nivea Fitness,Sports,Fitness,Nivea,VEND0022,29146.35,34650.82,5504.47
 PROD00152,Mini Bajaj Makeup,Beauty,Makeup,Bajaj,VEND0154,7940.88,10839.6,2898.72
 PROD00404,Portable Maybelline Cricket,Sports,Cricket,Maybelline,VEND0232,23834.32,32483.78,8649.46
 PROD01973,Advanced Boat Hair Care,Beauty,Hair Care,Boat,VEND0243,30525.66,36456.17,5930.51
-PROD00208,Advanced Lenovo Smart Watch,Electronics,Smart Watch,lenovo,VEND0041,12203.66,17735.86,5532.2
+PROD00208,Advanced Lenovo Smart Watch,Electronics,Smart Watch,Lenovo,VEND0041,12203.66,17735.86,5532.2
 PROD01123,Eco Adidas Biography,Books,Biography,Adidas,VEND0092,48404.49,69496.08,21091.59
 PROD01777,Essential Cello Decor,Home,Decor,Cello,VEND0269,17088.8,24581.88,7493.08
 PROD00009,Mini Mamaearth Furniture,Home,Furniture,Mamaearth,VEND0084,13934.78,20643.13,6708.35
 PROD01015,Mini Reebok Biography,Books,Biography,Reebok,VEND0198,7439.9,11995.22,4555.32
-PROD01824,Pro Us Polo Tablet,Electronics,Tablet,US Polo,VEND0288,43577.82,54946.7,11368.88
+PROD01824,Pro Us Polo Tablet,Electronics,Tablet,Us polo,VEND0288,43577.82,54946.7,11368.88
 PROD01061,Elite Dell Fitness,Sports,Fitness,Dell,VEND0239,33070.98,46695.21,13624.23
-PROD00453,Luxury Bajaj Makeup,Beauty,Makeup,   Bajaj   ,VEND0038,34162.96,53213.44,19050.48
+PROD00453,Luxury Bajaj Makeup,Beauty,Makeup,Bajaj,VEND0038,34162.96,53213.44,19050.48
 PROD01676,Essential Milton Storage,Home,Storage,Milton,VEND0290,18686.9,27517.09,8830.19
 PROD00254,Luxury Cello Women Clothing,Fashion,Women Clothing,Cello,VEND0266,34618.82,45710.97,11092.15
 PROD00897,Max Mi Cricket,Sports,Cricket,Mi,VEND0292,10322.8,16789.57,6466.77
 PROD01760,Advanced Bajaj Cricket,Sports,Cricket,Bajaj,VEND0027,36665.63,58978.76,22313.13
-PROD00881,Portable Lg Smart Watch,Electronics,Smart Watch,LG,VEND0229,4351.67,5810.13,1458.46
+PROD00881,Portable Lg Smart Watch,Electronics,Smart Watch,Lg,VEND0229,4351.67,5810.13,1458.46
 PROD01596,Elite Cello Skin Care,Beauty,Skin Care,Cello,VEND0040,39782.3,53636.37,13854.07
 PROD01919,Elite Nivea Storage,Home,Storage,Nivea,VEND0240,15236.43,23624.31,8387.88
 PROD00624,Portable Bajaj Decor,Home,Decor,Bajaj,VEND0100,36935.58,44983.16,8047.58
 PROD00346,Digital Cello Children,Books,Children,Cello,VEND0196,2391.86,3125.32,733.46
-PROD01728,Mini Oneplus Watches,Fashion,Watches,OnePlus,VEND0113,24771.72,38176.47,13404.75
+PROD01728,Mini Oneplus Watches,Fashion,Watches,Oneplus,VEND0113,24771.72,38176.47,13404.75
 PROD00263,Classic Apple Furniture,Home,Furniture,Apple,VEND0288,36796.96,51494.64,14697.68
 PROD01635,Digital Mi Lighting,Home,Lighting,Mi,VEND0158,3478.53,4709.43,1230.9
 PROD01322,Digital Milton Women Clothing,Fashion,Women Clothing,Milton,VEND0237,2279.53,1367.718,-911.81
@@ -1491,23 +1491,23 @@ PROD01984,Luxury Adidas Smart Watch,Electronics,Smart Watch,Adidas,VEND0212,4404
 PROD00929,Mini Lenovo Smart Watch,Electronics,Smart Watch,Lenovo,VEND0113,26286.95,39727.46,13440.51
 PROD01840,Eco Prestige Watches,Fashion,Watches,Prestige,VEND0243,48334.61,74549.34,26214.73
 PROD01172,Advanced Boat Footwear,Fashion,Footwear,Boat,VEND0017,8777.0,14180.8,5403.8
-PROD00147,Portable Allen Solly Furniture,Home,Furniture,Allen Solly,VEND0052,48917.97,76127.21,27209.24
+PROD00147,Portable Allen Solly Furniture,Home,Furniture,Allen solly,VEND0052,48917.97,76127.21,27209.24
 PROD01730,Premium Lakme Cycling,Sports,Cycling,Lakme,VEND0178,34903.7,48937.33,14033.63
-PROD01959,Essential Hp Cycling,Sports,Cycling,HP,VEND0033,37168.37,22301.022,-14867.35
+PROD01959,Essential Hp Cycling,Sports,Cycling,Hp,VEND0033,37168.37,22301.022,-14867.35
 PROD00403,Luxury Puma Camera,Electronics,Camera,Puma,VEND0106,17449.02,22785.63,5336.61
 PROD00955,Luxury Bajaj Men Clothing,Fashion,Men Clothing,Bajaj,VEND0110,6909.6,11068.19,4158.59
 PROD01908,Smart Casio Laptop,Electronics,Laptop,Casio,VEND0222,36093.62,55786.69,19693.07
 PROD00660,Elite Casio Headphones,Electronics,Headphones,Casio,VEND0077,27196.29,46212.94,19016.65
-PROD01373,Pro Lg Kitchen,Home,Kitchen,LG,VEND0133,37508.29,59469.66,21961.37
+PROD01373,Pro Lg Kitchen,Home,Kitchen,Lg,VEND0133,37508.29,59469.66,21961.37
 PROD01350,Essential Noise Furniture,Home,Furniture,Noise,VEND0105,29651.9,47405.46,17753.56
 PROD00187,Max Lenovo Perfume,Beauty,Perfume,Lenovo,VEND0192,15661.79,20164.78,4502.99
-PROD01148,Advanced Lg Makeup,Beauty,Makeup,LG,VEND0056,27572.17,45504.59,17932.42
+PROD01148,Advanced Lg Makeup,Beauty,Makeup,Lg,VEND0056,27572.17,45504.59,17932.42
 PROD01225,Essential Apple Smart Watch,Electronics,Smart Watch,Apple,VEND0010,20404.31,25306.33,4902.02
 PROD00144,Mini Dell Education,Books,Education,Dell,VEND0204,23501.06,39517.55,16016.49
 PROD00752,Classic Puma Furniture,Home,Furniture,Puma,VEND0160,785.51,966.42,180.91
 PROD01535,Wireless Borosil Children,Books,Children,Borosil,VEND0195,15693.82,23307.43,7613.61
 PROD00982,Smart Maybelline Kitchen,Home,Kitchen,Maybelline,VEND0009,14824.73,22067.86,7243.13
-PROD00198,Premium Lg Fitness,Sports,Fitness,LG,VEND0042,7821.22,12143.71,4322.49
+PROD00198,Premium Lg Fitness,Sports,Fitness,Lg,VEND0042,7821.22,12143.71,4322.49
 PROD01634,Elite Philips Laptop,Electronics,Laptop,Philips,VEND0263,45839.03,61027.58,15188.55
 PROD00884,Elite Wildcraft Smart Watch,Electronics,Smart Watch,Wildcraft,VEND0241,34239.67,52254.17,18014.5
 PROD00280,Classic Borosil Footwear,Fashion,Footwear,Borosil,VEND0153,12281.65,19459.16,7177.51
@@ -1516,34 +1516,34 @@ PROD01852,Eco Casio Skin Care,Beauty,Skin Care,Casio,VEND0016,13744.98,15591.43,
 PROD00123,Classic Titan Cricket,Sports,Cricket,Titan,VEND0166,4068.07,4572.17,504.1
 PROD00203,Classic Cello Mobile,Electronics,Mobile,Cello,VEND0273,37363.36,45038.42,7675.06
 PROD01463,Mini Cello Perfume,Beauty,Perfume,Cello,VEND0205,40001.01,61145.25,21144.24
-PROD00836,Portable Allen Solly Hair Care,Beauty,Hair Care,Allen Solly,VEND0265,14756.27,24368.79,9612.52
+PROD00836,Portable Allen Solly Hair Care,Beauty,Hair Care,Allen solly,VEND0265,14756.27,24368.79,9612.52
 PROD00247,Portable Maybelline Men Clothing,Fashion,Men Clothing,Maybelline,VEND0054,39436.57,51538.92,12102.35
 PROD01440,Max Adidas Education,Books,Education,Adidas,VEND0028,7176.37,10337.82,3161.45
 PROD01734,Wireless Prestige Skin Care,Beauty,Skin Care,Prestige,VEND0044,13934.47,18539.9,4605.43
-PROD01780,Elite Ikea Tablet,Electronics,Tablet,   Ikea   ,VEND0225,8321.35,10590.63,2269.28
+PROD01780,Elite Ikea Tablet,Electronics,Tablet,Ikea,VEND0225,8321.35,10590.63,2269.28
 PROD01932,Pro Boat Outdoor,Sports,Outdoor,Boat,VEND0090,22915.56,35148.71,12233.15
 PROD01708,Ultra Maybelline Cycling,Sports,Cycling,Maybelline,VEND0035,30943.02,44409.99,13466.97
 PROD01911,Classic Prestige Women Clothing,Fashion,Women Clothing,Prestige,VEND0093,25103.08,28302.35,3199.27
-PROD01154,Smart Allen Solly Fiction,Books,Fiction,Allen Solly,VEND0007,26742.08,16045.248,-10696.83
+PROD01154,Smart Allen Solly Fiction,Books,Fiction,Allen solly,VEND0007,26742.08,16045.248,-10696.83
 PROD01662,Elite Samsung Men Clothing,Fashion,Men Clothing,Samsung,VEND0077,24971.4,37739.68,12768.28
 PROD01427,Premium Lenovo Outdoor,Sports,Outdoor,Lenovo,VEND0097,33147.72,37352.22,4204.5
-PROD00385,Essential Us Polo Tablet,Electronics,Tablet,US Polo,VEND0287,19420.59,22349.6,2929.01
+PROD00385,Essential Us Polo Tablet,Electronics,Tablet,Us polo,VEND0287,19420.59,22349.6,2929.01
 PROD01785,Essential Syska Children,Books,Children,Syska,VEND0057,6352.63,8717.78,2365.15
-PROD00855,Mini Casio Makeup,Beauty,Makeup,   Casio   ,VEND0067,26293.29,44620.1,18326.81
+PROD00855,Mini Casio Makeup,Beauty,Makeup,Casio,VEND0067,26293.29,44620.1,18326.81
 PROD01590,Classic Bajaj Headphones,Electronics,Headphones,Bajaj,VEND0013,46033.69,52812.77,6779.08
 PROD00220,Classic Nivea Hair Care,Beauty,Hair Care,Nivea,VEND0174,18673.96,23711.0,5037.04
 PROD00642,Smart Bajaj Skin Care,Beauty,Skin Care,Bajaj,VEND0300,344.65,528.06,183.41
-PROD00002,Pro Allen Solly Fiction,Books,Fiction,Allen Solly,VEND0259,1637.54,1893.35,255.81
+PROD00002,Pro Allen Solly Fiction,Books,Fiction,Allen solly,VEND0259,1637.54,1893.35,255.81
 PROD00699,Max Samsung Women Clothing,Fashion,Women Clothing,Samsung,VEND0205,48783.51,56203.76,7420.25
 PROD01649,Luxury Casio Laptop,Electronics,Laptop,Casio,VEND0005,44068.81,52989.88,8921.07
 PROD01775,Mini Puma Fiction,Books,Fiction,Puma,VEND0233,44785.18,65213.13,20427.95
-PROD01411,Ultra Lg Hair Care,Beauty,Hair Care,LG,VEND0027,4847.58,8165.73,3318.15
+PROD01411,Ultra Lg Hair Care,Beauty,Hair Care,Lg,VEND0027,4847.58,8165.73,3318.15
 PROD01410,Ultra Lenovo Watches,Fashion,Watches,Lenovo,VEND0193,33931.97,57449.9,23517.93
 PROD01534,Advanced Philips Skin Care,Beauty,Skin Care,Philips,VEND0040,19644.93,31304.25,11659.32
 PROD01292,Mini Titan Laptop,Electronics,Laptop,Titan,VEND0043,11727.83,17441.78,5713.95
 PROD01901,Max Ikea Makeup,Beauty,Makeup,Ikea,VEND0092,38353.35,42730.17,4376.82
 PROD00442,Smart Samsung Cricket,Sports,Cricket,Samsung,VEND0217,452.73,591.33,138.6
-PROD01521,Luxury Us Polo Skin Care,Beauty,Skin Care,US Polo,VEND0113,26370.95,41295.74,14924.79
+PROD01521,Luxury Us Polo Skin Care,Beauty,Skin Care,Us polo,VEND0113,26370.95,41295.74,14924.79
 PROD01137,Portable Titan Men Clothing,Fashion,Men Clothing,Titan,VEND0292,16279.53,25053.01,8773.48
 PROD01893,Wireless Maybelline Skin Care,Beauty,Skin Care,Maybelline,VEND0208,34318.98,39838.95,5519.97
 PROD01632,Wireless Mi Perfume,Beauty,Perfume,Mi,VEND0271,24407.9,31834.49,7426.59
@@ -1553,7 +1553,7 @@ PROD00664,Luxury Borosil Outdoor,Sports,Outdoor,Borosil,VEND0250,46961.8,52796.8
 PROD01875,Premium Boat Footwear,Fashion,Footwear,Boat,VEND0225,23368.72,28315.79,4947.07
 PROD01258,Premium Adidas Men Clothing,Fashion,Men Clothing,Adidas,VEND0155,3147.01,4976.78,1829.77
 PROD01801,Classic Lakme Headphones,Electronics,Headphones,Lakme,VEND0227,13117.18,16928.65,3811.47
-PROD01701,Wireless Lg Skin Care,Beauty,Skin Care,LG,VEND0038,30614.59,35778.79,5164.2
+PROD01701,Wireless Lg Skin Care,Beauty,Skin Care,Lg,VEND0038,30614.59,35778.79,5164.2
 PROD00318,Ultra Prestige Cricket,Sports,Cricket,Prestige,VEND0235,9680.93,11303.34,1622.41
 PROD00649,Eco Milton Lighting,Home,Lighting,Milton,VEND0130,7165.63,8673.25,1507.62
 PROD01435,Pro Philips Women Clothing,Fashion,Women Clothing,Philips,VEND0194,13718.66,15896.75,2178.09
@@ -1562,11 +1562,11 @@ PROD00710,Eco Borosil Outdoor,Sports,Outdoor,Borosil,VEND0138,15727.95,19363.3,3
 PROD01383,Wireless Mi Cricket,Sports,Cricket,Mi,VEND0165,206.3,305.91,99.61
 PROD01769,Elite Casio Smart Watch,Electronics,Smart Watch,Casio,VEND0052,38287.2,58458.01,20170.81
 PROD00973,Portable Prestige Biography,Books,Biography,Prestige,VEND0292,10150.43,11940.23,1789.8
-PROD00628,Wireless Lg Decor,Home,Decor,LG,VEND0155,38694.36,57082.69,18388.33
+PROD00628,Wireless Lg Decor,Home,Decor,Lg,VEND0155,38694.36,57082.69,18388.33
 PROD00633,Smart Lakme Camera,Electronics,Camera,Lakme,VEND0198,19099.56,30133.83,11034.27
 PROD01401,Smart Lakme Furniture,Home,Furniture,Lakme,VEND0141,15479.13,26224.76,10745.63
-PROD01409,Portable Oneplus Women Clothing,Fashion,Women Clothing,OnePlus,VEND0005,10945.92,16955.55,6009.63
-PROD01249,Elite Us Polo Bags,Fashion,Bags,US Polo,VEND0254,13738.08,20718.45,6980.37
+PROD01409,Portable Oneplus Women Clothing,Fashion,Women Clothing,Oneplus,VEND0005,10945.92,16955.55,6009.63
+PROD01249,Elite Us Polo Bags,Fashion,Bags,Us polo,VEND0254,13738.08,20718.45,6980.37
 PROD01983,Essential Loreal Mobile,Electronics,Mobile,Loreal,VEND0146,13838.51,18289.93,4451.42
 PROD01255,Premium Borosil Furniture,Home,Furniture,Borosil,VEND0171,11956.04,15596.43,3640.39
 PROD01372,Eco Noise Lighting,Home,Lighting,Noise,VEND0109,25155.56,29334.98,4179.42
@@ -1575,12 +1575,12 @@ PROD01355,Smart Apple Lighting,Home,Lighting,Apple,VEND0154,38108.37,51691.66,13
 PROD01956,Wireless Dell Watches,Fashion,Watches,Dell,VEND0276,13610.1,22824.05,9213.95
 PROD01931,Luxury Nivea Fiction,Books,Fiction,Nivea,VEND0200,1184.84,1730.82,545.98
 PROD01644,Portable Reebok Women Clothing,Fashion,Women Clothing,Reebok,VEND0138,19625.81,22781.3,3155.49
-PROD01878,Eco Us Polo Fitness,Sports,Fitness,US Polo,VEND0206,21323.42,26901.98,5578.56
+PROD01878,Eco Us Polo Fitness,Sports,Fitness,Us polo,VEND0206,21323.42,26901.98,5578.56
 PROD00796,Eco Reebok Furniture,Home,Furniture,Reebok,VEND0259,48553.46,75340.6,26787.14
 PROD00646,Luxury Wildcraft Women Clothing,Fashion,Women Clothing,Wildcraft,VEND0192,33880.59,55852.2,21971.61
-PROD01013,Digital Hp Furniture,Home,Furniture,HP,VEND0045,26943.69,36839.43,9895.74
+PROD01013,Digital Hp Furniture,Home,Furniture,Hp,VEND0045,26943.69,36839.43,9895.74
 PROD00557,Digital Bajaj Women Clothing,Fashion,Women Clothing,Bajaj,VEND0184,31933.76,44242.34,12308.58
-PROD00682,Eco Hp Fitness,Sports,Fitness,HP,VEND0277,24137.93,28439.24,4301.31
+PROD00682,Eco Hp Fitness,Sports,Fitness,Hp,VEND0277,24137.93,28439.24,4301.31
 PROD01820,Smart Wildcraft Fitness,Sports,Fitness,Wildcraft,VEND0049,16655.15,26411.88,9756.73
 PROD01110,Classic Lakme Storage,Home,Storage,Lakme,VEND0189,39986.46,48751.42,8764.96
 PROD01723,Pro Loreal Women Clothing,Fashion,Women Clothing,Loreal,VEND0048,21854.42,24799.38,2944.96
@@ -1590,16 +1590,16 @@ PROD00541,Advanced Milton Tablet,Electronics,Tablet,Milton,VEND0292,20199.09,316
 PROD01195,Luxury Samsung Watches,Fashion,Watches,Samsung,VEND0298,22684.7,38331.93,15647.23
 PROD01899,Premium Fastrack Storage,Home,Storage,Fastrack,VEND0063,21772.66,30021.4,8248.74
 PROD01431,Digital Dell Outdoor,Sports,Outdoor,Dell,VEND0099,31496.93,39737.78,8240.85
-PROD01758,Digital Oneplus Biography,Books,Biography,OnePlus,VEND0077,18973.04,27503.54,8530.5
-PROD00096,Digital Allen Solly Education,Books,Education,Allen Solly,VEND0139,8848.04,12502.71,3654.67
+PROD01758,Digital Oneplus Biography,Books,Biography,Oneplus,VEND0077,18973.04,27503.54,8530.5
+PROD00096,Digital Allen Solly Education,Books,Education,Allen solly,VEND0139,8848.04,12502.71,3654.67
 PROD01021,Ultra Fastrack Storage,Home,Storage,Fastrack,VEND0103,35526.84,55178.38,19651.54
 PROD00564,Ultra Fastrack Bags,Fashion,Bags,Fastrack,VEND0042,7204.05,11652.09,4448.04
 PROD00743,Ultra Samsung Men Clothing,Fashion,Men Clothing,Samsung,VEND0177,26189.65,40724.28,14534.63
-PROD00864,Advanced Us Polo Bags,Fashion,Bags,US Polo,VEND0154,46393.11,52591.85,6198.74
+PROD00864,Advanced Us Polo Bags,Fashion,Bags,Us polo,VEND0154,46393.11,52591.85,6198.74
 PROD01599,Advanced Maybelline Tablet,Electronics,Tablet,Maybelline,VEND0003,24221.35,35566.7,11345.35
-PROD01715,Portable Lg Decor,Home,Decor,LG,VEND0169,7007.47,10008.44,3000.97
+PROD01715,Portable Lg Decor,Home,Decor,Lg,VEND0169,7007.47,10008.44,3000.97
 PROD01485,Digital Mi Camera,Electronics,Camera,Mi,VEND0273,37048.72,49589.57,12540.85
-PROD01578,Eco Us Polo Fiction,Books,Fiction,US Polo,VEND0279,5228.58,8104.12,2875.54
+PROD01578,Eco Us Polo Fiction,Books,Fiction,Us polo,VEND0279,5228.58,8104.12,2875.54
 PROD01039,Luxury Nike Smart Watch,Electronics,Smart Watch,Nike,VEND0221,3932.88,6154.23,2221.35
 PROD00207,Wireless Boat Tablet,Electronics,Tablet,Boat,VEND0186,40076.04,58946.85,18870.81
 PROD00393,Digital Mi Men Clothing,Fashion,Men Clothing,Mi,VEND0282,29631.74,42295.68,12663.94
@@ -1607,7 +1607,7 @@ PROD00795,Advanced Lakme Fitness,Sports,Fitness,Lakme,VEND0114,27019.49,32146.38
 PROD00871,Advanced Loreal Kitchen,Home,Kitchen,Loreal,VEND0159,46185.66,71101.19,24915.53
 PROD00398,Eco Nivea Fitness,Sports,Fitness,Nivea,VEND0044,35096.63,55711.62,20614.99
 PROD00767,Wireless Lakme Cycling,Sports,Cycling,Lakme,VEND0284,36633.5,46348.51,9715.01
-PROD01870,Advanced Oneplus Footwear,Fashion,Footwear,OnePlus,VEND0138,17141.95,28817.23,11675.28
+PROD01870,Advanced Oneplus Footwear,Fashion,Footwear,Oneplus,VEND0138,17141.95,28817.23,11675.28
 PROD01242,Max Mi Footwear,Fashion,Footwear,Mi,VEND0114,4543.83,6670.64,2126.81
 PROD01029,Mini Adidas Bags,Fashion,Bags,Adidas,VEND0215,17901.4,20259.61,2358.21
 PROD01793,Eco Samsung Education,Books,Education,Samsung,VEND0107,21744.22,30320.46,8576.24
@@ -1627,15 +1627,15 @@ PROD00930,Smart Casio Biography,Books,Biography,Casio,VEND0030,9694.32,10801.61,
 PROD00780,Ultra Syska Kitchen,Home,Kitchen,Syska,VEND0286,32860.98,47386.08,14525.1
 PROD01864,Essential Canon Skin Care,Beauty,Skin Care,Canon,VEND0098,15423.73,23267.23,7843.5
 PROD00201,Premium Sony Cycling,Sports,Cycling,Sony,VEND0004,11064.9,18707.07,7642.17
-PROD00135,Pro Us Polo Cycling,Sports,Cycling,US Polo,VEND0234,41744.46,70470.78,28726.32
+PROD00135,Pro Us Polo Cycling,Sports,Cycling,Us polo,VEND0234,41744.46,70470.78,28726.32
 PROD01052,Premium Borosil Furniture,Home,Furniture,Borosil,VEND0252,46957.15,62005.27,15048.12
 PROD00041,Eco Milton Furniture,Home,Furniture,Milton,VEND0035,4051.57,4908.46,856.89
-PROD01018,Smart Us Polo Lighting,Home,Lighting,US Polo,VEND0074,7021.41,10197.25,3175.84
+PROD01018,Smart Us Polo Lighting,Home,Lighting,Us polo,VEND0074,7021.41,10197.25,3175.84
 PROD00231,Luxury Titan Cycling,Sports,Cycling,Titan,VEND0241,11738.45,14596.78,2858.33
 PROD01514,Essential Prestige Men Clothing,Fashion,Men Clothing,Prestige,VEND0136,45815.91,68588.21,22772.3
 PROD01797,Essential Ikea Cricket,Sports,Cricket,Ikea,VEND0148,4871.83,5687.47,815.64
 PROD00379,Digital Mamaearth Decor,Home,Decor,Mamaearth,VEND0195,21620.8,32600.21,10979.41
-PROD00419,Pro Hp Hair Care,Beauty,Hair Care,HP,VEND0150,28291.62,44630.84,16339.22
+PROD00419,Pro Hp Hair Care,Beauty,Hair Care,Hp,VEND0150,28291.62,44630.84,16339.22
 PROD01699,Mini Lenovo Camera,Electronics,Camera,Lenovo,VEND0119,24996.72,37684.89,12688.17
 PROD00392,Luxury Canon Bags,Fashion,Bags,Canon,VEND0202,16328.02,20706.87,4378.85
 PROD00593,Classic Borosil Education,Books,Education,Borosil,VEND0226,46023.88,53744.96,7721.08
@@ -1644,8 +1644,8 @@ PROD01163,Eco Sony Makeup,Beauty,Makeup,Sony,VEND0250,24400.45,33957.14,9556.69
 PROD01087,Luxury Nike Hair Care,Beauty,Hair Care,Nike,VEND0159,7540.61,8420.01,879.4
 PROD01496,Digital Philips Lighting,Home,Lighting,Philips,VEND0203,16246.94,19859.47,3612.53
 PROD00648,Portable Wildcraft Fitness,Sports,Fitness,Wildcraft,VEND0177,10542.14,16286.11,5743.97
-PROD01153,Eco Oneplus Women Clothing,Fashion,Women Clothing,OnePlus,VEND0133,9295.12,14390.87,5095.75
-PROD01368,Luxury Hp Children,Books,Children,HP,VEND0177,5508.24,7951.51,2443.27
+PROD01153,Eco Oneplus Women Clothing,Fashion,Women Clothing,Oneplus,VEND0133,9295.12,14390.87,5095.75
+PROD01368,Luxury Hp Children,Books,Children,Hp,VEND0177,5508.24,7951.51,2443.27
 PROD00521,Digital Mi Children,Books,Children,Mi,VEND0150,4894.5,5991.71,1097.21
 PROD01863,Pro Apple Decor,Home,Decor,Apple,VEND0192,38347.79,60330.35,21982.56
 PROD01881,Premium Maybelline Women Clothing,Fashion,Women Clothing,Maybelline,VEND0076,22962.74,27537.04,4574.3
@@ -1673,7 +1673,7 @@ PROD00456,Essential Prestige Education,Books,Education,Prestige,VEND0105,4225.67
 PROD00816,Wireless Casio Camera,Electronics,Camera,Casio,VEND0016,43939.93,71808.45,27868.52
 PROD01887,Digital Reebok Bags,Fashion,Bags,Reebok,VEND0014,26729.05,999999.0,973269.95
 PROD00996,Advanced Puma Camera,Electronics,Camera,Puma,VEND0012,24841.62,40367.53,15525.91
-PROD00202,Max Oneplus Decor,Home,Decor,OnePlus,VEND0168,38379.11,59813.71,21434.6
+PROD00202,Max Oneplus Decor,Home,Decor,Oneplus,VEND0168,38379.11,59813.71,21434.6
 PROD00162,Wireless Dell Smart Watch,Electronics,Smart Watch,Dell,VEND0204,7080.81,11895.05,4814.24
 PROD01580,Smart Philips Hair Care,Beauty,Hair Care,Philips,VEND0101,38855.17,55599.91,16744.74
 PROD00730,Wireless Ikea Smart Watch,Electronics,Smart Watch,Ikea,VEND0086,23214.42,38859.93,15645.51
@@ -1682,11 +1682,11 @@ PROD01846,Elite Puma Decor,Home,Decor,Puma,VEND0129,42001.81,60326.84,18325.03
 PROD01796,Eco Cello Decor,Home,Decor,Cello,VEND0183,24536.59,36265.48,11728.89
 PROD01130,Elite Maybelline Smart Watch,Electronics,Smart Watch,Maybelline,VEND0253,49441.49,71023.33,21581.84
 PROD00566,Smart Boat Kitchen,Home,Kitchen,Boat,VEND0067,24504.38,38181.29,13676.91
-PROD01414,Digital Hp Children,Books,Children,HP,VEND0196,38897.65,62972.86,24075.21
+PROD01414,Digital Hp Children,Books,Children,Hp,VEND0196,38897.65,62972.86,24075.21
 PROD01022,Wireless Ikea Lighting,Home,Lighting,Ikea,VEND0155,27715.65,31189.52,3473.87
 PROD01412,Digital Loreal Headphones,Electronics,Headphones,Loreal,VEND0207,29689.95,49933.63,20243.68
 PROD01896,Portable Titan Fiction,Books,Fiction,Titan,VEND0172,25127.98,39415.8,14287.82
-PROD01586,Portable Allen Solly Headphones,Electronics,Headphones,Allen Solly,VEND0089,6487.08,9612.32,3125.24
+PROD01586,Portable Allen Solly Headphones,Electronics,Headphones,Allen solly,VEND0089,6487.08,9612.32,3125.24
 PROD01105,Advanced Lenovo Bags,Fashion,Bags,Lenovo,VEND0034,41228.82,62630.26,21401.44
 PROD00206,Smart Reebok Cricket,Sports,Cricket,Reebok,VEND0208,35489.47,47932.66,12443.19
 PROD00035,Pro Adidas Cricket,Sports,Cricket,Adidas,VEND0039,21122.99,26765.51,5642.52
@@ -1696,7 +1696,7 @@ PROD01452,Pro Ikea Fitness,Sports,Fitness,Ikea,VEND0002,14993.94,19134.17,4140.2
 PROD01479,Essential Nike Laptop,Electronics,Laptop,Nike,VEND0098,2099.89,3529.91,1430.02
 PROD01391,Classic Boat Skin Care,Beauty,Skin Care,Boat,VEND0144,46453.72,60199.4,13745.68
 PROD01364,Ultra Casio Education,Books,Education,Casio,VEND0131,30291.51,50482.59,20191.08
-PROD00898,Smart Allen Solly Biography,Books,Biography,Allen Solly,VEND0299,35903.67,59207.69,23304.02
+PROD00898,Smart Allen Solly Biography,Books,Biography,Allen solly,VEND0299,35903.67,59207.69,23304.02
 PROD00565,Elite Noise Makeup,Beauty,Makeup,Noise,VEND0141,15705.03,17822.2,2117.17
 PROD01370,Classic Samsung Lighting,Home,Lighting,Samsung,VEND0269,4888.69,7647.11,2758.42
 PROD00014,Ultra Reebok Lighting,Home,Lighting,Reebok,VEND0136,44239.92,65727.74,21487.82
@@ -1713,24 +1713,24 @@ PROD01529,Luxury Borosil Biography,Books,Biography,Borosil,VEND0007,20605.55,268
 PROD00832,Eco Reebok Biography,Books,Biography,Reebok,VEND0275,30594.67,47283.47,16688.8
 PROD01268,Premium Milton Laptop,Electronics,Laptop,Milton,VEND0217,40968.23,58816.86,17848.63
 PROD01591,Ultra Fastrack Education,Books,Education,Fastrack,VEND0123,31741.43,49724.66,17983.23
-PROD00563,Ultra Us Polo Cycling,Sports,Cycling,US Polo,VEND0103,2750.4,4435.14,1684.74
+PROD00563,Ultra Us Polo Cycling,Sports,Cycling,Us polo,VEND0103,2750.4,4435.14,1684.74
 PROD00687,Portable Syska Fitness,Sports,Fitness,Syska,VEND0162,409.34,611.03,201.69
 PROD00958,Elite Mamaearth Camera,Electronics,Camera,Mamaearth,VEND0042,38894.2,43148.38,4254.18
-PROD00190,Luxury Us Polo Men Clothing,Fashion,Men Clothing,US Polo,VEND0217,17712.22,26554.24,8842.02
+PROD00190,Luxury Us Polo Men Clothing,Fashion,Men Clothing,Us polo,VEND0217,17712.22,26554.24,8842.02
 PROD01807,Max Bajaj Kitchen,Home,Kitchen,Bajaj,VEND0083,19806.54,30317.72,10511.18
-PROD00976,Wireless Hp Outdoor,Sports,Outdoor,HP,VEND0111,20614.22,29129.16,8514.94
+PROD00976,Wireless Hp Outdoor,Sports,Outdoor,Hp,VEND0111,20614.22,29129.16,8514.94
 PROD00700,Portable Reebok Bags,Fashion,Bags,Reebok,VEND0036,29324.7,41366.76,12042.06
 PROD01500,Elite Dell Hair Care,Beauty,Hair Care,Dell,VEND0207,7218.94,9787.71,2568.77
 PROD00511,Pro Loreal Furniture,Home,Furniture,Loreal,VEND0035,22359.17,28153.05,5793.88
-PROD01083,Premium Allen Solly Watches,Fashion,Watches,Allen Solly,VEND0268,46735.06,71783.61,25048.55
-PROD00475,Wireless Hp Biography,Books,Biography,HP,VEND0267,2242.82,2778.59,535.77
-PROD01585,Pro Allen Solly Women Clothing,Fashion,Women Clothing,Allen Solly,VEND0202,12129.46,20427.15,8297.69
+PROD01083,Premium Allen Solly Watches,Fashion,Watches,Allen solly,VEND0268,46735.06,71783.61,25048.55
+PROD00475,Wireless Hp Biography,Books,Biography,Hp,VEND0267,2242.82,2778.59,535.77
+PROD01585,Pro Allen Solly Women Clothing,Fashion,Women Clothing,Allen solly,VEND0202,12129.46,20427.15,8297.69
 PROD00857,Premium Ikea Outdoor,Sports,Outdoor,Ikea,VEND0239,48963.92,53906.76,4942.84
 PROD00748,Max Ikea Cycling,Sports,Cycling,Ikea,VEND0212,32440.43,46038.37,13597.94
 PROD00253,Elite Nivea Men Clothing,Fashion,Men Clothing,Nivea,VEND0198,21875.72,29313.75,7438.03
 PROD00022,Luxury Puma Outdoor,Sports,Outdoor,Puma,VEND0272,18727.0,22414.9,3687.9
 PROD01338,Eco Bajaj Camera,Electronics,Camera,Bajaj,VEND0088,39573.43,65428.11,25854.68
-PROD01185,Essential Lg Lighting,Home,Lighting,LG,VEND0078,19693.65,22101.32,2407.67
+PROD01185,Essential Lg Lighting,Home,Lighting,Lg,VEND0078,19693.65,22101.32,2407.67
 PROD00277,Eco Boat Outdoor,Sports,Outdoor,Boat,VEND0173,32953.71,50497.59,17543.88
 PROD00956,Ultra Noise Headphones,Electronics,Headphones,Noise,VEND0213,16808.41,19706.97,2898.56
 PROD01216,Portable Prestige Furniture,Home,Furniture,Prestige,VEND0297,39348.51,49074.36,9725.85
@@ -1740,12 +1740,12 @@ PROD00344,Digital Canon Cycling,Sports,Cycling,Canon,VEND0267,15123.13,17935.37,
 PROD00770,Portable Nivea Headphones,Electronics,Headphones,Nivea,VEND0033,38812.03,48253.91,9441.88
 PROD01333,Advanced Boat Camera,Electronics,Camera,Boat,VEND0056,36214.37,40792.14,4577.77
 PROD01686,Classic Titan Watches,Fashion,Watches,Titan,VEND0075,42972.73,63182.59,20209.86
-PROD00131,Advanced Titan Cricket,Sports,Cricket,titan,VEND0068,38011.53,46455.22,8443.69
+PROD00131,Advanced Titan Cricket,Sports,Cricket,Titan,VEND0068,38011.53,46455.22,8443.69
 PROD01688,Smart Borosil Outdoor,Sports,Outdoor,Borosil,VEND0253,24049.3,30630.86,6581.56
 PROD01124,Elite Milton Women Clothing,Fashion,Women Clothing,Milton,VEND0068,24667.35,32154.04,7486.69
 PROD01397,Pro Samsung Bags,Fashion,Bags,Samsung,VEND0199,15574.41,22645.75,7071.34
 PROD00088,Digital Philips Tablet,Electronics,Tablet,Philips,VEND0021,32524.7,51022.79,18498.09
-PROD00331,Elite Lg Cricket,Sports,Cricket,LG,VEND0289,22698.94,31958.94,9260.0
+PROD00331,Elite Lg Cricket,Sports,Cricket,Lg,VEND0289,22698.94,31958.94,9260.0
 PROD01239,Wireless Titan Fitness,Sports,Fitness,Titan,VEND0193,33628.68,44114.0,10485.32
 PROD00467,Portable Philips Cricket,Sports,Cricket,Philips,VEND0164,16124.01,21763.45,5639.44
 PROD00122,Classic Nike Bags,Fashion,Bags,Nike,VEND0140,23461.46,30088.26,6626.8
