@@ -2,7 +2,7 @@
 
 > **End-to-End Data Analytics Project using Python, SQL, MySQL, Power BI & Excel**
 
-![Project Banner](images/project-banner.jpg)
+![Project Banner](images/project-banner.JPG)
 
 ## 📌 Project Overview
 
@@ -123,7 +123,7 @@ The dataset was designed to simulate realistic relationships between customers, 
 
 # 🗄️ Database Schema
 
-![Database Schema](images/database-schema.jpg)
+![Database Schema](images/database-schema.JPG)
 
 ## Main Relationships
 
@@ -271,7 +271,7 @@ The Power BI solution contains multiple interconnected analytics pages.
 
 # 1️⃣ Executive Dashboard
 
-![Executive Dashboard](images/executive-dashboard.jpg)
+![Executive Dashboard](images/executive-dashboard.JPG)
 
 ### Purpose
 
@@ -302,7 +302,7 @@ Provides a high-level overview of overall business performance.
 
 # 2️⃣ Sales Analytics
 
-![Sales Dashboard](images/sales-dashboard.jpg)
+![Sales Dashboard](images/sales-dashboard.JPG)
 
 ### KPIs
 
@@ -335,7 +335,7 @@ Provides a high-level overview of overall business performance.
 
 # 3️⃣ Customer Analytics
 
-![Customer Dashboard](images/customer-dashboard.jpg)
+![Customer Dashboard](images/customer-dashboard.JPG)
 
 ### KPIs
 
@@ -369,7 +369,7 @@ Provides a high-level overview of overall business performance.
 
 # 4️⃣ Product Analytics
 
-![Product Dashboard](images/product-dashboard.jpg)
+![Product Dashboard](images/product-dashboard.JPG)
 
 ### Analysis
 
@@ -392,7 +392,7 @@ Provides a high-level overview of overall business performance.
 
 # 5️⃣ Inventory Analytics
 
-![Inventory Dashboard](images/inventory-dashboard.jpg)
+![Inventory Dashboard](images/inventory-dashboard.JPG)
 
 ### KPIs
 
@@ -422,7 +422,7 @@ Provides a high-level overview of overall business performance.
 
 # 6️⃣ Warehouse Analytics
 
-![Warehouse Dashboard](images/warehouse-dashboard.jpg)
+![Warehouse Dashboard](images/warehouse-dashboard.JPG)
 
 ### Analysis
 
@@ -443,7 +443,7 @@ Provides a high-level overview of overall business performance.
 
 # 7️⃣ Shipping Analytics
 
-![Shipping Dashboard](images/shipping-dashboard.jpg)
+![Shipping Dashboard](images/shipping-dashboard.JPG)
 
 ### KPIs
 
@@ -476,7 +476,7 @@ Provides a high-level overview of overall business performance.
 
 # 8️⃣ Returns Analytics
 
-![Returns Dashboard](images/returns-dashboard.jpg)
+![Returns Dashboard](images/returns-dashboard.JPG)
 
 ### KPIs
 
@@ -512,7 +512,7 @@ A Pareto analysis can identify the small number of return reasons responsible fo
 
 # 9️⃣ Vendor Analytics
 
-![Vendor Dashboard](images/vendor-dashboard.jpg)
+![Vendor Dashboard](images/vendor-dashboard.JPG)
 
 ### KPIs
 
@@ -545,7 +545,7 @@ A Pareto analysis can identify the small number of return reasons responsible fo
 
 # 🔟 Promotion Analytics
 
-![Promotion Dashboard](images/promotion-dashboard.jpg)
+![Promotion Dashboard](images/promotion-dashboard.JPG)
 
 ### KPIs
 
@@ -577,7 +577,7 @@ A Pareto analysis can identify the small number of return reasons responsible fo
 
 # 1️⃣1️⃣ Employee / Workforce Analytics
 
-![Employee Dashboard](images/employee-dashboard.jpg)
+![Employee Dashboard](images/employee-dashboard.JPG)
 
 ### KPIs
 
